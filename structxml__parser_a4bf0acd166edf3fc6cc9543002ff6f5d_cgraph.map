@@ -1,0 +1,9 @@
+<map id="xml_parser::parse" name="xml_parser::parse">
+<area shape="rect" id="node2" href="$pugixml_8cpp.html#a9081c36df7470451a2a067677ee9e423" title="make_parse_result" alt="" coords="205,5,351,32"/>
+<area shape="rect" id="node3" href="$structxml__parser.html#a96e76ebea8834b3e56e1c8646e593da4" title="xml_parser::parse_tree" alt="" coords="192,56,364,83"/>
+<area shape="rect" id="node4" href="$pugixml_8cpp.html#a2ea43b65ff9cfdf86459c60a1a0849ec" title="get_strconv_attribute" alt="" coords="412,5,573,32"/>
+<area shape="rect" id="node5" href="$pugixml_8cpp.html#a2f80cbdc79c199f54f617b8c42a37bec" title="get_strconv_pcdata" alt="" coords="418,56,567,83"/>
+<area shape="rect" id="node6" href="$pugixml_8cpp.html#aad3b67164b1e0fe8b1e9c57fe55dc8bc" title="append_attribute_ll" alt="" coords="419,107,567,133"/>
+<area shape="rect" id="node7" href="$pugixml_8cpp.html#aa5c147125f246a331c4a30df8e096960" title="allocate_attribute" alt="" coords="621,107,759,133"/>
+<area shape="rect" id="node8" href="$structxml__allocator.html#afac0b9fac2c2962972f60d0346eb4f39" title="xml_allocator::allocate\l_memory" alt="" coords="807,99,977,141"/>
+</map>

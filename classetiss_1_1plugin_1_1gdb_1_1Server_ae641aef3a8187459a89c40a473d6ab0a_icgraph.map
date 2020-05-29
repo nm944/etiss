@@ -1,0 +1,10 @@
+<map id="etiss::plugin::gdb::Server::handlePacket" name="etiss::plugin::gdb::Server::handlePacket">
+<area shape="rect" id="node2" href="$classetiss_1_1plugin_1_1gdb_1_1Server.html#a0b42a227476616e0e6b7788661a1bd14" title="called before a block and may act in the same way as a block " alt="" coords="281,5,414,47"/>
+<area shape="rect" id="node3" href="$classetiss_1_1plugin_1_1gdb_1_1Server.html#af2d20da879692be332064d7e082f2833" title="etiss::plugin::gdb\l::Server::preInstructionCallback" alt="" coords="234,71,461,112"/>
+<area shape="rect" id="node4" href="$classetiss_1_1plugin_1_1gdb_1_1Server.html#ae06e9ac2d95f66a3ce80560cabdce7d2" title="etiss::plugin::gdb\l::Server::preMemoryAccessCallback" alt="" coords="220,136,475,177"/>
+<area shape="rect" id="node5" href="$GDBSystemWrapper_8cpp.html#a1e62443ab4b754f069e362077b675991" title="gdb_system_call_iread" alt="" coords="527,67,697,94"/>
+<area shape="rect" id="node7" href="$GDBSystemWrapper_8cpp.html#a1282454689cbd0a6834efb38ecc87c9a" title="gdb_system_call_iwrite" alt="" coords="525,118,699,145"/>
+<area shape="rect" id="node8" href="$GDBSystemWrapper_8cpp.html#aad56c1dc9334271824d32f9e45feb462" title="gdb_system_call_dread" alt="" coords="525,169,699,195"/>
+<area shape="rect" id="node9" href="$GDBSystemWrapper_8cpp.html#a32953af52dfa80a165bfa6944be2e7fe" title="gdb_system_call_dwrite" alt="" coords="523,219,701,246"/>
+<area shape="rect" id="node6" href="$classetiss_1_1plugin_1_1gdb_1_1Server.html#a5cba6c4a3621360bf1125df0b124d63e" title="etiss::plugin::gdb\l::Server::wrap" alt="" coords="749,136,883,177"/>
+</map>

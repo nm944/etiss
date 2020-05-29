@@ -1,0 +1,9 @@
+<map id="load_file_impl" name="load_file_impl">
+<area shape="rect" id="node2" href="$pugixml_8cpp.html#ae841fafba520d2341dc8386a6f825ac6" title="get_buffer_encoding" alt="" coords="173,5,327,32"/>
+<area shape="rect" id="node6" href="$pugixml_8cpp.html#a62a3aaae374ea438f3b13324b1254b2d" title="get_file_size" alt="" coords="199,56,301,83"/>
+<area shape="rect" id="node7" href="$pugixml_8cpp.html#a9081c36df7470451a2a067677ee9e423" title="make_parse_result" alt="" coords="177,107,323,133"/>
+<area shape="rect" id="node8" href="$pugixml_8cpp.html#a2a34bcc0f03213bd1a9bb8a488682d3a" title="zero_terminate_buffer" alt="" coords="167,157,333,184"/>
+<area shape="rect" id="node3" href="$pugixml_8cpp.html#a1d386e9425e75d35b01373e46f186b9c" title="get_wchar_encoding" alt="" coords="389,81,544,108"/>
+<area shape="rect" id="node4" href="$pugixml_8cpp.html#a282e2854710450f313ea03bb59a8f681" title="is_little_endian" alt="" coords="600,31,721,57"/>
+<area shape="rect" id="node5" href="$pugixml_8cpp.html#ac4aca43b7a1cc8918a214f00c7c9af47" title="guess_buffer_encoding" alt="" coords="381,31,552,57"/>
+</map>

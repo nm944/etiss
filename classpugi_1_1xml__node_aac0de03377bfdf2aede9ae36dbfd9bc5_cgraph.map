@@ -1,0 +1,9 @@
+<map id="pugi::xml_node::select_single_node" name="pugi::xml_node::select_single_node">
+<area shape="rect" id="node2" href="$classpugi_1_1xpath__node__set.html#a0bf4e1c7a28ad29f8018d7b7c7a43257" title="pugi::xpath_node_set\l::empty" alt="" coords="223,5,384,47"/>
+<area shape="rect" id="node3" href="$classpugi_1_1xpath__query.html#a6974c480b532ad18bc1526819171bda4" title="pugi::xpath_query::\levaluate_node_set" alt="" coords="230,71,377,112"/>
+<area shape="rect" id="node4" href="$classpugi_1_1xpath__node__set.html#a9fcda507a65af61e2f45cdf96c791044" title="pugi::xpath_node_set\l::first" alt="" coords="223,136,384,177"/>
+<area shape="rect" id="node5" href="$pugixml_8cpp.html#aca111b93f54ac52bd9a932ffda372368" title="xpath_first" alt="" coords="432,143,523,170"/>
+<area shape="rect" id="node6" href="$classpugi_1_1xml__node.html#ae42dc1a560ee36a16f907cd7aa89cc9c" title="pugi::xml_node::begin" alt="" coords="727,118,893,145"/>
+<area shape="rect" id="node7" href="$pugixml_8cpp.html#a37eb89acc08a977a8f07c737048f1082" title="min_element" alt="" coords="571,169,679,195"/>
+<area shape="rect" id="node8" href="$classpugi_1_1xml__node.html#a6c1f42812de4e25ac72908efab842126" title="pugi::xml_node::end" alt="" coords="733,169,887,195"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="pugi::xml_text::set" name="pugi::xml_text::set">
+<area shape="rect" id="node2" href="$classpugi_1_1xml__text.html#a3681b33febe5fc3acbe59ee7afbfb018" title="pugi::xml_text::_data_new" alt="" coords="389,28,584,55"/>
+<area shape="rect" id="node5" href="$classpugi_1_1xml__text.html#ab31930ff4f5ad568549f85dbb697e60e" title="pugi::xml_text::set" alt="" coords="197,79,341,105"/>
+<area shape="rect" id="node11" href="$pugixml_8cpp.html#a376292f4d74bfb179f38bd30dd66c2e4" title="set_value_convert" alt="" coords="199,129,340,156"/>
+<area shape="rect" id="node3" href="$classpugi_1_1xml__text.html#afb6b6b66653867c496c3fcc5db0376d4" title="pugi::xml_text::_data" alt="" coords="632,17,792,44"/>
+<area shape="rect" id="node4" href="$pugixml_8cpp.html#a78cb6a1f92159f3649ac191400feb3a2" title="is_text_node" alt="" coords="881,5,986,32"/>
+<area shape="rect" id="node6" href="$pugixml_8cpp.html#ab9527027631039c4e2361e30f2c0788e" title="strcpy_insitu" alt="" coords="659,129,765,156"/>
+<area shape="rect" id="node7" href="$structxml__allocator.html#ac5ec2b5d41672d6494a2742e95e525b3" title="xml_allocator::allocate\l_string" alt="" coords="848,57,1019,98"/>
+<area shape="rect" id="node8" href="$structxml__allocator.html#af32c538db4d562c2d0bfe15f7c0aa879" title="xml_allocator::deallocate\l_string" alt="" coords="840,122,1027,163"/>
+<area shape="rect" id="node9" href="$pugixml_8cpp.html#a230775a8b2b7883f8dffc32b550a267c" title="strcpy_insitu_allow" alt="" coords="860,188,1007,215"/>
+<area shape="rect" id="node10" href="$pugixml_8cpp.html#aab9e1f034d085b663d146fcceabb1c48" title="strlength" alt="" coords="1075,213,1155,240"/>
+<area shape="rect" id="node12" href="$pugixml_8cpp.html#ab5661e636fc32d2d065fb10a58fedd10" title="set_value_buffer" alt="" coords="421,129,552,156"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="etiss::SimpleSystem::~SimpleSystem" name="etiss::SimpleSystem::~SimpleSystem">
+<area shape="rect" id="node2" href="$classetiss_1_1System.html#a7537710e2f551d9102e173b8bc412999" title="Debug read operation. " alt="" coords="209,5,388,32"/>
+<area shape="rect" id="node3" href="$classetiss_1_1System.html#a15248245d004b10184eea6497116c4e0" title="Debug write operation. " alt="" coords="227,57,370,98"/>
+<area shape="rect" id="node4" href="$classetiss_1_1System.html#ae1a7f9202ac665f3e2ef72ee913c34b8" title="Data read operation. " alt="" coords="221,123,376,149"/>
+<area shape="rect" id="node5" href="$classetiss_1_1System.html#adf5c007d3b3c8ef637f63f1e07c3c660" title="Data write operation. " alt="" coords="219,173,378,200"/>
+<area shape="rect" id="node6" href="$classetiss_1_1System.html#acba663c57dafa171bf6b1afe5da782da" title="Instruction read operation. " alt="" coords="223,224,374,251"/>
+<area shape="rect" id="node7" href="$classetiss_1_1System.html#ac3fd7e22720daf9f35f4f73162bf3922" title="Instruction write operation. " alt="" coords="221,275,376,301"/>
+<area shape="rect" id="node8" href="$classetiss_1_1System.html#a00cc2ef27020113c0dee9f63d05810eb" title="Synchronize simulation time. " alt="" coords="208,325,389,352"/>
+<area shape="rect" id="node9" href="$namespaceetiss.html#af59cc5db7ebb8232109dff7b49be389f" title="wraps a etiss::System in a ETISS_System structure. " alt="" coords="252,376,345,403"/>
+<area shape="rect" id="node10" href="$System_8cpp.html#a36be1c748d8b8d235e9d7139ca8055ae" title="system_call_dbg_read" alt="" coords="439,224,606,251"/>
+<area shape="rect" id="node11" href="$System_8cpp.html#ae4ef331abfdb73d3450204661151c384" title="system_call_dbg_write" alt="" coords="437,275,608,301"/>
+<area shape="rect" id="node12" href="$System_8cpp.html#a8fa863740ddeeaac5e61fef184f6f8e8" title="system_call_dread" alt="" coords="451,325,595,352"/>
+<area shape="rect" id="node13" href="$System_8cpp.html#a7513122b7fd44d34e692566b696f9e2c" title="system_call_dwrite" alt="" coords="449,376,597,403"/>
+<area shape="rect" id="node14" href="$System_8cpp.html#a6936afb2086e15653852c7143e44aa12" title="system_call_iread" alt="" coords="453,427,593,453"/>
+<area shape="rect" id="node15" href="$System_8cpp.html#aedf5d86652f8ed248466d8b84886bf9a" title="system_call_iwrite" alt="" coords="451,477,595,504"/>
+<area shape="rect" id="node16" href="$System_8cpp.html#a34156976ca73ad8384a0811962961841" title="system_call_syncTime" alt="" coords="437,528,608,555"/>
+</map>

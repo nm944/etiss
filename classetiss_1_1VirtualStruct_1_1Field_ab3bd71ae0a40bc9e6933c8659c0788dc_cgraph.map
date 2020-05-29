@@ -1,0 +1,6 @@
+<map id="etiss::VirtualStruct::Field::write" name="etiss::VirtualStruct::Field::write">
+<area shape="rect" id="node2" href="$classetiss_1_1VirtualStruct_1_1Field.html#af6dcfd8f8153441d5b37358539d9d922" title="override this function to implement writes in case of AccessMode::VIRTUAL / AccessMode::PREFER_LAMBDA..." alt="" coords="196,5,339,47"/>
+<area shape="rect" id="node3" href="$classetiss_1_1VirtualStruct_1_1Field.html#a7c04d6965fde453da0878d5cbfd64a6a" title="this function should be called if the listener flag is set and the field changed without using the wr..." alt="" coords="196,71,339,112"/>
+<area shape="rect" id="node4" href="$classetiss_1_1VirtualStruct_1_1Field.html#ad7b93038d37b6279f8955935afc9553e" title="function to read bits/a value from the Field. " alt="" coords="387,71,529,112"/>
+<area shape="rect" id="node5" href="$classetiss_1_1VirtualStruct_1_1Field.html#a8cb207f4e94ae5894bf4e9e65f07315a" title="override this function to implement reads in case of AccessMode::VIRTUAL / AccessMode::PREFER_LAMBDA ..." alt="" coords="577,71,720,112"/>
+</map>

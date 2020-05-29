@@ -1,0 +1,12 @@
+<map id="etiss::addLibrary" name="etiss::addLibrary">
+<area shape="rect" id="node2" href="$ETISS_8cpp.html#ac76805eb9dfbd82116a3e7170ddee7fa" title="etiss_initialize" alt="" coords="748,35,864,61"/>
+<area shape="rect" id="node9" href="$group__ETISS__Frontend.html#ga0f7e980b54452e20ed605353acc02e3b" title="Load a library. " alt="" coords="184,56,319,83"/>
+<area shape="rect" id="node3" href="$group__ETISS__Internals.html#ga371c5786faafe2084636cbc2d02d451d" title="Force the initialization of ETISS. " alt="" coords="912,115,1087,141"/>
+<area shape="rect" id="node7" href="$group__ETISS__Frontend.html#ga7220e704fcd20f6d73a02c04bdbc9391" title="Initialize and configure ETISS. " alt="" coords="941,35,1058,61"/>
+<area shape="rect" id="node4" href="$classetiss_1_1Initializer.html#a7940b5f19b53f6f7ad953469f7d264bd" title="Constructor that initializes ETISS. " alt="" coords="1157,102,1279,143"/>
+<area shape="rect" id="node5" href="$classetiss_1_1CPUCore.html#a804f3252302d7ae49f7918da2871f6ba" title="Create a CPUCore instance. " alt="" coords="1135,168,1301,195"/>
+<area shape="rect" id="node6" href="$classetiss_1_1CPUCore.html#a1c71eb651cad84875d76586287c2dd23" title="returns the list of all plugins. " alt="" coords="1349,168,1544,195"/>
+<area shape="rect" id="node8" href="$classetiss_1_1Initializer.html#a343675aa8ed683e826e1f43dd6eaf949" title="Constructor that initializes ETISS. " alt="" coords="1157,27,1279,69"/>
+<area shape="rect" id="node10" href="$ETISSInit_8cpp.html#ac8defcb5621b0a06a2d74255ec5e0b84" title="Load libraries specified in a list.txt file. " alt="" coords="367,31,485,57"/>
+<area shape="rect" id="node11" href="$group__ETISS__Frontend.html#ga7be87103c95c5f1afbb967055fc7d83e" title="Search and try to load libraries. " alt="" coords="533,35,700,61"/>
+</map>

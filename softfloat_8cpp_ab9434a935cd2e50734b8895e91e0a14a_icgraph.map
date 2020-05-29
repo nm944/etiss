@@ -1,0 +1,8 @@
+<map id="roundAndPackInt32" name="roundAndPackInt32">
+<area shape="rect" id="node2" href="$softfloat_8cpp.html#af47a55a3aa7613ae5d3c6d673ccab1c4" title="float32_to_int32" alt="" coords="200,5,327,32"/>
+<area shape="rect" id="node6" href="$softfloat_8cpp.html#a2792db4499f61dbd145446c3d99490d3" title="float64_lt_quiet" alt="" coords="202,56,325,83"/>
+<area shape="rect" id="node7" href="$softfloat_8cpp.html#a7ca4c7e4a169596eeb0d4d1e3eead3c1" title="float64_to_int32" alt="" coords="200,107,327,133"/>
+<area shape="rect" id="node3" href="$timesoftfloat_8c.html#ad724a005a1472cbe8c112bf515680fb2" title="timeFunctionVariety" alt="" coords="375,56,527,83"/>
+<area shape="rect" id="node4" href="$timesoftfloat_8c.html#ab44bbfaf0c16ec012ced8c032ba64615" title="timeFunction" alt="" coords="575,56,681,83"/>
+<area shape="rect" id="node5" href="$timesoftfloat_8c.html#a5ea466849f21e6c2be4ef9b2eb8868d3" title="main" alt="" coords="729,56,784,83"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="etiss::plugin::gdb::hex::fromByte" name="etiss::plugin::gdb::hex::fromByte">
+<area shape="rect" id="node2" href="$namespaceetiss_1_1plugin_1_1gdb_1_1hex.html#ac7117e41ba49c8e349b0a3efe6e45c88" title="converts an integer type variable to a hexadecimal representation with the given endianness ..." alt="" coords="423,363,556,405"/>
+<area shape="rect" id="node3" href="$classetiss_1_1plugin_1_1gdb_1_1Server.html#ae641aef3a8187459a89c40a473d6ab0a" title="etiss::plugin::gdb\l::Server::handlePacket" alt="" coords="837,193,1004,234"/>
+<area shape="rect" id="node5" href="$classetiss_1_1plugin_1_1gdb_1_1Server.html#af2d20da879692be332064d7e082f2833" title="etiss::plugin::gdb\l::Server::preInstructionCallback" alt="" coords="1066,35,1293,77"/>
+<area shape="rect" id="node6" href="$classetiss_1_1plugin_1_1gdb_1_1Server.html#ae06e9ac2d95f66a3ce80560cabdce7d2" title="etiss::plugin::gdb\l::Server::preMemoryAccessCallback" alt="" coords="1052,257,1307,298"/>
+<area shape="rect" id="node12" href="$classetiss_1_1plugin_1_1gdb_1_1PacketProtocol.html#a197b158da05621146982c6275867b063" title="etiss::plugin::gdb\l::PacketProtocol::snd" alt="" coords="187,170,344,211"/>
+<area shape="rect" id="node4" href="$classetiss_1_1plugin_1_1gdb_1_1Server.html#a0b42a227476616e0e6b7788661a1bd14" title="called before a block and may act in the same way as a block " alt="" coords="1113,191,1246,233"/>
+<area shape="rect" id="node7" href="$GDBSystemWrapper_8cpp.html#aad56c1dc9334271824d32f9e45feb462" title="gdb_system_call_dread" alt="" coords="1357,188,1531,215"/>
+<area shape="rect" id="node9" href="$GDBSystemWrapper_8cpp.html#a32953af52dfa80a165bfa6944be2e7fe" title="gdb_system_call_dwrite" alt="" coords="1355,239,1533,265"/>
+<area shape="rect" id="node10" href="$GDBSystemWrapper_8cpp.html#a1e62443ab4b754f069e362077b675991" title="gdb_system_call_iread" alt="" coords="1359,289,1529,316"/>
+<area shape="rect" id="node11" href="$GDBSystemWrapper_8cpp.html#a1282454689cbd0a6834efb38ecc87c9a" title="gdb_system_call_iwrite" alt="" coords="1357,340,1531,367"/>
+<area shape="rect" id="node8" href="$classetiss_1_1plugin_1_1gdb_1_1Server.html#a5cba6c4a3621360bf1125df0b124d63e" title="etiss::plugin::gdb\l::Server::wrap" alt="" coords="1581,257,1715,298"/>
+<area shape="rect" id="node13" href="$classetiss_1_1plugin_1_1gdb_1_1PacketProtocol.html#a7ebfd4afe2d4d7f708c86468a48bc6ae" title="etiss::plugin::gdb\l::PacketProtocol::available" alt="" coords="392,170,587,211"/>
+<area shape="rect" id="node14" href="$classetiss_1_1plugin_1_1gdb_1_1PacketProtocol.html#a47a5284b39fbee7259d6d55163e400aa" title="etiss::plugin::gdb\l::PacketProtocol::rcv" alt="" coords="635,145,789,186"/>
+</map>

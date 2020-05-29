@@ -1,0 +1,12 @@
+<map id="load_stream_data_seek" name="load_stream_data_seek">
+<area shape="rect" id="node2" href="$pugixml_8cpp.html#a3515ac8101e357707f45d7438d568682" title="load_stream_impl" alt="" coords="231,143,369,170"/>
+<area shape="rect" id="node3" href="$classpugi_1_1xml__document.html#aefc80752f08aa71bc2d11e10f4bb9d2c" title="pugi::xml_document\l::destroy" alt="" coords="417,136,572,177"/>
+<area shape="rect" id="node4" href="$classpugi_1_1xml__document.html#af37d8a79f7465ad48d65c2bd13461580" title="pugi::xml_document\l::~xml_document" alt="" coords="620,71,775,112"/>
+<area shape="rect" id="node5" href="$classpugi_1_1xml__document.html#acf2b9daf1d12e12048796118b7a7685d" title="pugi::xml_document\l::reset" alt="" coords="620,136,775,177"/>
+<area shape="rect" id="node6" href="$classpugi_1_1xml__document.html#a4230de3de88f4fe481c4c3d5312aa5cf" title="pugi::xml_document\l::reset" alt="" coords="841,5,995,47"/>
+<area shape="rect" id="node7" href="$classpugi_1_1xml__document.html#aad350209a4a91589fbd7e8cdaf79e010" title="pugi::xml_document\l::load_file" alt="" coords="841,71,995,112"/>
+<area shape="rect" id="node8" href="$classpugi_1_1xml__document.html#ab29840790e26b2166a395c63a2b2d9bd" title="pugi::xml_document\l::load_buffer" alt="" coords="841,136,995,177"/>
+<area shape="rect" id="node10" href="$classpugi_1_1xml__document.html#a3e20650182ccbdd175ca069dd5e08632" title="pugi::xml_document\l::load_buffer_inplace" alt="" coords="839,201,997,243"/>
+<area shape="rect" id="node11" href="$classpugi_1_1xml__document.html#a9da4bdcdc4ad914fb0f4680b02983502" title="pugi::xml_document\l::load_buffer_inplace_own" alt="" coords="823,267,1013,308"/>
+<area shape="rect" id="node9" href="$classpugi_1_1xml__document.html#ae17a77772fa21a40f3d91d9c79e60d0b" title="pugi::xml_document\l::load" alt="" coords="1061,136,1216,177"/>
+</map>

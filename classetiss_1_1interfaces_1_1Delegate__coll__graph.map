@@ -1,0 +1,4 @@
+<map id="etiss::interfaces::Delegate" name="etiss::interfaces::Delegate">
+<area shape="rect" id="node2" href="$structETISS__CPU.html" title="basic cpu state structure needed for execution of any cpu architecture. " alt="" coords="472,93,564,120"/>
+<area shape="rect" id="node8" href="$structETISS__System.html" title="memory access and time synchronization functions. " alt="" coords="461,244,575,271"/>
+</map>

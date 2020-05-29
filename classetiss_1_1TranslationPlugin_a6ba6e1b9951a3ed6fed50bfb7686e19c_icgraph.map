@@ -1,0 +1,8 @@
+<map id="etiss::TranslationPlugin::getPointerCode" name="etiss::TranslationPlugin::getPointerCode">
+<area shape="rect" id="node2" href="$classetiss_1_1plugin_1_1InstructionAccurateCallback.html#a8e2f99eab05454fe3f848b8a2449338c" title="called after all instructions have been added to allow last changes " alt="" coords="225,5,465,47"/>
+<area shape="rect" id="node3" href="$classetiss_1_1plugin_1_1VariableValueLogger.html#ae78ddff9a4e6c535823404e79accdeb6" title="called after all instructions have been added to allow last changes " alt="" coords="246,71,445,112"/>
+<area shape="rect" id="node4" href="$classetiss_1_1plugin_1_1InstructionSpecificAddressCallback.html#a4cf95f9946c7c7507db79367d14024b9" title="called after all instructions have been added to allow last changes " alt="" coords="255,137,435,193"/>
+<area shape="rect" id="node6" href="$classetiss_1_1plugin_1_1gdb_1_1Server.html#aa260c8ec0147c2fb356e82fffa9ed212" title="called after all instructions have been added to allow last changes " alt="" coords="257,217,434,259"/>
+<area shape="rect" id="node7" href="$classetiss_1_1plugin_1_1InstructionSpecificAddressCallback.html#a296dc93b5c926a8bcf51aec3805bf406" title="called before instructions are translated for the code block " alt="" coords="255,283,435,339"/>
+<area shape="rect" id="node5" href="$classetiss_1_1plugin_1_1InstructionSpecificAddressCallback.html#a5b277ad754f51902ece8d7172c73f316" title="etiss::plugin::Instruction\lSpecificAddressCallback\l::callbackAddresses" alt="" coords="513,137,693,193"/>
+</map>

@@ -1,0 +1,38 @@
+<map id="CSimpleIniTempl::IsLess" name="CSimpleIniTempl::IsLess">
+<area shape="rect" id="node2" href="$classCSimpleIniTempl.html#a8c2b8c3e6f6811321a8258182c61f629" title="Add the section/key/value to our data. " alt="" coords="780,333,979,360"/>
+<area shape="rect" id="node8" href="$classCSimpleIniTempl.html#a04551ae6c3e92475b2a823d2729652d6" title="Delete an entire section, or a key from a section. " alt="" coords="241,306,460,333"/>
+<area shape="rect" id="node10" href="$classCSimpleIniTempl.html#a08cadb6624a6c459703efaadb25d31c9" title="Retrieve all unique key names in a section. " alt="" coords="774,1029,985,1056"/>
+<area shape="rect" id="node29" href="$classCSimpleIniTempl.html#adda5ee7f422695f7e67be2d066e303bf" title="Retrieve all values for a specific key. " alt="" coords="768,953,991,980"/>
+<area shape="rect" id="node30" href="$classCSimpleIniTempl.html#a0a9c089eabb5faf764c4af449f7b1846" title="Query the number of keys in a specific section. " alt="" coords="232,140,469,166"/>
+<area shape="rect" id="node31" href="$classCSimpleIniTempl.html#a74e3f5d22f50b70b2a20c89ec7e2c737" title="Retrieve the value for a specific key. " alt="" coords="780,694,979,721"/>
+<area shape="rect" id="node35" href="$classCSimpleIniTempl.html#ac8b9627e8318354a235b6398340481ff" title="CSimpleIniTempl::LoadMulti\lLineText" alt="" coords="517,483,720,524"/>
+<area shape="rect" id="node3" href="$classCSimpleIniTempl.html#aa797cf47cec05906f07d5065882af4d3" title="Load INI file data direct from memory. " alt="" coords="1042,501,1243,528"/>
+<area shape="rect" id="node4" href="$classCSimpleIniTempl.html#a48ae136fa20c5d7eb7ab0b75342b27cf" title="Add or update a boolean value. " alt="" coords="1048,267,1237,308"/>
+<area shape="rect" id="node5" href="$classCSimpleIniTempl.html#a92203e0c21f8d71e5d1621a18ee0be50" title="Query the status of spaces output. " alt="" coords="1295,501,1517,528"/>
+<area shape="rect" id="node6" href="$classCSimpleIniTempl.html#af92ba0b8067553ab693c62a370de6534" title="Add or update a double value. " alt="" coords="1039,384,1246,426"/>
+<area shape="rect" id="node7" href="$classCSimpleIniTempl.html#ab2238be407232e4bba0f1343e4793e4e" title="Add or update a numeric value. " alt="" coords="1047,202,1238,243"/>
+<area shape="rect" id="node9" href="$classCSimpleIniTempl.html#aa5c1cdd0b306434d9e9f1422888049da" title="Delete an entire section, or a key from a section. " alt="" coords="527,306,710,333"/>
+<area shape="rect" id="node11" href="$ETISS_8cpp.html#aa8d45a48a87050a037b3173119b82351" title="etiss_loadIniConfigs" alt="" coords="1330,894,1482,921"/>
+<area shape="rect" id="node23" href="$classetiss_1_1Initializer.html#acdf27d4056057a91dccd86abfa43a8b1" title="sets the JIT given with the previous loaded .ini files " alt="" coords="1081,1106,1204,1147"/>
+<area shape="rect" id="node26" href="$classetiss_1_1Initializer.html#a680f42f4c7effbc0b4b5bc2b4eaae21f" title="loads the plugins given with the previous loaded .ini files " alt="" coords="1081,1171,1204,1212"/>
+<area shape="rect" id="node27" href="$classCSimpleIniTempl.html#a6ec10daab297e92cdffe024ba5e6d999" title="Save the INI data. " alt="" coords="1057,1004,1228,1030"/>
+<area shape="rect" id="node12" href="$ETISS_8cpp.html#ac76805eb9dfbd82116a3e7170ddee7fa" title="etiss_initialize" alt="" coords="1569,894,1685,921"/>
+<area shape="rect" id="node13" href="$group__ETISS__Internals.html#ga371c5786faafe2084636cbc2d02d451d" title="Force the initialization of ETISS. " alt="" coords="1736,869,1911,896"/>
+<area shape="rect" id="node21" href="$group__ETISS__Frontend.html#ga7220e704fcd20f6d73a02c04bdbc9391" title="Initialize and configure ETISS. " alt="" coords="1765,932,1882,958"/>
+<area shape="rect" id="node14" href="$group__ETISS__Frontend.html#gac9dbcc30c0d390f4b6ffe05257b32807" title="Add a LibraryInterface to the ETISS environment. " alt="" coords="1977,768,2107,794"/>
+<area shape="rect" id="node18" href="$classetiss_1_1CPUCore.html#a804f3252302d7ae49f7918da2871f6ba" title="Create a CPUCore instance. " alt="" coords="1959,885,2125,912"/>
+<area shape="rect" id="node20" href="$classetiss_1_1Initializer.html#a7940b5f19b53f6f7ad953469f7d264bd" title="Constructor that initializes ETISS. " alt="" coords="1981,819,2103,860"/>
+<area shape="rect" id="node15" href="$group__ETISS__Frontend.html#ga0f7e980b54452e20ed605353acc02e3b" title="Load a library. " alt="" coords="2203,801,2338,828"/>
+<area shape="rect" id="node16" href="$ETISSInit_8cpp.html#ac8defcb5621b0a06a2d74255ec5e0b84" title="Load libraries specified in a list.txt file. " alt="" coords="2416,852,2535,878"/>
+<area shape="rect" id="node17" href="$group__ETISS__Frontend.html#ga7be87103c95c5f1afbb967055fc7d83e" title="Search and try to load libraries. " alt="" coords="2583,852,2749,878"/>
+<area shape="rect" id="node19" href="$classetiss_1_1CPUCore.html#a1c71eb651cad84875d76586287c2dd23" title="returns the list of all plugins. " alt="" coords="2173,885,2368,912"/>
+<area shape="rect" id="node22" href="$classetiss_1_1Initializer.html#a343675aa8ed683e826e1f43dd6eaf949" title="Constructor that initializes ETISS. " alt="" coords="1981,936,2103,978"/>
+<area shape="rect" id="node24" href="$classetiss_1_1Initializer.html#ae56153499374af259e7bd51b2983aa66" title="version of static_assertFirstParamNotArithmetic for the case that no parameter is given..." alt="" coords="1304,1130,1508,1186"/>
+<area shape="rect" id="node25" href="$classetiss_1_1Initializer.html#a2581eb079abc3388e15f3f9282db00d6" title="Constructor that initializes ETISS. " alt="" coords="1565,1138,1688,1179"/>
+<area shape="rect" id="node28" href="$classCSimpleIniTempl.html#a3c3f677c1515e08751cb52a1dfaf1a93" title="Save the INI data to a file. " alt="" coords="1309,1004,1503,1030"/>
+<area shape="rect" id="node32" href="$classCSimpleIniTempl.html#a76b3165ce01224f82daee5ef63b3c96d" title="Retrieve a boolean value for a specific key. " alt="" coords="1047,654,1238,695"/>
+<area shape="rect" id="node33" href="$classCSimpleIniTempl.html#aab58a949481926cf1d42fcbf9552d77b" title="Retrieve a numeric value for a specific key. " alt="" coords="1039,887,1247,928"/>
+<area shape="rect" id="node34" href="$classCSimpleIniTempl.html#a7fa211c1c768497520eab7f2014ae786" title="Retrieve a numeric value for a specific key. " alt="" coords="1046,719,1239,760"/>
+<area shape="rect" id="node36" href="$classCSimpleIniTempl.html#a7b78cf79ffd9a5ba57a3bdae6b7d5a8f" title="Parse the data looking for a file comment and store it if found. " alt="" coords="786,456,973,498"/>
+<area shape="rect" id="node37" href="$classCSimpleIniTempl.html#a7d34f731a698340384ba6c6f2f306270" title="Parse the data looking for the next valid entry. " alt="" coords="780,522,979,549"/>
+</map>

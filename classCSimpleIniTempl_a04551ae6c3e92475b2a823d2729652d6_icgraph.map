@@ -1,0 +1,9 @@
+<map id="CSimpleIniTempl::DeleteValue" name="CSimpleIniTempl::DeleteValue">
+<area shape="rect" id="node2" href="$classCSimpleIniTempl.html#aa5c1cdd0b306434d9e9f1422888049da" title="Delete an entire section, or a key from a section. " alt="" coords="272,305,455,332"/>
+<area shape="rect" id="node6" href="$classCSimpleIniTempl.html#a92203e0c21f8d71e5d1621a18ee0be50" title="Query the status of spaces output. " alt="" coords="1004,215,1227,241"/>
+<area shape="rect" id="node3" href="$classCSimpleIniTempl.html#a8c2b8c3e6f6811321a8258182c61f629" title="Add the section/key/value to our data. " alt="" coords="503,152,701,179"/>
+<area shape="rect" id="node4" href="$classCSimpleIniTempl.html#aa797cf47cec05906f07d5065882af4d3" title="Load INI file data direct from memory. " alt="" coords="752,5,953,32"/>
+<area shape="rect" id="node5" href="$classCSimpleIniTempl.html#a48ae136fa20c5d7eb7ab0b75342b27cf" title="Add or update a boolean value. " alt="" coords="758,57,947,98"/>
+<area shape="rect" id="node7" href="$classCSimpleIniTempl.html#af92ba0b8067553ab693c62a370de6534" title="Add or update a double value. " alt="" coords="749,174,956,215"/>
+<area shape="rect" id="node8" href="$classCSimpleIniTempl.html#ab2238be407232e4bba0f1343e4793e4e" title="Add or update a numeric value. " alt="" coords="757,239,948,281"/>
+</map>

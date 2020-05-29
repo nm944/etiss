@@ -1,0 +1,11 @@
+<map id="etiss::CodeBlock::fileglobalCode" name="etiss::CodeBlock::fileglobalCode">
+<area shape="rect" id="node2" href="$classetiss_1_1plugin_1_1gdb_1_1Server.html#a65a6b235cd38e696cd3aae8b2ccf2564" title="called after all instructions have been translated for the code block " alt="" coords="303,5,499,47"/>
+<area shape="rect" id="node3" href="$classetiss_1_1Translation.html#ad60fccfe679e82069b2255aac748ed52" title="etiss::Translation\l::getBlock" alt="" coords="335,71,467,112"/>
+<area shape="rect" id="node4" href="$classetiss_1_1plugin_1_1VariableValueLogger.html#a873b9feabca9ccb94ce6ebc1cef1d77d" title="called before instructions are translated for the code block " alt="" coords="301,136,500,177"/>
+<area shape="rect" id="node5" href="$classetiss_1_1plugin_1_1InstructionAccurateCallback.html#a4881a65473ae9df59b812d3a61e96cb5" title="called before instructions are translated for the code block " alt="" coords="284,201,517,243"/>
+<area shape="rect" id="node6" href="$classetiss_1_1plugin_1_1PrintInstruction.html#ad666480b059f03338752f6b106a5cc36" title="called before instructions are translated for the code block " alt="" coords="297,267,505,308"/>
+<area shape="rect" id="node7" href="$classetiss_1_1plugin_1_1InstructionSpecificAddressCallback.html#a296dc93b5c926a8bcf51aec3805bf406" title="called before instructions are translated for the code block " alt="" coords="311,333,491,389"/>
+<area shape="rect" id="node10" href="$classetiss_1_1plugin_1_1gdb_1_1Server.html#a385aefea55cedbdc7f19997f164fc68a" title="etiss::plugin::gdb\l::Server::process" alt="" coords="334,413,467,455"/>
+<area shape="rect" id="node8" href="$classetiss_1_1plugin_1_1InstructionSpecificAddressCallback.html#a5b277ad754f51902ece8d7172c73f316" title="etiss::plugin::Instruction\lSpecificAddressCallback\l::callbackAddresses" alt="" coords="565,333,745,389"/>
+<area shape="rect" id="node9" href="$classetiss_1_1plugin_1_1InstructionSpecificAddressCallback.html#a4cf95f9946c7c7507db79367d14024b9" title="called after all instructions have been added to allow last changes " alt="" coords="793,333,973,389"/>
+</map>

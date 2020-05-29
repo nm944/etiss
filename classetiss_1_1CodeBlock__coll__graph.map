@@ -1,0 +1,9 @@
+<map id="etiss::CodeBlock" name="etiss::CodeBlock">
+<area shape="rect" id="node7" href="$classetiss_1_1CodeBlock_1_1Line.html" title="equivalent of a translated instruction " alt="" coords="64,853,229,880"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="438,96,525,123"/>
+<area shape="rect" id="node11" href="$classetiss_1_1CodePart.html" title="Contains a small code snipped. " alt="" coords="253,509,371,536"/>
+<area shape="rect" id="node14" href="$classetiss_1_1RegisterPart.html" title="abstract description of needed or affected register bits. " alt="" coords="256,185,395,212"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="412,5,551,47"/>
+<area shape="rect" id="node9" href="$classetiss_1_1CodeSet.html" title="A set of CodeParts. " alt="" coords="212,764,327,791"/>
+<area shape="rect" id="node12" href="$classetiss_1_1RegisterSet.html" title="set of register parts. " alt="" coords="246,405,381,432"/>
+</map>

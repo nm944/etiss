@@ -1,0 +1,6 @@
+<map id="etiss::VirtualStruct::foreachField" name="etiss::VirtualStruct::foreachField">
+<area shape="rect" id="node2" href="$classetiss_1_1VirtualStruct.html#a2fde71f095a261dee6d5f804a6c63d7b" title="etiss::VirtualStruct\l::addField" alt="" coords="407,5,549,47"/>
+<area shape="rect" id="node3" href="$namespaceetiss.html#a3b2d7df9db33ee4dc056ad8e00678c48" title="copies all fields with the same name from the source to the destination structure. " alt="" coords="221,101,313,127"/>
+<area shape="rect" id="node5" href="$classetiss_1_1VirtualStruct.html#ab75889f528bd7d4b760296e5cc7a20fe" title="list all fields directly reachable by this injector " alt="" coords="196,35,339,76"/>
+<area shape="rect" id="node4" href="$classpugi_1_1xpath__variable.html#acaedec0610338a1165bbcd0658db34f9" title="pugi::xpath_variable::set" alt="" coords="387,101,569,127"/>
+</map>

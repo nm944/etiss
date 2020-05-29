@@ -1,0 +1,9 @@
+<map id="CSimpleIniTempl::SetLongValue" name="CSimpleIniTempl::SetLongValue">
+<area shape="rect" id="node2" href="$classCSimpleIniTempl.html#a8c2b8c3e6f6811321a8258182c61f629" title="Add the section/key/value to our data. " alt="" coords="244,107,443,133"/>
+<area shape="rect" id="node3" href="$classCSimpleIniTempl.html#ac34744773856c5a50ece49f70c2ea110" title="Make a copy of the supplied string, replacing the original pointer. " alt="" coords="493,5,703,32"/>
+<area shape="rect" id="node4" href="$classCSimpleIniTempl.html#aa5c1cdd0b306434d9e9f1422888049da" title="Delete an entire section, or a key from a section. " alt="" coords="507,107,689,133"/>
+<area shape="rect" id="node6" href="$classCSimpleIniTempl.html#aeb846a531063a0b71d8784672c3d2dc8" title="Delete a string from the copied strings buffer if necessary. " alt="" coords="1020,81,1240,108"/>
+<area shape="rect" id="node7" href="$classCSimpleIniTempl.html#a705eaa8e6c0fb8c1ce2648e71ad681f7" title="Internal use of our string comparison function. " alt="" coords="1041,132,1219,159"/>
+<area shape="rect" id="node8" href="$classCSimpleIniTempl.html#a9b2282a0371907316ab4e9300dac0cac" title="Does the supplied character start a comment line? " alt="" coords="491,208,705,235"/>
+<area shape="rect" id="node5" href="$classCSimpleIniTempl.html#a04551ae6c3e92475b2a823d2729652d6" title="Delete an entire section, or a key from a section. " alt="" coords="753,107,972,133"/>
+</map>

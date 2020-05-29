@@ -1,0 +1,7 @@
+<map id="text_output_cdata" name="text_output_cdata">
+<area shape="rect" id="node2" href="$classxml__buffered__writer.html#af830f04deffd7e28122d8c8973707c94" title="xml_buffered_writer\l::write" alt="" coords="193,23,347,65"/>
+<area shape="rect" id="node3" href="$pugixml_8cpp.html#a12b9d6cff4d37c68755263d0687c62b1" title="get_write_native_encoding" alt="" coords="395,5,592,32"/>
+<area shape="rect" id="node6" href="$pugixml_8cpp.html#a5dfd2dce8fc6dd9268a19ed553884234" title="get_valid_length" alt="" coords="428,56,559,83"/>
+<area shape="rect" id="node4" href="$pugixml_8cpp.html#a1d386e9425e75d35b01373e46f186b9c" title="get_wchar_encoding" alt="" coords="640,5,795,32"/>
+<area shape="rect" id="node5" href="$pugixml_8cpp.html#a282e2854710450f313ea03bb59a8f681" title="is_little_endian" alt="" coords="843,5,964,32"/>
+</map>

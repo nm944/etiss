@@ -1,0 +1,9 @@
+<map id="etiss::instr::BitArray::getWord" name="etiss::instr::BitArray::getWord">
+<area shape="rect" id="node2" href="$classetiss_1_1instr_1_1BitArray.html#a7c0e955acf6b6e81b1ad51ca11bb77fb" title="bitwise and operator " alt="" coords="403,38,553,79"/>
+<area shape="rect" id="node3" href="$classetiss_1_1instr_1_1BitArray.html#a4d9a444a7ae0fed8131377c7a73e539f" title="less than operator " alt="" coords="204,34,355,75"/>
+<area shape="rect" id="node4" href="$classetiss_1_1instr_1_1BitArray.html#abe32703c207fb8e40a599aae5bfa6798" title="equals operator " alt="" coords="204,99,355,140"/>
+<area shape="rect" id="node5" href="$classetiss_1_1instr_1_1BitArray.html#ab24171f41be2afeb1ca364fe4faf3adc" title="bitwise or operator " alt="" coords="204,164,355,206"/>
+<area shape="rect" id="node7" href="$classetiss_1_1instr_1_1BitArray.html#af9a9e9d3d4e69f84f919b31462af0142" title="bitwise not operator " alt="" coords="204,230,355,271"/>
+<area shape="rect" id="node8" href="$classetiss_1_1instr_1_1BitArray.html#a7d17b541a724c314b6a0531702659dae" title="sets all bits in the array to the given value " alt="" coords="204,295,355,336"/>
+<area shape="rect" id="node6" href="$classetiss_1_1instr_1_1BitArray.html#a86c0d6b4dc37c7e878e27e444c88670c" title="etiss::instr::BitArray\l::width" alt="" coords="403,164,553,206"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="etiss::CodeBlock::functionglobalCode" name="etiss::CodeBlock::functionglobalCode">
+<area shape="rect" id="node2" href="$classetiss_1_1Translation.html#ad60fccfe679e82069b2255aac748ed52" title="etiss::Translation\l::getBlock" alt="" coords="341,5,473,47"/>
+<area shape="rect" id="node3" href="$classetiss_1_1plugin_1_1InstructionSpecificAddressCallback.html#a296dc93b5c926a8bcf51aec3805bf406" title="called before instructions are translated for the code block " alt="" coords="317,71,497,127"/>
+<area shape="rect" id="node4" href="$classetiss_1_1plugin_1_1InstructionSpecificAddressCallback.html#a5b277ad754f51902ece8d7172c73f316" title="etiss::plugin::Instruction\lSpecificAddressCallback\l::callbackAddresses" alt="" coords="545,71,725,127"/>
+<area shape="rect" id="node5" href="$classetiss_1_1plugin_1_1InstructionSpecificAddressCallback.html#a4cf95f9946c7c7507db79367d14024b9" title="called after all instructions have been added to allow last changes " alt="" coords="773,71,953,127"/>
+</map>

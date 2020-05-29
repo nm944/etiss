@@ -1,0 +1,21 @@
+<map id="etiss::CPUCore" name="etiss::CPUCore">
+<area shape="rect" id="node4" href="$classetiss_1_1CPUCore_1_1InterruptVectorWrapper.html" title="etiss::CPUCore::Interrupt\lVectorWrapper" alt="" coords="2071,984,2253,1025"/>
+<area shape="rect" id="node9" href="$classetiss_1_1Plugin.html" title="base plugin class that provides access to different plugin functions if present " alt="" coords="1201,503,1302,530"/>
+<area shape="rect" id="node2" href="$classetiss_1_1VirtualStructSupport.html" title="etiss::VirtualStructSupport" alt="" coords="453,731,645,758"/>
+<area shape="rect" id="node3" href="$classetiss_1_1ToString.html" title="Marker interface for toString() support. " alt="" coords="493,597,606,623"/>
+<area shape="rect" id="node5" href="$classetiss_1_1InterruptVector.html" title="interface to set interrupt bits " alt="" coords="470,1339,629,1366"/>
+<area shape="rect" id="node8" href="$classetiss_1_1InterruptListenerPlugin.html" title="etiss::InterruptListener\lPlugin" alt="" coords="1472,653,1641,695"/>
+<area shape="rect" id="node14" href="$classetiss_1_1RegisterDevicePlugin.html" title="RegisterDevicePlugin::changedRegister is called if a supported register has been changed. " alt="" coords="1457,426,1656,453"/>
+<area shape="rect" id="node15" href="$classetiss_1_1CoroutinePlugin.html" title="this plugin will be called before a block is executed. " alt="" coords="1475,361,1639,387"/>
+<area shape="rect" id="node20" href="$classetiss_1_1TranslationPlugin.html" title="allows to add code to the translation of instructions " alt="" coords="1471,251,1643,278"/>
+<area shape="rect" id="node25" href="$classetiss_1_1SystemWrapperPlugin.html" title="this plugin allows to wrap the ETISS_System interface " alt="" coords="1455,529,1659,555"/>
+<area shape="rect" id="node10" href="$structETISS__CPU.html" title="basic cpu state structure needed for execution of any cpu architecture. " alt="" coords="503,681,595,707"/>
+<area shape="rect" id="node26" href="$structETISS__System.html" title="memory access and time synchronization functions. " alt="" coords="492,379,607,406"/>
+<area shape="rect" id="node16" href="$classetiss_1_1CPUArch.html" title="the interface to translate instructions of and processor architecture " alt="" coords="1815,183,1933,210"/>
+<area shape="rect" id="node17" href="$classetiss_1_1CPUArchRegListenerInterface.html" title="allows to inform plugins about changes to a register that is present in the cpu structure. " alt="" coords="1460,5,1653,47"/>
+<area shape="rect" id="node18" href="$classetiss_1_1CPUArchCPUManipulation.html" title="interface for cpu structure access. " alt="" coords="1443,71,1671,98"/>
+<area shape="rect" id="node19" href="$classetiss_1_1CPUArchDefaultPlugins.html" title="provides common basic plugins " alt="" coords="1451,477,1663,503"/>
+<area shape="rect" id="node21" title="STL class. " alt="" coords="506,234,593,261"/>
+<area shape="rect" id="node22" title="STL class. " alt="" coords="29,196,168,237"/>
+<area shape="rect" id="node23" href="$classetiss_1_1plugin_1_1gdb_1_1GDBCore.html" title="provides to architecture dependent registers as defined by gdb " alt="" coords="1016,176,1149,217"/>
+</map>

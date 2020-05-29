@@ -1,0 +1,17 @@
+<map id="pugi::xml_node::append_copy" name="pugi::xml_node::append_copy">
+<area shape="rect" id="node2" href="$classpugi_1_1xml__node.html#a417eb03f034b432bb2800e54e38022aa" title="pugi::xml_node::append\l_attribute" alt="" coords="269,93,448,135"/>
+<area shape="rect" id="node14" href="$classpugi_1_1xml__attribute.html#a80d620199c508a8d063c4734828f26cd" title="pugi::xml_attribute\l::name" alt="" coords="285,159,432,200"/>
+<area shape="rect" id="node15" href="$classpugi_1_1xml__attribute.html#af2ca1f0d13ee8f661bc17524bedc13d7" title="pugi::xml_attribute\l::set_value" alt="" coords="285,224,432,265"/>
+<area shape="rect" id="node16" href="$classpugi_1_1xml__attribute.html#affe352ea96e4e82e52bb8a8313c3def0" title="pugi::xml_attribute\l::value" alt="" coords="285,289,432,331"/>
+<area shape="rect" id="node3" href="$pugixml_8cpp.html#aad3b67164b1e0fe8b1e9c57fe55dc8bc" title="append_attribute_ll" alt="" coords="501,13,649,39"/>
+<area shape="rect" id="node6" href="$pugixml_8cpp.html#ab194763af6dca2d07ad5139dc2a75f60" title="get_allocator" alt="" coords="522,63,629,90"/>
+<area shape="rect" id="node7" href="$classpugi_1_1xml__attribute.html#ae8ffb5ef48338f27015337a6f57b6595" title="pugi::xml_attribute\l::set_name" alt="" coords="502,115,649,156"/>
+<area shape="rect" id="node13" href="$classpugi_1_1xml__node.html#a17bce1b9f774f2fa56dace3537195a24" title="pugi::xml_node::type" alt="" coords="496,181,655,207"/>
+<area shape="rect" id="node4" href="$pugixml_8cpp.html#aa5c147125f246a331c4a30df8e096960" title="allocate_attribute" alt="" coords="703,13,840,39"/>
+<area shape="rect" id="node5" href="$structxml__allocator.html#afac0b9fac2c2962972f60d0346eb4f39" title="xml_allocator::allocate\l_memory" alt="" coords="896,5,1067,47"/>
+<area shape="rect" id="node8" href="$pugixml_8cpp.html#ab9527027631039c4e2361e30f2c0788e" title="strcpy_insitu" alt="" coords="719,202,824,229"/>
+<area shape="rect" id="node9" href="$structxml__allocator.html#ac5ec2b5d41672d6494a2742e95e525b3" title="xml_allocator::allocate\l_string" alt="" coords="896,100,1067,141"/>
+<area shape="rect" id="node10" href="$structxml__allocator.html#af32c538db4d562c2d0bfe15f7c0aa879" title="xml_allocator::deallocate\l_string" alt="" coords="888,165,1075,207"/>
+<area shape="rect" id="node11" href="$pugixml_8cpp.html#a230775a8b2b7883f8dffc32b550a267c" title="strcpy_insitu_allow" alt="" coords="908,231,1055,258"/>
+<area shape="rect" id="node12" href="$pugixml_8cpp.html#aab9e1f034d085b663d146fcceabb1c48" title="strlength" alt="" coords="1123,257,1203,283"/>
+</map>

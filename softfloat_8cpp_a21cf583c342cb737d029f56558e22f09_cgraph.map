@@ -1,0 +1,5 @@
+<map id="float64_lt" name="float64_lt">
+<area shape="rect" id="node2" href="$softfloat_8cpp.html#a2429e0cf7ea81f8b817609c440402898" title="extractFloat64Exp" alt="" coords="138,5,278,32"/>
+<area shape="rect" id="node3" href="$softfloat_8cpp.html#afdcc864bcf30e2d88ea55cca8e3d669f" title="extractFloat64Frac" alt="" coords="137,56,279,83"/>
+<area shape="rect" id="node4" href="$softfloat_8cpp.html#ae8cb620930a5d5b1a8ef82253f7416eb" title="extractFloat64Sign" alt="" coords="136,107,280,133"/>
+</map>

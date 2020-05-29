@@ -1,0 +1,6 @@
+<map id="etiss::instr::BitArray::recoverFromEndianness" name="etiss::instr::BitArray::recoverFromEndianness">
+<area shape="rect" id="node2" href="$classetiss_1_1CPUArch.html#ad1ecb5fa556dbda8dd34a0acbf79b65f" title="this function should compensate for any endianess on a BitArray so that bit 0 is always the LSB..." alt="" coords="239,5,444,47"/>
+<area shape="rect" id="node5" href="$classetiss_1_1instr_1_1BitArray.html#ad4f7cb204dbd65a5f381c8ca41080bbc" title="assign operator. " alt="" coords="266,71,417,112"/>
+<area shape="rect" id="node3" href="$classetiss_1_1Translation.html#abad861d5afddf612c910143718694c4c" title="etiss::Translation\l::translateBlock" alt="" coords="492,5,624,47"/>
+<area shape="rect" id="node4" href="$classetiss_1_1Translation.html#ad60fccfe679e82069b2255aac748ed52" title="etiss::Translation\l::getBlock" alt="" coords="672,5,804,47"/>
+</map>

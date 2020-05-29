@@ -1,0 +1,6 @@
+<map id="etiss::Plugin::toString" name="etiss::Plugin::toString">
+<area shape="rect" id="node2" href="$classetiss_1_1Plugin.html#a20e7dc624add4ebea9c4ec052bc2838c" title="etiss::Plugin::_getPluginName" alt="" coords="471,27,687,54"/>
+<area shape="rect" id="node3" href="$classetiss_1_1Plugin.html#a661dae4f5acc1eae1aaad027d5b719ed" title="this function is called after cpu execution loop (etiss::CPUCore::execute) finished. " alt="" coords="238,27,398,54"/>
+<area shape="rect" id="node4" href="$classetiss_1_1Plugin.html#aedc9f2597aff23049e720d7d7397f637" title="etiss::Plugin::getPluginName" alt="" coords="213,78,423,104"/>
+<area shape="rect" id="node5" href="$classetiss_1_1Plugin.html#ac2e3655c1b684c4957237b036ef2cb4d" title="this function is called before the plugin is used in the cpu execution loop (etiss::CPUCore::execute)..." alt="" coords="253,128,383,155"/>
+</map>

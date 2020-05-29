@@ -1,0 +1,9 @@
+<map id="etiss::instr::InstructionDefinition::addTo" name="etiss::instr::InstructionDefinition::addTo">
+<area shape="rect" id="node2" href="$classetiss_1_1instr_1_1Instruction.html#a1ce37a20ceb4ee8e5cdfbc606e83c0ae" title="etiss::instr::Instruction\l::addCallback" alt="" coords="220,5,387,47"/>
+<area shape="rect" id="node3" href="$namespaceetiss.html#afd320e98bf6a5e2c0d8ffde5dd28dd35" title="write log message at the given level. " alt="" coords="477,42,559,69"/>
+<area shape="rect" id="node6" href="$namespaceetiss_1_1instr.html#abd7ccc74d7b5d79f99f2febaf149f774" title="etiss::instr::parse_i32" alt="" coords="223,122,384,149"/>
+<area shape="rect" id="node7" href="$classetiss_1_1instr_1_1Instruction.html#a5df50f32a42ec58653e05a3d8013c486" title="etiss::instr::Instruction\l::setASMPrinter" alt="" coords="220,173,387,215"/>
+<area shape="rect" id="node4" href="$namespaceetiss.html#a5d23a51a17c09f1b863c601d4454f99b" title="conversion of type T to std::string. " alt="" coords="649,42,761,69"/>
+<area shape="rect" id="node5" href="$namespaceetiss.html#a160483ffeeb252cc1140206d2248c3a9" title="etiss::split" alt="" coords="809,42,899,69"/>
+<area shape="rect" id="node8" href="$classetiss_1_1instr_1_1Instruction.html#a806e453000a68fe098e16eded55976a2" title="etiss::instr::Instruction\l::printASMSimple" alt="" coords="435,173,601,215"/>
+</map>

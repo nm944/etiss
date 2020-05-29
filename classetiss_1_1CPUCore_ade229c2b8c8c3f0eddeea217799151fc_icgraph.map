@@ -1,0 +1,19 @@
+<map id="etiss::CPUCore::getStruct" name="etiss::CPUCore::getStruct">
+<area shape="rect" id="node2" href="$classetiss_1_1plugin_1_1InstructionAccurateCallback.html#aeb45cf2090c8af6a06030614c5c79314" title="etiss::plugin::Instruction\lAccurateCallback::call" alt="" coords="286,5,465,47"/>
+<area shape="rect" id="node4" href="$classetiss_1_1plugin_1_1errorInjection_1_1BlockAccurateHandler.html#a75f8a77ca8fcf968b96334cfc47b879c" title="call to apply errors " alt="" coords="258,71,493,112"/>
+<area shape="rect" id="node5" href="$classetiss_1_1plugin_1_1VariableValueLogger.html#ae78ddff9a4e6c535823404e79accdeb6" title="called after all instructions have been added to allow last changes " alt="" coords="276,136,475,177"/>
+<area shape="rect" id="node6" href="$classetiss_1_1plugin_1_1gdb_1_1Server.html#ae641aef3a8187459a89c40a473d6ab0a" title="etiss::plugin::gdb\l::Server::handlePacket" alt="" coords="292,201,459,243"/>
+<area shape="rect" id="node15" href="$classetiss_1_1CPUArchRegListenerInterface.html#a9ba89fc7a632259550bd93eb61cc49ac" title="call this function to inform RegisterDevicePlugins about changed special register values..." alt="" coords="239,267,512,308"/>
+<area shape="rect" id="node17" href="$classetiss_1_1plugin_1_1VariableValueLogger.html#a8cd6b52a5ab56f78e38a07aae0de1f8c" title="Calls the function specified with writer_ to log the variable. " alt="" coords="276,332,475,373"/>
+<area shape="rect" id="node3" href="$InstructionAccurateCallback_8cpp.html#a10a1191eddeb50c0d5a20a2c25995e0f" title="etiss_plugin_Instruction\lAccurateCallback" alt="" coords="599,5,775,47"/>
+<area shape="rect" id="node7" href="$classetiss_1_1plugin_1_1gdb_1_1Server.html#af2d20da879692be332064d7e082f2833" title="etiss::plugin::gdb\l::Server::preInstructionCallback" alt="" coords="574,71,801,112"/>
+<area shape="rect" id="node8" href="$classetiss_1_1plugin_1_1gdb_1_1Server.html#a0b42a227476616e0e6b7788661a1bd14" title="called before a block and may act in the same way as a block " alt="" coords="621,136,754,177"/>
+<area shape="rect" id="node9" href="$classetiss_1_1plugin_1_1gdb_1_1Server.html#ae06e9ac2d95f66a3ce80560cabdce7d2" title="etiss::plugin::gdb\l::Server::preMemoryAccessCallback" alt="" coords="560,201,815,243"/>
+<area shape="rect" id="node10" href="$GDBSystemWrapper_8cpp.html#a1e62443ab4b754f069e362077b675991" title="gdb_system_call_iread" alt="" coords="867,133,1037,159"/>
+<area shape="rect" id="node12" href="$GDBSystemWrapper_8cpp.html#a1282454689cbd0a6834efb38ecc87c9a" title="gdb_system_call_iwrite" alt="" coords="865,183,1039,210"/>
+<area shape="rect" id="node13" href="$GDBSystemWrapper_8cpp.html#aad56c1dc9334271824d32f9e45feb462" title="gdb_system_call_dread" alt="" coords="865,234,1039,261"/>
+<area shape="rect" id="node14" href="$GDBSystemWrapper_8cpp.html#a32953af52dfa80a165bfa6944be2e7fe" title="gdb_system_call_dwrite" alt="" coords="863,285,1041,311"/>
+<area shape="rect" id="node11" href="$classetiss_1_1plugin_1_1gdb_1_1Server.html#a5cba6c4a3621360bf1125df0b124d63e" title="etiss::plugin::gdb\l::Server::wrap" alt="" coords="1089,201,1223,243"/>
+<area shape="rect" id="node16" href="$CPUArch_8cpp.html#a084690341960c5de42da6f920dbb0f7e" title="ETISS_signalChangedRegister\lValue" alt="" coords="580,267,795,308"/>
+<area shape="rect" id="node18" href="$VariableValueLogger_8cpp.html#aed93f8a19dee4d0783ca0e374576065f" title="etiss_plugin_VariableValue\lLogger" alt="" coords="589,332,785,373"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="etiss::RegisterPart::isEmpty" name="etiss::RegisterPart::isEmpty">
+<area shape="rect" id="node2" href="$classetiss_1_1RegisterSet.html#a71f6c06c15ba6f84e449f243e38b28ff" title="add a registerPart to the set or just its relevant bits if a register with the same name is already p..." alt="" coords="192,130,359,157"/>
+<area shape="rect" id="node8" href="$classetiss_1_1RegisterPart.html#a54e494a9777aa0989f80fe07a9b77721" title="check if passed RegisterPart is a subset of relevant bits of the same register " alt="" coords="206,253,345,295"/>
+<area shape="rect" id="node10" href="$classetiss_1_1RegisterPart.html#a8cefce9cb315e106cd03dda5de3e2777" title="check for equality " alt="" coords="206,319,345,360"/>
+<area shape="rect" id="node12" href="$classetiss_1_1RegisterPart.html#ac5f4abe85129587bef2755c3e3613f39" title="etiss::RegisterPart\l::operator\&lt;" alt="" coords="206,384,345,425"/>
+<area shape="rect" id="node3" href="$classetiss_1_1DataSheetAccurateTiming.html#a31c30a45640628d306ca96b1fcc65cb9" title="simple template function that adds the given number of cycles to the cpu time if the related rule mat..." alt="" coords="423,5,630,47"/>
+<area shape="rect" id="node4" href="$CPUArch_8cpp.html#a3dade4e78decdde1d782af7443dbe5eb" title="CPUArch_finalizeInstrSet" alt="" coords="435,71,618,98"/>
+<area shape="rect" id="node6" href="$classetiss_1_1plugin_1_1InstructionAccurateCallback.html#a8e2f99eab05454fe3f848b8a2449338c" title="called after all instructions have been added to allow last changes " alt="" coords="407,123,647,164"/>
+<area shape="rect" id="node7" href="$classetiss_1_1plugin_1_1VariableValueLogger.html#ae78ddff9a4e6c535823404e79accdeb6" title="called after all instructions have been added to allow last changes " alt="" coords="427,188,626,229"/>
+<area shape="rect" id="node5" href="$classetiss_1_1CPUArch.html#af58f087b803dd678dd5b7700d92cadc4" title="the default behavior of this function of a cpu arch is to add &quot;cpu&#45;&gt;cpuTime_ps += cpu&#45;&gt;cpuCycleTime_p..." alt="" coords="695,64,867,105"/>
+<area shape="rect" id="node9" href="$classetiss_1_1RegisterPart.html#ae0c2ab1d473d15c1dde0f3bb93102092" title="etiss::RegisterPart\l::maskedBy" alt="" coords="457,253,596,295"/>
+<area shape="rect" id="node11" href="$classetiss_1_1RegisterPart.html#ae4e287d6a3d1bfd0f8a7edfec0745942" title="same as matches(const RegisterPart &amp; other) " alt="" coords="457,319,596,360"/>
+</map>

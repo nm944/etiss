@@ -1,0 +1,7 @@
+<map id="etiss::fault::Injector::get" name="etiss::fault::Injector::get">
+<area shape="rect" id="node2" href="$classetiss_1_1fault_1_1InjectorAddress.html#aaf4c641ac7fbfcb801f6801ec18f2242" title="etiss::fault::InjectorAddress\l::getInjector" alt="" coords="231,116,431,157"/>
+<area shape="rect" id="node3" href="$classetiss_1_1fault_1_1Trigger.html#ae1730b98d49a46c286c4f58c504be330" title="etiss::fault::Trigger\l::operator=" alt="" coords="479,5,621,47"/>
+<area shape="rect" id="node4" href="$classetiss_1_1fault_1_1Trigger.html#a1892b683e0239f78185a879955f4f80e" title="etiss::fault::Trigger\l::~Trigger" alt="" coords="479,71,621,112"/>
+<area shape="rect" id="node5" href="$classetiss_1_1fault_1_1Trigger.html#a5740978553bccd11f09253c562e16921" title="this function checks if the Trigger has just fired. " alt="" coords="479,160,621,201"/>
+<area shape="rect" id="node6" href="$classetiss_1_1fault_1_1Trigger.html#a508c1e1cc95921b2894c59a8233c9ac9" title="etiss::fault::Trigger\l::getInjector" alt="" coords="479,249,621,291"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="xpath_ast_node::step_do" name="xpath_ast_node::step_do">
+<area shape="rect" id="node2" href="$classpugi_1_1xml__node.html#a48d57ea59a862921b83bb48475976f77" title="pugi::xml_node::attributes" alt="" coords="237,64,431,91"/>
+<area shape="rect" id="node5" href="$classxpath__node__set__raw.html#a3a3ab8b9461e28910375cbbdd239b980" title="xpath_node_set_raw\l::begin" alt="" coords="513,122,669,163"/>
+<area shape="rect" id="node6" href="$classxpath__node__set__raw.html#a44198ae887e8ed414e6bf0cb7df17658" title="xpath_node_set_raw::end" alt="" coords="497,188,684,215"/>
+<area shape="rect" id="node7" href="$classxpath__ast__node.html#a30d98ec97e3129e82ac9ec3f2a759855" title="xpath_ast_node::eval\l_node_set" alt="" coords="253,294,415,335"/>
+<area shape="rect" id="node11" href="$classxpath__node__set__raw.html#af82da6fa8d42f9dff9c55e7b93d96e26" title="xpath_node_set_raw\l::remove_duplicates" alt="" coords="513,435,669,477"/>
+<area shape="rect" id="node22" href="$classxpath__node__set__raw.html#ae73780271d772967f78ddd7b9376cdab" title="xpath_node_set_raw\l::set_type" alt="" coords="513,501,669,542"/>
+<area shape="rect" id="node27" href="$classxpath__node__set__raw.html#a1e790772073ddeafd7fe93464acb1156" title="xpath_node_set_raw\l::size" alt="" coords="256,462,412,503"/>
+<area shape="rect" id="node28" href="$classxpath__node__set__raw.html#a40f85691234070adc233cc2eac980fbf" title="xpath_node_set_raw\l::type" alt="" coords="256,527,412,569"/>
+<area shape="rect" id="node3" href="$classpugi_1_1xml__node.html#ac995c542187d0f076f4acc7d88709db2" title="pugi::xml_node::attributes\l_begin" alt="" coords="494,57,687,98"/>
+<area shape="rect" id="node4" href="$classpugi_1_1xml__node.html#a5e20587b50f320bc89de71524341e88a" title="pugi::xml_node::attributes_end" alt="" coords="479,5,703,32"/>
+<area shape="rect" id="node8" href="$classxpath__node__set__raw.html#a0c02728de3d895a2d12df9666d60e414" title="xpath_node_set_raw\l::append" alt="" coords="513,305,669,346"/>
+<area shape="rect" id="node10" href="$classxpath__node__set__raw.html#a676ec123e5be874869c78ff5c43ae9c2" title="xpath_node_set_raw\l::push_back" alt="" coords="513,239,669,281"/>
+<area shape="rect" id="node24" href="$classxpath__node__set__raw.html#a5e46ee306afc24ea83f6c1181bba3600" title="xpath_node_set_raw\l::sort_do" alt="" coords="513,370,669,411"/>
+<area shape="rect" id="node9" href="$classxpath__allocator.html#a4dd502389202ec8e7420832112a571e5" title="xpath_allocator::reallocate" alt="" coords="751,277,947,304"/>
+<area shape="rect" id="node12" href="$pugixml_8cpp.html#a422d054a9e9fa1f5546a8365cd1d757b" title="sort" alt="" coords="1007,403,1053,429"/>
+<area shape="rect" id="node21" href="$pugixml_8cpp.html#a50d3fa6d38fd850cdc7842683e656a11" title="unique" alt="" coords="997,465,1063,492"/>
+<area shape="rect" id="node13" href="$classpugi_1_1xml__node.html#ae42dc1a560ee36a16f907cd7aa89cc9c" title="pugi::xml_node::begin" alt="" coords="1272,491,1439,517"/>
+<area shape="rect" id="node14" href="$pugixml_8cpp.html#a54bf2719c7797e72531b07a644adb3d1" title="insertion_sort" alt="" coords="1113,541,1224,568"/>
+<area shape="rect" id="node17" href="$pugixml_8cpp.html#a499b0ece1124e9db443c633394439b0c" title="median" alt="" coords="1133,339,1204,365"/>
+<area shape="rect" id="node20" href="$pugixml_8cpp.html#aba284a56e212323a9d1c44fef9a804e5" title="partition" alt="" coords="1130,389,1207,416"/>
+<area shape="rect" id="node15" href="$pugixml_8cpp.html#a707f8b52c3f96c1fe49c8d4117873139" title="copy_backwards" alt="" coords="1290,541,1421,568"/>
+<area shape="rect" id="node16" href="$classpugi_1_1xml__node.html#a6c1f42812de4e25ac72908efab842126" title="pugi::xml_node::end" alt="" coords="1487,541,1641,568"/>
+<area shape="rect" id="node18" href="$pugixml_8cpp.html#aed4d651cf1c41b688ffc70804b49c6b0" title="median3" alt="" coords="1316,339,1395,365"/>
+<area shape="rect" id="node19" href="$pugixml_8cpp.html#aab8f818e90a34b18c1da140588eca88d" title="swap" alt="" coords="1536,339,1592,365"/>
+<area shape="rect" id="node23" href="$classpugi_1_1xml__node.html#a80720895a55c570075ea9bbc0561c298" title="pugi::xml_node::value" alt="" coords="765,511,932,537"/>
+<area shape="rect" id="node25" href="$pugixml_8cpp.html#a8cb0eb3d56ad07f31e10d66d23fbc66d" title="xpath_sort" alt="" coords="803,359,894,385"/>
+<area shape="rect" id="node26" href="$pugixml_8cpp.html#a7a6eedef949e55be650bd6d2df60d68d" title="reverse" alt="" coords="995,320,1065,347"/>
+</map>

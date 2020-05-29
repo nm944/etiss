@@ -1,0 +1,9 @@
+<map id="etiss::plugin::VirtualStructMemory" name="etiss::plugin::VirtualStructMemory">
+<area shape="rect" id="node2" href="$classetiss_1_1SimpleSystem.html" title="A simple system, that implements the etiss::System interface. " alt="" coords="1071,85,1225,112"/>
+<area shape="rect" id="node3" href="$classetiss_1_1System.html" title="System Interface for the basic system IO operations and time synchronization. " alt="" coords="678,84,789,111"/>
+<area shape="rect" id="node7" href="$classetiss_1_1VirtualStruct.html" title="abstract representation of an module of a simulation which could be a embedded device of the cpu of a..." alt="" coords="1077,537,1219,564"/>
+<area shape="rect" id="node14" href="$classetiss_1_1VirtualStruct_1_1Field.html" title="a Field instance represents e.g. " alt="" coords="1428,909,1571,950"/>
+<area shape="rect" id="node9" href="$classetiss_1_1fault_1_1Injector.html" title="etiss::fault::Injector" alt="" coords="659,327,807,353"/>
+<area shape="rect" id="node19" title="STL class. " alt="" coords="1105,1347,1191,1373"/>
+<area shape="rect" id="node20" title="STL class. " alt="" coords="664,1339,803,1381"/>
+</map>

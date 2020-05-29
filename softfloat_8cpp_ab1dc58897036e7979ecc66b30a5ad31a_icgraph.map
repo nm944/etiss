@@ -1,0 +1,18 @@
+<map id="roundAndPackFloat32" name="roundAndPackFloat32">
+<area shape="rect" id="node2" href="$softfloat_8cpp.html#aca8d6aecbc9f7fdd8d764732053e48a1" title="addFloat32Sigs" alt="" coords="497,309,619,336"/>
+<area shape="rect" id="node8" href="$softfloat_8cpp.html#a92fdb937f447bd7922919b535abe31e4" title="float32_div" alt="" coords="511,5,605,32"/>
+<area shape="rect" id="node9" href="$softfloat_8cpp.html#a4ab0f0558da62c0880f4ce168b793e78" title="float32_mul" alt="" coords="670,56,769,83"/>
+<area shape="rect" id="node10" href="$softfloat_8cpp.html#a3be33bf26c7d0bb9c83f7988a62cdbcb" title="float32_sqrt" alt="" coords="509,107,607,133"/>
+<area shape="rect" id="node11" href="$softfloat_8cpp.html#a2792db4499f61dbd145446c3d99490d3" title="float64_lt_quiet" alt="" coords="270,157,393,184"/>
+<area shape="rect" id="node12" href="$softfloat_8cpp.html#a4291d8ce0ccf9a5c03adf61f2c1e3489" title="float64_to_float32" alt="" coords="262,208,401,235"/>
+<area shape="rect" id="node13" href="$softfloat_8cpp.html#a1ef8dce2cffb0a4adf95c8238e8911b0" title="int64_to_float32" alt="" coords="268,259,395,285"/>
+<area shape="rect" id="node14" href="$softfloat_8cpp.html#a352e0e7883b7fd1fdb3a58403a56edf2" title="normalizeRoundAndPackFloat32" alt="" coords="216,385,447,412"/>
+<area shape="rect" id="node3" href="$softfloat_8cpp.html#a75262496089399ad6b8b1281a16f22b7" title="float32_add" alt="" coords="670,309,769,336"/>
+<area shape="rect" id="node7" href="$softfloat_8cpp.html#aaf6fdb5d9a719e8883e5ae46994e6f1b" title="float32_sub" alt="" coords="671,360,768,387"/>
+<area shape="rect" id="node4" href="$timesoftfloat_8c.html#ad724a005a1472cbe8c112bf515680fb2" title="timeFunctionVariety" alt="" coords="817,233,969,260"/>
+<area shape="rect" id="node5" href="$timesoftfloat_8c.html#ab44bbfaf0c16ec012ced8c032ba64615" title="timeFunction" alt="" coords="1017,233,1124,260"/>
+<area shape="rect" id="node6" href="$timesoftfloat_8c.html#a5ea466849f21e6c2be4ef9b2eb8868d3" title="main" alt="" coords="1172,233,1227,260"/>
+<area shape="rect" id="node15" href="$softfloat_8cpp.html#ac2cc5539187b6ffd946c00e564a19f70" title="float32_rem" alt="" coords="669,411,769,437"/>
+<area shape="rect" id="node16" href="$softfloat_8cpp.html#a8352e8043969361965193ed2dd97b5d9" title="int32_to_float32" alt="" coords="495,461,621,488"/>
+<area shape="rect" id="node17" href="$softfloat_8cpp.html#a2e881ca85b2079fefe70a47c37216406" title="subFloat32Sigs" alt="" coords="498,360,618,387"/>
+</map>

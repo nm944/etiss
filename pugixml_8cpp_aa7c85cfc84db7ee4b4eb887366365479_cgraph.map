@@ -1,0 +1,10 @@
+<map id="get_write_encoding" name="get_write_encoding">
+<area shape="rect" id="node2" href="$pugixml_8cpp.html#a976a3493e244f178a887d589740bea73" title="convert_buffer_output" alt="" coords="203,61,368,88"/>
+<area shape="rect" id="node3" href="$pugixml_8cpp.html#a313a9165f1ab0bafc9cdae5e95a7a27f" title="convert_utf_endian_swap" alt="" coords="416,5,604,32"/>
+<area shape="rect" id="node6" href="$pugixml_8cpp.html#a282e2854710450f313ea03bb59a8f681" title="is_little_endian" alt="" coords="449,123,571,149"/>
+<area shape="rect" id="node7" href="$structutf__decoder.html#a5953fd0661c64408e08161342e4c538d" title="utf_decoder::decode\l_wchar_block" alt="" coords="208,163,363,205"/>
+<area shape="rect" id="node8" href="$pugixml_8cpp.html#a5dfd2dce8fc6dd9268a19ed553884234" title="get_valid_length" alt="" coords="220,229,351,256"/>
+<area shape="rect" id="node9" href="$pugixml_8cpp.html#a1d386e9425e75d35b01373e46f186b9c" title="get_wchar_encoding" alt="" coords="208,280,363,307"/>
+<area shape="rect" id="node5" href="$structutf__decoder.html#a671829bbdba1eac5c8bd2bf781eae498" title="utf_decoder::decode\l_utf8_block" alt="" coords="433,57,587,98"/>
+<area shape="rect" id="node4" href="$pugixml_8cpp.html#a6d31b21cfa4167d79865a7797b33f3f1" title="endian_swap" alt="" coords="652,5,759,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="etiss::instr::InstructionGroup" name="etiss::instr::InstructionGroup">
+<area shape="rect" id="node5" href="$classetiss_1_1instr_1_1InstructionDefinition.html" title="maps to Instruction " alt="" coords="893,190,1060,232"/>
+<area shape="rect" id="node2" href="$classetiss_1_1ToString.html" title="Marker interface for toString() support. " alt="" coords="299,10,412,36"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="312,164,399,191"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="5,157,144,198"/>
+<area shape="rect" id="node11" href="$classetiss_1_1instr_1_1OPCode.html" title="defines the relevant bits and their value to identify an instruction. " alt="" coords="563,319,712,346"/>
+<area shape="rect" id="node12" href="$classetiss_1_1instr_1_1BitArray.html" title="stores a bit vector " alt="" coords="280,319,431,346"/>
+</map>

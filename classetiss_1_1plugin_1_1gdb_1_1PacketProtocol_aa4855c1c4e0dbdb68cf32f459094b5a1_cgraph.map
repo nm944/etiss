@@ -1,0 +1,11 @@
+<map id="etiss::plugin::gdb::PacketProtocol::_available" name="etiss::plugin::gdb::PacketProtocol::_available">
+<area shape="rect" id="node2" href="$classetiss_1_1plugin_1_1gdb_1_1Connection.html#ad615c9946953781d332bc2eb73aa58fe" title="etiss::plugin::gdb\l::Connection::available" alt="" coords="283,5,453,47"/>
+<area shape="rect" id="node3" href="$classetiss_1_1plugin_1_1gdb_1_1Connection.html#ac711c912da2f2c5e62a95bf3ab161cfd" title="etiss::plugin::gdb\l::Connection::rcv" alt="" coords="301,71,435,112"/>
+<area shape="rect" id="node4" href="$classetiss_1_1plugin_1_1gdb_1_1PacketProtocol.html#a9bfacf5954fabcf35438d3ba5b160540" title="etiss::plugin::gdb\l::PacketProtocol::tryReadPacket" alt="" coords="255,136,481,177"/>
+<area shape="rect" id="node5" href="$classetiss_1_1plugin_1_1gdb_1_1Connection.html#abab97df0e7b431c1c4d3ee9234c8d0e8" title="etiss::plugin::gdb\l::Connection::pendingBREAK" alt="" coords="529,12,736,53"/>
+<area shape="rect" id="node6" href="$classetiss_1_1plugin_1_1gdb_1_1Connection.html#a88e86354ac91b1743cb2ae776b05861c" title="etiss::plugin::gdb\l::Connection::clearBREAK" alt="" coords="539,77,726,119"/>
+<area shape="rect" id="node7" href="$GDBConnection_8cpp.html#a6572eb9068c6f29e6607f55e35d4daf0" title="PacketProtocol_findUE" alt="" coords="549,143,716,170"/>
+<area shape="rect" id="node8" href="$namespaceetiss_1_1plugin_1_1gdb_1_1hex.html#a0bfff49b4e28c7cbdd30e196f0308a56" title="converts 2 hex characters to a byte " alt="" coords="566,195,699,236"/>
+<area shape="rect" id="node10" href="$classetiss_1_1plugin_1_1gdb_1_1Connection.html#aeaba2fdc2a059e2f6db8b11619e9e92a" title="etiss::plugin::gdb\l::Connection::snd" alt="" coords="565,260,700,301"/>
+<area shape="rect" id="node9" href="$namespaceetiss_1_1plugin_1_1gdb_1_1hex.html#ac7090e6054a3b3c729c8f64d15e0df86" title="convert a character to the hex value it represents(0&#45;15) " alt="" coords="784,195,917,236"/>
+</map>

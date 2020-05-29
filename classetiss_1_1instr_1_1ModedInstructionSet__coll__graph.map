@@ -1,0 +1,12 @@
+<map id="etiss::instr::ModedInstructionSet" name="etiss::instr::ModedInstructionSet">
+<area shape="rect" id="node4" href="$classetiss_1_1instr_1_1VariableInstructionSet.html" title="holds etiss::instr::InstructionSet instances with different bit widths. " alt="" coords="2681,289,2923,316"/>
+<area shape="rect" id="node10" href="$classetiss_1_1instr_1_1BitArrayRange.html" title="Acts as a view/filter to a BitArray. " alt="" coords="297,620,489,647"/>
+<area shape="rect" id="node15" href="$classetiss_1_1instr_1_1Instruction.html" title="holds information and translation callbacks for an instruction. " alt="" coords="1208,509,1375,536"/>
+<area shape="rect" id="node23" href="$classetiss_1_1instr_1_1BitArray.html" title="stores a bit vector " alt="" coords="318,729,469,756"/>
+<area shape="rect" id="node7" href="$classetiss_1_1instr_1_1InstructionSet.html" title="holds etiss::instr::Instruction instances and handles automatic instruction tree creation. " alt="" coords="1968,577,2156,604"/>
+<area shape="rect" id="node8" href="$classetiss_1_1ToString.html" title="Marker interface for toString() support. " alt="" coords="813,269,926,296"/>
+<area shape="rect" id="node9" href="$classetiss_1_1instr_1_1Node.html" title="base class that is used to build the instruction translation tree within an InstructionSet object ..." alt="" coords="803,639,935,665"/>
+<area shape="rect" id="node18" title="STL class. " alt="" coords="826,168,913,195"/>
+<area shape="rect" id="node19" title="STL class. " alt="" coords="324,153,463,194"/>
+<area shape="rect" id="node22" href="$classetiss_1_1instr_1_1OPCode.html" title="defines the relevant bits and their value to identify an instruction. " alt="" coords="1035,733,1184,760"/>
+</map>

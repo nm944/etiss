@@ -1,0 +1,30 @@
+<map id="/home/travis/build/tum&#45;ei&#45;eda/etiss/include/etiss/IntegratedLibrary/gdb/GDBServer.h" name="/home/travis/build/tum&#45;ei&#45;eda/etiss/include/etiss/IntegratedLibrary/gdb/GDBServer.h">
+<area shape="rect" id="node2" href="$CPUArch_8h.html" title="contains neccesary interfaces for instruction translation. " alt="" coords="1794,131,1919,158"/>
+<area shape="rect" id="node26" href="$CPU_8h.html" title="contains the basic cpu state structure with a instruction pointer and time parameters. " alt="" coords="5,452,119,479"/>
+<area shape="rect" id="node28" href="$Plugin_8h.html" title="plugins for extensions to code translation and instruction execution " alt="" coords="1861,288,1970,315"/>
+<area shape="rect" id="node29" href="$c_2etiss_2jit_2System_8h.html" title="contains an interface for time synchronization and memory access " alt="" coords="151,370,285,397"/>
+<area shape="rect" id="node50" href="$GDBConnection_8h.html" title="etiss/IntegratedLibrary\l/gdb/GDBConnection.h" alt="" coords="2612,124,2781,165"/>
+<area shape="rect" id="node6" href="$CodePart_8h.html" title="classes to hold code and additional information used for optimization of instruction translations ..." alt="" coords="1649,452,1776,479"/>
+<area shape="rect" id="node20" href="$Instruction_8h.html" title="contains container classes to store instruction definitions + translation functions and build a trans..." alt="" coords="2495,370,2634,397"/>
+<area shape="rect" id="node25" href="$GDBCore_8h.html" title="etiss/IntegratedLibrary\l/gdb/GDBCore.h" alt="" coords="1556,363,1725,404"/>
+<area shape="rect" id="node27" href="$InterruptVector_8h.html" title="defines a general interface to set interrupt bits " alt="" coords="1409,452,1574,479"/>
+<area shape="rect" id="node30" href="$VirtualStruct_8h.html" title="etiss/VirtualStruct.h" alt="" coords="1207,213,1357,240"/>
+<area shape="rect" id="node43" href="$ReturnCode_8h.html" title="contains exception/return codes used to control execution of an etiss::CPUCore " alt="" coords="548,213,709,240"/>
+<area shape="rect" id="node44" href="$MMU_8h.html" title="Modeling hardware memory management for virtual memory &#45;&gt; physical memory translation and protection..." alt="" coords="2117,213,2247,240"/>
+<area shape="rect" id="node11" href="$types_8h.html" title="type declarations for etiss and definition of the likely/unlikely macros. " alt="" coords="325,601,447,628"/>
+<area shape="rect" id="node13" href="$Misc_8h.html" title="general configuration and logging " alt="" coords="1663,527,1762,553"/>
+<area shape="rect" id="node18" href="$config_8h.html" title="contains defines to configure ETISS. " alt="" coords="1812,601,1920,628"/>
+<area shape="rect" id="node19" href="$ClassDefs_8h.html" title="etiss/ClassDefs.h" alt="" coords="1944,601,2079,628"/>
+<area shape="rect" id="node31" href="$CVirtualStruct_8h.html" title="etiss/CVirtualStruct.h" alt="" coords="128,527,287,553"/>
+<area shape="rect" id="node32" href="$Injector_8h.html" title="contains the fault injector interface class. " alt="" coords="361,288,512,315"/>
+<area shape="rect" id="node33" href="$Fault_8h.html" title="contains the fault container class that stores triggers and actions for fault injection ..." alt="" coords="597,370,732,397"/>
+<area shape="rect" id="node36" href="$Action_8h.html" title="contains an action class that describes actions associated with a fault " alt="" coords="591,452,735,479"/>
+<area shape="rect" id="node37" href="$Defs_8h.html" title="contains general definitions used by other fault library code " alt="" coords="623,601,757,628"/>
+<area shape="rect" id="node39" href="$XML_8h.html" title="contains XML related functions. " alt="" coords="826,527,957,553"/>
+<area shape="rect" id="node40" href="$Trigger_8h.html" title="contains the Trigger class that defines conditions under which actions of a Fault need to be applied..." alt="" coords="810,452,957,479"/>
+<area shape="rect" id="node45" href="$PTE_8h.html" title="etiss/mm/PTE.h" alt="" coords="2298,370,2421,397"/>
+<area shape="rect" id="node48" href="$PageFaultVector_8h.html" title="Internal fault inside MMU and. " alt="" coords="1133,527,1335,553"/>
+<area shape="rect" id="node49" href="$TLB_8h.html" title="Modeling Tranlation Look&#45;up Table (TLB) " alt="" coords="2199,288,2322,315"/>
+<area shape="rect" id="node46" href="$PTEFormat_8h.html" title="etiss/mm/PTEFormat.h" alt="" coords="2699,527,2868,553"/>
+<area shape="rect" id="node47" href="$PTEFormatBuilder_8h.html" title="etiss/mm/PTEFormatBuilder.h" alt="" coords="2547,452,2761,479"/>
+</map>

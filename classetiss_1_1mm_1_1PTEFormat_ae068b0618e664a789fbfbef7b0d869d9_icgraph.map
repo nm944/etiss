@@ -1,0 +1,12 @@
+<map id="etiss::mm::PTEFormat::PTEFormat" name="etiss::mm::PTEFormat::PTEFormat">
+<area shape="rect" id="node2" href="$classetiss_1_1mm_1_1PTEFormat.html#a44f08a1ac748d09952051195e0899e63" title="Get the singleton instance. " alt="" coords="219,165,384,207"/>
+<area shape="rect" id="node3" href="$classetiss_1_1mm_1_1PTEFormatBuilder.html#affe57ce997f8a2933224ca8768a53373" title="Get the singleton instance. " alt="" coords="432,5,643,47"/>
+<area shape="rect" id="node4" href="$classetiss_1_1mm_1_1MMU.html#ad037264296f22dfa51f99887e27fb14e" title="Conduct the actual translation according to the format set by PTEFormatBuilder. " alt="" coords="440,71,635,98"/>
+<area shape="rect" id="node6" href="$classetiss_1_1mm_1_1PTE.html#ae45a07db71a0a44699817dee8b65d9cf" title="Update the PTE with a new value. " alt="" coords="719,122,893,149"/>
+<area shape="rect" id="node8" href="$classetiss_1_1mm_1_1PTE.html#a5855218c209b87341032b75da01077c9" title="Get the bit field value with its name. " alt="" coords="434,173,641,199"/>
+<area shape="rect" id="node9" href="$classetiss_1_1mm_1_1PTE.html#ad2d269f73a68beb3265d471bee4535fe" title="Dump the details of the PTE entry. " alt="" coords="723,223,889,250"/>
+<area shape="rect" id="node10" href="$classetiss_1_1mm_1_1PTE.html#ae33da9afe78d6a4dff7db5fc448b19ab" title="Set the bit field value with its name. " alt="" coords="691,274,921,301"/>
+<area shape="rect" id="node11" href="$classetiss_1_1mm_1_1PTE.html#a5213bc8cecaa9373b11d22d9fe85f49f" title="Clear the bit field value with its name. " alt="" coords="443,325,631,367"/>
+<area shape="rect" id="node5" href="$classetiss_1_1mm_1_1MMU.html#a632a31ac20b9e1e6cc5805a957d71804" title="etiss::mm::MMU::~MMU" alt="" coords="717,71,895,98"/>
+<area shape="rect" id="node7" href="$classetiss_1_1mm_1_1PTE.html#a031c4a4e7667216c2bcf9c2158812b44" title="etiss::mm::PTE::PTE" alt="" coords="969,223,1120,250"/>
+</map>

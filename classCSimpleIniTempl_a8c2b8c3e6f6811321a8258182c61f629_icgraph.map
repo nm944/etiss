@@ -1,0 +1,7 @@
+<map id="CSimpleIniTempl::AddEntry" name="CSimpleIniTempl::AddEntry">
+<area shape="rect" id="node2" href="$classCSimpleIniTempl.html#aa797cf47cec05906f07d5065882af4d3" title="Load INI file data direct from memory. " alt="" coords="255,5,456,32"/>
+<area shape="rect" id="node3" href="$classCSimpleIniTempl.html#a48ae136fa20c5d7eb7ab0b75342b27cf" title="Add or update a boolean value. " alt="" coords="261,57,450,98"/>
+<area shape="rect" id="node4" href="$classCSimpleIniTempl.html#a92203e0c21f8d71e5d1621a18ee0be50" title="Query the status of spaces output. " alt="" coords="507,152,729,179"/>
+<area shape="rect" id="node5" href="$classCSimpleIniTempl.html#af92ba0b8067553ab693c62a370de6534" title="Add or update a double value. " alt="" coords="252,174,459,215"/>
+<area shape="rect" id="node6" href="$classCSimpleIniTempl.html#ab2238be407232e4bba0f1343e4793e4e" title="Add or update a numeric value. " alt="" coords="260,239,451,281"/>
+</map>

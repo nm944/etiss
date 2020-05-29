@@ -1,0 +1,10 @@
+<map id="pugi::xml_document::destroy" name="pugi::xml_document::destroy">
+<area shape="rect" id="node2" href="$classpugi_1_1xml__document.html#acf2b9daf1d12e12048796118b7a7685d" title="pugi::xml_document\l::reset" alt="" coords="208,136,363,177"/>
+<area shape="rect" id="node9" href="$classpugi_1_1xml__document.html#af37d8a79f7465ad48d65c2bd13461580" title="pugi::xml_document\l::~xml_document" alt="" coords="208,201,363,243"/>
+<area shape="rect" id="node3" href="$classpugi_1_1xml__document.html#a4230de3de88f4fe481c4c3d5312aa5cf" title="pugi::xml_document\l::reset" alt="" coords="429,5,583,47"/>
+<area shape="rect" id="node4" href="$classpugi_1_1xml__document.html#aad350209a4a91589fbd7e8cdaf79e010" title="pugi::xml_document\l::load_file" alt="" coords="429,71,583,112"/>
+<area shape="rect" id="node5" href="$classpugi_1_1xml__document.html#ab29840790e26b2166a395c63a2b2d9bd" title="pugi::xml_document\l::load_buffer" alt="" coords="429,136,583,177"/>
+<area shape="rect" id="node7" href="$classpugi_1_1xml__document.html#a3e20650182ccbdd175ca069dd5e08632" title="pugi::xml_document\l::load_buffer_inplace" alt="" coords="427,201,585,243"/>
+<area shape="rect" id="node8" href="$classpugi_1_1xml__document.html#a9da4bdcdc4ad914fb0f4680b02983502" title="pugi::xml_document\l::load_buffer_inplace_own" alt="" coords="411,267,601,308"/>
+<area shape="rect" id="node6" href="$classpugi_1_1xml__document.html#ae17a77772fa21a40f3d91d9c79e60d0b" title="pugi::xml_document\l::load" alt="" coords="649,136,804,177"/>
+</map>

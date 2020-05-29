@@ -1,0 +1,15 @@
+<map id="etiss::instr::Instruction::addCallback" name="etiss::instr::Instruction::addCallback">
+<area shape="rect" id="node2" href="$classetiss_1_1instr_1_1InstructionDefinition.html#a1537216307ece80c4dfb09cd4c4ee067" title="etiss::instr::Instruction\lDefinition::addTo" alt="" coords="257,5,423,47"/>
+<area shape="rect" id="node3" href="$CPUArch_8cpp.html#a3dade4e78decdde1d782af7443dbe5eb" title="CPUArch_finalizeInstrSet" alt="" coords="249,71,431,98"/>
+<area shape="rect" id="node5" href="$classetiss_1_1plugin_1_1VariableValueLogger.html#ae78ddff9a4e6c535823404e79accdeb6" title="called after all instructions have been added to allow last changes " alt="" coords="241,123,439,164"/>
+<area shape="rect" id="node6" href="$classetiss_1_1plugin_1_1PrintInstruction.html#a7a00191b97394fa3ed15aa9781fdf45c" title="called after all instructions have been added to allow last changes " alt="" coords="236,188,444,229"/>
+<area shape="rect" id="node7" href="$classetiss_1_1plugin_1_1InstructionAccurateCallback.html#a8e2f99eab05454fe3f848b8a2449338c" title="called after all instructions have been added to allow last changes " alt="" coords="220,253,460,295"/>
+<area shape="rect" id="node8" href="$classetiss_1_1plugin_1_1InstructionSpecificAddressCallback.html#a4cf95f9946c7c7507db79367d14024b9" title="called after all instructions have been added to allow last changes " alt="" coords="250,319,430,375"/>
+<area shape="rect" id="node10" href="$classetiss_1_1DataSheetAccurateTiming.html#a31c30a45640628d306ca96b1fcc65cb9" title="simple template function that adds the given number of cycles to the cpu time if the related rule mat..." alt="" coords="237,400,443,441"/>
+<area shape="rect" id="node11" href="$classetiss_1_1instr_1_1InstructionSet.html#a7da6ceac9a10d5ac5d0a059b5b3e9828" title="etiss::instr::Instruction\lSet::InstructionSet" alt="" coords="257,465,423,507"/>
+<area shape="rect" id="node13" href="$GDBServer_8cpp.html#a8addabd4f79ea3ea37c5d5a180bddbb8" title="Server_finalizeInstrSet" alt="" coords="256,533,424,559"/>
+<area shape="rect" id="node4" href="$classetiss_1_1CPUArch.html#af58f087b803dd678dd5b7700d92cadc4" title="the default behavior of this function of a cpu arch is to add &quot;cpu&#45;&gt;cpuTime_ps += cpu&#45;&gt;cpuCycleTime_p..." alt="" coords="532,64,704,105"/>
+<area shape="rect" id="node9" href="$classetiss_1_1plugin_1_1InstructionSpecificAddressCallback.html#a5b277ad754f51902ece8d7172c73f316" title="etiss::plugin::Instruction\lSpecificAddressCallback\l::callbackAddresses" alt="" coords="528,319,708,375"/>
+<area shape="rect" id="node12" href="$classetiss_1_1instr_1_1VariableInstructionSet.html#a7ef20b306b0591d24839d51496dc0968" title="etiss::instr::VariableInstruction\lSet::create" alt="" coords="508,463,728,504"/>
+<area shape="rect" id="node14" href="$classetiss_1_1plugin_1_1gdb_1_1Server.html#aa260c8ec0147c2fb356e82fffa9ed212" title="called after all instructions have been added to allow last changes " alt="" coords="529,528,707,569"/>
+</map>

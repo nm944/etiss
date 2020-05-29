@@ -1,0 +1,10 @@
+<map id="sort" name="sort">
+<area shape="rect" id="node2" href="$classpugi_1_1xml__node.html#ae42dc1a560ee36a16f907cd7aa89cc9c" title="pugi::xml_node::begin" alt="" coords="259,107,425,133"/>
+<area shape="rect" id="node3" href="$pugixml_8cpp.html#a54bf2719c7797e72531b07a644adb3d1" title="insertion_sort" alt="" coords="100,56,211,83"/>
+<area shape="rect" id="node6" href="$pugixml_8cpp.html#a499b0ece1124e9db443c633394439b0c" title="median" alt="" coords="120,233,191,260"/>
+<area shape="rect" id="node9" href="$pugixml_8cpp.html#aba284a56e212323a9d1c44fef9a804e5" title="partition" alt="" coords="117,157,194,184"/>
+<area shape="rect" id="node4" href="$pugixml_8cpp.html#a707f8b52c3f96c1fe49c8d4117873139" title="copy_backwards" alt="" coords="277,5,407,32"/>
+<area shape="rect" id="node5" href="$classpugi_1_1xml__node.html#a6c1f42812de4e25ac72908efab842126" title="pugi::xml_node::end" alt="" coords="473,56,628,83"/>
+<area shape="rect" id="node7" href="$pugixml_8cpp.html#aed4d651cf1c41b688ffc70804b49c6b0" title="median3" alt="" coords="303,259,381,285"/>
+<area shape="rect" id="node8" href="$pugixml_8cpp.html#aab8f818e90a34b18c1da140588eca88d" title="swap" alt="" coords="523,233,579,260"/>
+</map>

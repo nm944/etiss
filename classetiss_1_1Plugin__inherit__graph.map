@@ -1,0 +1,21 @@
+<map id="etiss::Plugin" name="etiss::Plugin">
+<area shape="rect" id="node3" href="$classetiss_1_1CoroutinePlugin.html" title="this plugin will be called before a block is executed. " alt="" coords="336,126,500,153"/>
+<area shape="rect" id="node7" href="$classetiss_1_1InterruptListenerPlugin.html" title="etiss::InterruptListener\lPlugin" alt="" coords="333,503,503,544"/>
+<area shape="rect" id="node9" href="$classetiss_1_1RegisterDevicePlugin.html" title="RegisterDevicePlugin::changedRegister is called if a supported register has been changed. " alt="" coords="319,569,517,595"/>
+<area shape="rect" id="node10" href="$classetiss_1_1SystemWrapperPlugin.html" title="this plugin allows to wrap the ETISS_System interface " alt="" coords="316,246,520,273"/>
+<area shape="rect" id="node14" href="$classetiss_1_1TranslationPlugin.html" title="allows to add code to the translation of instructions " alt="" coords="332,451,504,478"/>
+<area shape="rect" id="node2" href="$classetiss_1_1ToString.html" title="Marker interface for toString() support. " alt="" coords="5,451,119,478"/>
+<area shape="rect" id="node4" href="$classetiss_1_1InterruptHandler.html" title="class that handles interrupt signaling and checking. " alt="" coords="588,71,756,98"/>
+<area shape="rect" id="node5" href="$classetiss_1_1plugin_1_1errorInjection_1_1BlockAccurateHandler.html" title="Register error injection class. " alt="" coords="574,5,770,47"/>
+<area shape="rect" id="node6" href="$classetiss_1_1plugin_1_1gdb_1_1Server.html" title="gdb server implementation that is used as a plugin in etiss " alt="" coords="605,173,739,215"/>
+<area shape="rect" id="node8" href="$classetiss_1_1plugin_1_1fault_1_1SwitchSystem.html" title="etiss::plugin::fault\l::SwitchSystem" alt="" coords="603,721,741,763"/>
+<area shape="rect" id="node11" href="$classetiss_1_1mm_1_1DMMUWrapper.html" title="etiss::mm::DMMUWrapper" alt="" coords="577,305,767,331"/>
+<area shape="rect" id="node12" href="$classetiss_1_1plugin_1_1Logger.html" title="simple logger implementation. " alt="" coords="595,122,749,149"/>
+<area shape="rect" id="node13" href="$classetiss_1_1plugin_1_1MemoryDeviceMapper.html" title="etiss::plugin::MemoryDevice\lMapper" alt="" coords="569,239,775,280"/>
+<area shape="rect" id="node15" href="$classetiss_1_1CPUArch.html" title="the interface to translate instructions of and processor architecture " alt="" coords="613,539,731,566"/>
+<area shape="rect" id="node16" href="$classetiss_1_1DataSheetAccurateTiming.html" title="etiss::DataSheetAccurate\lTiming" alt="" coords="579,591,765,632"/>
+<area shape="rect" id="node17" href="$classetiss_1_1plugin_1_1InstructionAccurateCallback.html" title="writes the value of a field before each instruction " alt="" coords="583,656,761,697"/>
+<area shape="rect" id="node18" href="$classetiss_1_1plugin_1_1InstructionSpecificAddressCallback.html" title="a simple plugin that prints the instruction and address when an instruction is executed ..." alt="" coords="582,356,762,397"/>
+<area shape="rect" id="node19" href="$classetiss_1_1plugin_1_1PrintInstruction.html" title="a simple plugin that prints the instruction and address when an instruction is executed ..." alt="" coords="568,422,776,449"/>
+<area shape="rect" id="node20" href="$classetiss_1_1plugin_1_1VariableValueLogger.html" title="writes the value of a field before each instruction " alt="" coords="573,473,771,515"/>
+</map>

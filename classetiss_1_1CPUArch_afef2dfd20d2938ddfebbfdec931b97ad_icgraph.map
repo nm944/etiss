@@ -1,0 +1,11 @@
+<map id="etiss::CPUArch::getName" name="etiss::CPUArch::getName">
+<area shape="rect" id="node2" href="$classetiss_1_1CPUArch.html#a7bd60623486b146d3a5061803a6597f2" title="do not override. maps to getName(). " alt="" coords="239,5,471,32"/>
+<area shape="rect" id="node3" href="$group__ETISS__Frontend.html#ga5323880df3b7e36556c9d4fc1ee845ae" title="Get the error message for an error code for a specific CPUArch plug&#45;in. " alt="" coords="280,56,429,83"/>
+<area shape="rect" id="node5" href="$classetiss_1_1CPUArch.html#a34011e70c796236fb850a63b0b8bfd32" title="returns a path that will be used to look up header files " alt="" coords="244,107,465,133"/>
+<area shape="rect" id="node7" href="$classetiss_1_1Translation.html#ac02e73b182ab60738e243911d823919e" title="etiss::Translation\l::init" alt="" coords="289,158,421,199"/>
+<area shape="rect" id="node4" href="$classetiss_1_1Initializer.html#a7940b5f19b53f6f7ad953469f7d264bd" title="Constructor that initializes ETISS. " alt="" coords="547,34,669,75"/>
+<area shape="rect" id="node6" href="$classetiss_1_1Translation.html#ad60fccfe679e82069b2255aac748ed52" title="etiss::Translation\l::getBlock" alt="" coords="542,99,674,141"/>
+<area shape="rect" id="node8" href="$classetiss_1_1CPUCore.html#a3abad91e823939228f7db1596e040c19" title="Start the simulation of the CPU core for the system model. " alt="" coords="519,165,697,192"/>
+<area shape="rect" id="node9" href="$classetiss_1_1CPUCore.html#a2707d1b72cf6d4ba053b3e03e946a17f" title="Set the number of blocks jumps in between the coroutines are not executed. " alt="" coords="745,129,928,170"/>
+<area shape="rect" id="node10" href="$classetiss_1_1CPUCore.html#a2ab7000206ed432b59457ce57b9182f6" title="Start the simulation of the CPU core for the system model. " alt="" coords="747,195,926,221"/>
+</map>

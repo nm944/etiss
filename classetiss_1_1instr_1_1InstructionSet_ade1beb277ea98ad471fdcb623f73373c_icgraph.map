@@ -1,0 +1,7 @@
+<map id="etiss::instr::InstructionSet::create" name="etiss::instr::InstructionSet::create">
+<area shape="rect" id="node2" href="$classetiss_1_1instr_1_1InstructionSet.html#ae002e28375dd2a332051d2861d2fae79" title="etiss::instr::Instruction\lSet::open" alt="" coords="242,8,409,49"/>
+<area shape="rect" id="node5" href="$classetiss_1_1instr_1_1VariableInstructionSet.html#a318689a9ecbfe801cdb122a49ec0f916" title="etiss::instr::VariableInstruction\lSet::open" alt="" coords="479,71,699,112"/>
+<area shape="rect" id="node6" href="$classetiss_1_1instr_1_1ModedInstructionSet.html#a9ab91eaf635587c39162987d76b610b7" title="etiss::instr::ModedInstruction\lSet::open" alt="" coords="220,128,431,169"/>
+<area shape="rect" id="node3" href="$classetiss_1_1instr_1_1InstructionClass.html#a3d4c825b320dead140adb63e7099914d" title="etiss::instr::Instruction\lClass::addTo" alt="" coords="505,5,672,47"/>
+<area shape="rect" id="node4" href="$classetiss_1_1instr_1_1InstructionCollection.html#a9540933b96f577488e0a15ce43ebc09e" title="etiss::instr::Instruction\lCollection::addTo" alt="" coords="747,39,913,80"/>
+</map>

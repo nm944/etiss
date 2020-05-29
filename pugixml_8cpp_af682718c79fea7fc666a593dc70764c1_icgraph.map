@@ -1,0 +1,17 @@
+<map id="strequal" name="strequal">
+<area shape="rect" id="node2" href="$classpugi_1_1xpath__variable__set.html#a07051524f1c6a54bf8f16c9506d6ed5e" title="pugi::xpath_variable\l_set::add" alt="" coords="150,5,305,47"/>
+<area shape="rect" id="node3" href="$classpugi_1_1xml__node.html#ac0234bad0db50690f5bc97d0788303ad" title="pugi::xml_node::attribute" alt="" coords="134,71,321,98"/>
+<area shape="rect" id="node5" href="$classpugi_1_1xml__node.html#a1e23e9720c90ef764197f1e0c71aa287" title="pugi::xml_node::child" alt="" coords="147,122,308,149"/>
+<area shape="rect" id="node9" href="$classpugi_1_1xpath__variable__set.html#a0dd7e3d8eeb86f4dabfc049998731a89" title="pugi::xpath_variable\l_set::find" alt="" coords="150,173,305,215"/>
+<area shape="rect" id="node10" href="$classpugi_1_1xml__node.html#a99f3257d66be8e738e1510626a1868e5" title="pugi::xml_node::find\l_child_by_attribute" alt="" coords="150,239,305,280"/>
+<area shape="rect" id="node11" href="$classpugi_1_1xml__node.html#a2b5f05fa7087ac46159348f584d36103" title="pugi::xml_node::next\l_sibling" alt="" coords="148,304,307,345"/>
+<area shape="rect" id="node12" href="$classxpath__string.html#a8976b1e54152b806a13996a6140499b4" title="xpath_string::operator!=" alt="" coords="136,370,319,397"/>
+<area shape="rect" id="node13" href="$classpugi_1_1xml__named__node__iterator.html#aaee9df71be9b3a08f871cbf420d8384d" title="pugi::xml_named_node\l_iterator::operator&#45;&#45;" alt="" coords="140,421,315,463"/>
+<area shape="rect" id="node14" href="$classxpath__string.html#ac42c0dd15445de88c09dfdeed93d5660" title="xpath_string::operator==" alt="" coords="133,487,321,514"/>
+<area shape="rect" id="node15" href="$classpugi_1_1xml__node.html#aef0e24e5c2022049d0c13e3cd49f1682" title="pugi::xml_node::previous\l_sibling" alt="" coords="134,539,321,580"/>
+<area shape="rect" id="node16" href="$classxpath__ast__node.html#aa141bfbd4d5e42da83f0de8f729eb849" title="xpath_ast_node::step_push" alt="" coords="128,605,327,631"/>
+<area shape="rect" id="node4" href="$classpugi_1_1xml__node.html#a2625858b335a1289d72d19b57acc639c" title="pugi::xml_node::remove\l_attribute" alt="" coords="376,27,556,68"/>
+<area shape="rect" id="node6" href="$classpugi_1_1xml__node.html#a412382032de565ac850078b0b3bd7a4f" title="pugi::xml_node::children" alt="" coords="375,93,557,119"/>
+<area shape="rect" id="node7" href="$classpugi_1_1xml__node.html#ade95c52b1354c8d034d48e931b589d62" title="pugi::xml_node::child\l_value" alt="" coords="385,144,547,185"/>
+<area shape="rect" id="node8" href="$classpugi_1_1xml__node.html#a1930157197e41cc15eea1fc00eecf1dd" title="pugi::xml_node::remove\l_child" alt="" coords="376,209,556,251"/>
+</map>

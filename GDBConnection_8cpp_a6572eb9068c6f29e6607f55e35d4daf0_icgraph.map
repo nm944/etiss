@@ -1,0 +1,18 @@
+<map id="PacketProtocol_findUE" name="PacketProtocol_findUE">
+<area shape="rect" id="node2" href="$GDBConnection_8cpp.html#aa038d1d4b0f985e4bfda1fbf4b4bf2c7" title="PacketProtocol_findResponse" alt="" coords="228,98,439,125"/>
+<area shape="rect" id="node15" href="$GDBConnection_8cpp.html#a1cd4fd6295c013cc7a119e7726917e97" title="PacketProtocol_getPacket\lStart" alt="" coords="239,149,428,191"/>
+<area shape="rect" id="node16" href="$classetiss_1_1plugin_1_1gdb_1_1PacketProtocol.html#a9bfacf5954fabcf35438d3ba5b160540" title="etiss::plugin::gdb\l::PacketProtocol::tryReadPacket" alt="" coords="220,29,447,71"/>
+<area shape="rect" id="node3" href="$classetiss_1_1plugin_1_1gdb_1_1PacketProtocol.html#a197b158da05621146982c6275867b063" title="etiss::plugin::gdb\l::PacketProtocol::snd" alt="" coords="517,93,674,135"/>
+<area shape="rect" id="node4" href="$classetiss_1_1plugin_1_1gdb_1_1PacketProtocol.html#a7ebfd4afe2d4d7f708c86468a48bc6ae" title="etiss::plugin::gdb\l::PacketProtocol::available" alt="" coords="744,28,939,69"/>
+<area shape="rect" id="node6" href="$classetiss_1_1plugin_1_1gdb_1_1Server.html#ae641aef3a8187459a89c40a473d6ab0a" title="etiss::plugin::gdb\l::Server::handlePacket" alt="" coords="1189,68,1356,109"/>
+<area shape="rect" id="node7" href="$classetiss_1_1plugin_1_1gdb_1_1Server.html#af2d20da879692be332064d7e082f2833" title="etiss::plugin::gdb\l::Server::preInstructionCallback" alt="" coords="1418,123,1645,164"/>
+<area shape="rect" id="node9" href="$classetiss_1_1plugin_1_1gdb_1_1Server.html#ae06e9ac2d95f66a3ce80560cabdce7d2" title="etiss::plugin::gdb\l::Server::preMemoryAccessCallback" alt="" coords="1404,188,1659,229"/>
+<area shape="rect" id="node5" href="$classetiss_1_1plugin_1_1gdb_1_1PacketProtocol.html#a47a5284b39fbee7259d6d55163e400aa" title="etiss::plugin::gdb\l::PacketProtocol::rcv" alt="" coords="987,28,1141,69"/>
+<area shape="rect" id="node8" href="$classetiss_1_1plugin_1_1gdb_1_1Server.html#a0b42a227476616e0e6b7788661a1bd14" title="called before a block and may act in the same way as a block " alt="" coords="1465,57,1598,99"/>
+<area shape="rect" id="node10" href="$GDBSystemWrapper_8cpp.html#a1e62443ab4b754f069e362077b675991" title="gdb_system_call_iread" alt="" coords="1711,119,1881,146"/>
+<area shape="rect" id="node12" href="$GDBSystemWrapper_8cpp.html#a1282454689cbd0a6834efb38ecc87c9a" title="gdb_system_call_iwrite" alt="" coords="1709,170,1883,197"/>
+<area shape="rect" id="node13" href="$GDBSystemWrapper_8cpp.html#aad56c1dc9334271824d32f9e45feb462" title="gdb_system_call_dread" alt="" coords="1709,221,1883,247"/>
+<area shape="rect" id="node14" href="$GDBSystemWrapper_8cpp.html#a32953af52dfa80a165bfa6944be2e7fe" title="gdb_system_call_dwrite" alt="" coords="1707,271,1885,298"/>
+<area shape="rect" id="node11" href="$classetiss_1_1plugin_1_1gdb_1_1Server.html#a5cba6c4a3621360bf1125df0b124d63e" title="etiss::plugin::gdb\l::Server::wrap" alt="" coords="1933,188,2067,229"/>
+<area shape="rect" id="node17" href="$classetiss_1_1plugin_1_1gdb_1_1PacketProtocol.html#aa4855c1c4e0dbdb68cf32f459094b5a1" title="etiss::plugin::gdb\l::PacketProtocol::_available" alt="" coords="495,28,696,69"/>
+</map>

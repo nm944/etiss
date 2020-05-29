@@ -1,0 +1,9 @@
+<map id="etiss::CPUCore::setTimer" name="etiss::CPUCore::setTimer">
+<area shape="rect" id="node2" href="$classetiss_1_1CPUCore.html#a97bd4fd5ed1a74d4c24c0d18cc0077ed" title="Adds a plug&#45;in to the core simulator. " alt="" coords="250,56,441,83"/>
+<area shape="rect" id="node7" href="$classetiss_1_1CPUCore.html#acf52860f166ecf18ae54379010898715" title="Remove a plug&#45;in from the core simulator. " alt="" coords="237,111,453,137"/>
+<area shape="rect" id="node3" href="$classetiss_1_1CPUCore.html#af1d90411144afa63f772cc75991809af" title="Get the name of the CPUCore instance. " alt="" coords="507,5,694,32"/>
+<area shape="rect" id="node4" href="$namespaceetiss.html#afd320e98bf6a5e2c0d8ffde5dd28dd35" title="write log message at the given level. " alt="" coords="560,56,641,83"/>
+<area shape="rect" id="node5" href="$namespaceetiss.html#a5d23a51a17c09f1b863c601d4454f99b" title="conversion of type T to std::string. " alt="" coords="748,56,860,83"/>
+<area shape="rect" id="node6" href="$namespaceetiss.html#a160483ffeeb252cc1140206d2248c3a9" title="etiss::split" alt="" coords="908,56,997,83"/>
+<area shape="rect" id="node8" href="$classetiss_1_1Plugin.html#ac1b486e64381074fb497d111dcbdab39" title="called as soon a plugin has been removed from its CPUCore. " alt="" coords="501,107,700,149"/>
+</map>

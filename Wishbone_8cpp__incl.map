@@ -1,0 +1,11 @@
+<map id="/home/travis/build/tum&#45;ei&#45;eda/etiss/src/interfaces/Wishbone.cpp" name="/home/travis/build/tum&#45;ei&#45;eda/etiss/src/interfaces/Wishbone.cpp">
+<area shape="rect" id="node2" href="$Wishbone_8h.html" title="etiss/interfaces/Wishbone.h" alt="" coords="1225,109,1427,136"/>
+<area shape="rect" id="node3" href="$Delegate_8h.html" title="etiss/interfaces/Delegate.h" alt="" coords="1151,184,1349,211"/>
+<area shape="rect" id="node4" href="$Misc_8h.html" title="general configuration and logging " alt="" coords="587,259,686,285"/>
+<area shape="rect" id="node20" href="$ReturnCode_8h.html" title="contains exception/return codes used to control execution of an etiss::CPUCore " alt="" coords="1169,259,1331,285"/>
+<area shape="rect" id="node21" href="$c_2etiss_2jit_2System_8h.html" title="contains an interface for time synchronization and memory access " alt="" coords="1355,259,1489,285"/>
+<area shape="rect" id="node16" href="$config_8h.html" title="contains defines to configure ETISS. " alt="" coords="968,333,1076,360"/>
+<area shape="rect" id="node17" href="$types_8h.html" title="type declarations for etiss and definition of the likely/unlikely macros. " alt="" coords="1289,408,1411,435"/>
+<area shape="rect" id="node19" href="$ClassDefs_8h.html" title="etiss/ClassDefs.h" alt="" coords="1152,333,1287,360"/>
+<area shape="rect" id="node22" href="$CPU_8h.html" title="contains the basic cpu state structure with a instruction pointer and time parameters. " alt="" coords="1413,333,1527,360"/>
+</map>

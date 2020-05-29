@@ -1,0 +1,10 @@
+<map id="float64_sub" name="float64_sub">
+<area shape="rect" id="node2" href="$softfloat_8cpp.html#a9971e11c18299dd8c905763661528448" title="addFloat64Sigs" alt="" coords="162,52,283,79"/>
+<area shape="rect" id="node7" href="$softfloat_8cpp.html#ae8cb620930a5d5b1a8ef82253f7416eb" title="extractFloat64Sign" alt="" coords="151,154,295,180"/>
+<area shape="rect" id="node8" href="$softfloat_8cpp.html#a4c476f5231346ac08bc54812d2a06500" title="subFloat64Sigs" alt="" coords="163,103,283,130"/>
+<area shape="rect" id="node3" href="$softfloat_8cpp.html#afdcc864bcf30e2d88ea55cca8e3d669f" title="extractFloat64Frac" alt="" coords="387,52,529,79"/>
+<area shape="rect" id="node4" href="$softfloat_8cpp.html#a2429e0cf7ea81f8b817609c440402898" title="extractFloat64Exp" alt="" coords="388,103,528,130"/>
+<area shape="rect" id="node5" href="$softfloat_8cpp.html#a2a929d841629d211d199ff312ba21404" title="packFloat64" alt="" coords="832,78,933,104"/>
+<area shape="rect" id="node6" href="$softfloat_8cpp.html#a79651b0f54d0e9af9ba9c2b5951ba3a7" title="roundAndPackFloat64" alt="" coords="621,78,784,104"/>
+<area shape="rect" id="node9" href="$softfloat_8cpp.html#a75b8b93559645f6e325087170dc713d6" title="normalizeRoundAndPackFloat64" alt="" coords="343,154,573,180"/>
+</map>

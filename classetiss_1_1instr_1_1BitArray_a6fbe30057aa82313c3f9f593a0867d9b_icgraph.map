@@ -1,0 +1,9 @@
+<map id="etiss::instr::BitArray::byteCount" name="etiss::instr::BitArray::byteCount">
+<area shape="rect" id="node2" href="$namespaceetiss_1_1instr.html#a1db4e3bfd44983a731d08e41edd400c8" title="allow printing of bit arrays (always hex) " alt="" coords="204,82,379,109"/>
+<area shape="rect" id="node7" href="$classetiss_1_1Translation.html#abad861d5afddf612c910143718694c4c" title="etiss::Translation\l::translateBlock" alt="" coords="1119,100,1251,141"/>
+<area shape="rect" id="node3" href="$namespaceetiss_1_1instr.html#afdb1df0825664a81d18ea9a330011a4f" title="creates a mask to get the lower address of a bitwise address. " alt="" coords="427,71,584,112"/>
+<area shape="rect" id="node4" href="$classetiss_1_1instr_1_1BitArray.html#a147cd9aa8af04b59c2de3f65cd8a88de" title="changes byte positions as needed to resove endiannes incompabilities after using the internal buffer ..." alt="" coords="632,71,817,112"/>
+<area shape="rect" id="node5" href="$classetiss_1_1instr_1_1BitArray.html#ad4f7cb204dbd65a5f381c8ca41080bbc" title="assign operator. " alt="" coords="893,5,1043,47"/>
+<area shape="rect" id="node6" href="$classetiss_1_1CPUArch.html#ad1ecb5fa556dbda8dd34a0acbf79b65f" title="this function should compensate for any endianess on a BitArray so that bit 0 is always the LSB..." alt="" coords="865,71,1071,112"/>
+<area shape="rect" id="node8" href="$classetiss_1_1Translation.html#ad60fccfe679e82069b2255aac748ed52" title="etiss::Translation\l::getBlock" alt="" coords="1299,100,1431,141"/>
+</map>

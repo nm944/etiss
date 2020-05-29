@@ -1,0 +1,9 @@
+<map id="etiss::createFastMemory" name="etiss::createFastMemory">
+<area shape="rect" id="node2" href="$FastMemory_8cpp.html#a36be1c748d8b8d235e9d7139ca8055ae" title="system_call_dbg_read" alt="" coords="237,5,403,32"/>
+<area shape="rect" id="node3" href="$FastMemory_8cpp.html#ae4ef331abfdb73d3450204661151c384" title="system_call_dbg_write" alt="" coords="235,56,405,83"/>
+<area shape="rect" id="node4" href="$FastMemory_8cpp.html#a8fa863740ddeeaac5e61fef184f6f8e8" title="system_call_dread" alt="" coords="248,107,392,133"/>
+<area shape="rect" id="node5" href="$FastMemory_8cpp.html#a7513122b7fd44d34e692566b696f9e2c" title="system_call_dwrite" alt="" coords="246,157,394,184"/>
+<area shape="rect" id="node6" href="$FastMemory_8cpp.html#a6936afb2086e15653852c7143e44aa12" title="system_call_iread" alt="" coords="250,208,390,235"/>
+<area shape="rect" id="node7" href="$FastMemory_8cpp.html#aedf5d86652f8ed248466d8b84886bf9a" title="system_call_iwrite" alt="" coords="248,259,392,285"/>
+<area shape="rect" id="node8" href="$FastMemory_8cpp.html#a34156976ca73ad8384a0811962961841" title="system_call_syncTime" alt="" coords="235,309,405,336"/>
+</map>

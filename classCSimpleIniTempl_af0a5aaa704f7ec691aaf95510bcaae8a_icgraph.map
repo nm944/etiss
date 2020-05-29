@@ -1,0 +1,10 @@
+<map id="CSimpleIniTempl::IsSpace" name="CSimpleIniTempl::IsSpace">
+<area shape="rect" id="node2" href="$classCSimpleIniTempl.html#a7d34f731a698340384ba6c6f2f306270" title="Parse the data looking for the next valid entry. " alt="" coords="493,71,692,98"/>
+<area shape="rect" id="node5" href="$classCSimpleIniTempl.html#a66ad366aeddd171cd8ea23da34a6eea6" title="CSimpleIniTempl::IsMulti\lLineData" alt="" coords="253,123,435,164"/>
+<area shape="rect" id="node8" href="$classCSimpleIniTempl.html#ac8b9627e8318354a235b6398340481ff" title="CSimpleIniTempl::LoadMulti\lLineText" alt="" coords="243,5,445,47"/>
+<area shape="rect" id="node3" href="$classCSimpleIniTempl.html#aa797cf47cec05906f07d5065882af4d3" title="Load INI file data direct from memory. " alt="" coords="751,17,952,43"/>
+<area shape="rect" id="node4" href="$classCSimpleIniTempl.html#a92203e0c21f8d71e5d1621a18ee0be50" title="Query the status of spaces output. " alt="" coords="740,71,963,98"/>
+<area shape="rect" id="node6" href="$classCSimpleIniTempl.html#a6ec10daab297e92cdffe024ba5e6d999" title="Save the INI data. " alt="" coords="507,126,678,153"/>
+<area shape="rect" id="node7" href="$classCSimpleIniTempl.html#a3c3f677c1515e08751cb52a1dfaf1a93" title="Save the INI data to a file. " alt="" coords="755,126,948,153"/>
+<area shape="rect" id="node9" href="$classCSimpleIniTempl.html#a7b78cf79ffd9a5ba57a3bdae6b7d5a8f" title="Parse the data looking for a file comment and store it if found. " alt="" coords="499,5,686,47"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="etiss::DataSheetAccurateTiming::handleMatch_cycles" name="etiss::DataSheetAccurateTiming::handleMatch_cycles">
+<area shape="rect" id="node2" href="$classetiss_1_1RegisterSet.html#a71f6c06c15ba6f84e449f243e38b28ff" title="add a registerPart to the set or just its relevant bits if a register with the same name is already p..." alt="" coords="278,13,445,39"/>
+<area shape="rect" id="node4" href="$classetiss_1_1instr_1_1Instruction.html#a1ce37a20ceb4ee8e5cdfbc606e83c0ae" title="etiss::instr::Instruction\l::addCallback" alt="" coords="278,64,445,105"/>
+<area shape="rect" id="node6" href="$namespaceetiss.html#a5d23a51a17c09f1b863c601d4454f99b" title="conversion of type T to std::string. " alt="" coords="697,130,809,157"/>
+<area shape="rect" id="node8" href="$classetiss_1_1CodePart.html#a4c2d85268d4142cd353d9fbdd802a0d6" title="etiss::CodePart::code" alt="" coords="282,181,441,207"/>
+<area shape="rect" id="node9" href="$classetiss_1_1CodePart.html#a8d1bed67b6a39781bfc51fa93b0ced29" title="etiss::CodePart::getAffected\lRegisters" alt="" coords="260,232,463,273"/>
+<area shape="rect" id="node10" href="$classetiss_1_1CodeSet.html#ad05559d4785f68ba862363659e4bddc7" title="etiss::CodeSet::prepend" alt="" coords="273,298,449,325"/>
+<area shape="rect" id="node3" href="$classetiss_1_1RegisterPart.html#abd602509a42be4fa3bd052b87caf3549" title="true if unnamed or no relevant bits " alt="" coords="511,5,649,47"/>
+<area shape="rect" id="node5" href="$namespaceetiss.html#afd320e98bf6a5e2c0d8ffde5dd28dd35" title="write log message at the given level. " alt="" coords="539,75,621,102"/>
+<area shape="rect" id="node7" href="$namespaceetiss.html#a160483ffeeb252cc1140206d2248c3a9" title="etiss::split" alt="" coords="857,130,947,157"/>
+<area shape="rect" id="node11" href="$classetiss_1_1RegisterPart.html#a1800ab3f753bf9bc8d92cc7999fca4d5" title="this is not a const function in the usual sense. " alt="" coords="511,291,649,332"/>
+</map>

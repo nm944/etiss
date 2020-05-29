@@ -1,0 +1,4 @@
+<map id="etiss::Plugin::getInterruptListenerPlugin" name="etiss::Plugin::getInterruptListenerPlugin">
+<area shape="rect" id="node2" href="$classetiss_1_1CPUCore_1_1InterruptVectorWrapper.html#a08f68c5d489d11056f07f8ac6d345439" title="set the bit of an interrupt line to state (true = raised) " alt="" coords="240,5,423,47"/>
+<area shape="rect" id="node3" href="$classetiss_1_1CPUCore_1_1InterruptVectorWrapper.html#aca81fbc74c411146c5813adb8ac709e5" title="sets every bit to false " alt="" coords="471,5,653,47"/>
+</map>

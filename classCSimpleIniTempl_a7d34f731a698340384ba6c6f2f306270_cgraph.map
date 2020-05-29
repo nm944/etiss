@@ -1,0 +1,9 @@
+<map id="CSimpleIniTempl::FindEntry" name="CSimpleIniTempl::FindEntry">
+<area shape="rect" id="node2" href="$classCSimpleIniTempl.html#a9b2282a0371907316ab4e9300dac0cac" title="Does the supplied character start a comment line? " alt="" coords="513,5,728,32"/>
+<area shape="rect" id="node3" href="$classCSimpleIniTempl.html#aa065dc3ef06f6f002d7a1348413f8423" title="CSimpleIniTempl::IsMulti\lLineTag" alt="" coords="262,273,445,314"/>
+<area shape="rect" id="node4" href="$classCSimpleIniTempl.html#a87968c003e871f8158bdf622ca6f0c7d" title="CSimpleIniTempl::IsNewLineChar" alt="" coords="503,57,739,84"/>
+<area shape="rect" id="node5" href="$classCSimpleIniTempl.html#af0a5aaa704f7ec691aaf95510bcaae8a" title="Is the supplied character a whitespace character? " alt="" coords="526,164,715,191"/>
+<area shape="rect" id="node6" href="$classCSimpleIniTempl.html#ac8b9627e8318354a235b6398340481ff" title="CSimpleIniTempl::LoadMulti\lLineText" alt="" coords="252,105,455,146"/>
+<area shape="rect" id="node7" href="$classCSimpleIniTempl.html#ae74efbcc3308af356f5379bc4d639402" title="Skip over a newline character (or characters) for either DOS or UNIX. " alt="" coords="509,219,732,245"/>
+<area shape="rect" id="node8" href="$classCSimpleIniTempl.html#a705eaa8e6c0fb8c1ce2648e71ad681f7" title="Internal use of our string comparison function. " alt="" coords="531,112,710,139"/>
+</map>

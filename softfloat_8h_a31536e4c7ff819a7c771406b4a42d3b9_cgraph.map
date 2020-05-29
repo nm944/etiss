@@ -1,0 +1,6 @@
+<map id="float64_to_int64" name="float64_to_int64">
+<area shape="rect" id="node2" href="$softfloat_8cpp.html#a2429e0cf7ea81f8b817609c440402898" title="extractFloat64Exp" alt="" coords="183,5,323,32"/>
+<area shape="rect" id="node3" href="$softfloat_8cpp.html#afdcc864bcf30e2d88ea55cca8e3d669f" title="extractFloat64Frac" alt="" coords="182,56,325,83"/>
+<area shape="rect" id="node4" href="$softfloat_8cpp.html#ae8cb620930a5d5b1a8ef82253f7416eb" title="extractFloat64Sign" alt="" coords="181,107,325,133"/>
+<area shape="rect" id="node5" href="$softfloat_8cpp.html#ac4bd8ee122374a9fb3486783ad90a2c0" title="roundAndPackInt64" alt="" coords="180,157,327,184"/>
+</map>

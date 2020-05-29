@@ -1,0 +1,7 @@
+<map id="etiss::RegisterSet::add" name="etiss::RegisterSet::add">
+<area shape="rect" id="node2" href="$CPUArch_8cpp.html#a3dade4e78decdde1d782af7443dbe5eb" title="CPUArch_finalizeInstrSet" alt="" coords="249,13,431,39"/>
+<area shape="rect" id="node4" href="$classetiss_1_1plugin_1_1VariableValueLogger.html#ae78ddff9a4e6c535823404e79accdeb6" title="called after all instructions have been added to allow last changes " alt="" coords="241,64,439,105"/>
+<area shape="rect" id="node5" href="$classetiss_1_1plugin_1_1InstructionAccurateCallback.html#a8e2f99eab05454fe3f848b8a2449338c" title="called after all instructions have been added to allow last changes " alt="" coords="220,129,460,171"/>
+<area shape="rect" id="node6" href="$classetiss_1_1DataSheetAccurateTiming.html#a31c30a45640628d306ca96b1fcc65cb9" title="simple template function that adds the given number of cycles to the cpu time if the related rule mat..." alt="" coords="237,195,443,236"/>
+<area shape="rect" id="node3" href="$classetiss_1_1CPUArch.html#af58f087b803dd678dd5b7700d92cadc4" title="the default behavior of this function of a cpu arch is to add &quot;cpu&#45;&gt;cpuTime_ps += cpu&#45;&gt;cpuCycleTime_p..." alt="" coords="508,5,680,47"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="etiss::instr::Node::resolve" name="etiss::instr::Node::resolve">
+<area shape="rect" id="node2" href="$classetiss_1_1instr_1_1InstructionSet.html#a7ea2db8cdb5e83cae16b95bae0617a84" title="etiss::instr::Instruction\lSet::resolve" alt="" coords="185,39,352,80"/>
+<area shape="rect" id="node3" href="$classetiss_1_1Translation.html#a129ecf66a99a82d1c5238e476f33a158" title="etiss::Translation\l::disasm" alt="" coords="400,5,532,47"/>
+<area shape="rect" id="node4" href="$classetiss_1_1Translation.html#abad861d5afddf612c910143718694c4c" title="etiss::Translation\l::translateBlock" alt="" coords="400,71,532,112"/>
+<area shape="rect" id="node5" href="$classetiss_1_1Translation.html#ad60fccfe679e82069b2255aac748ed52" title="etiss::Translation\l::getBlock" alt="" coords="580,71,712,112"/>
+</map>

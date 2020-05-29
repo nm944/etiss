@@ -1,0 +1,5 @@
+<map id="etiss::ObjectPool::destroy" name="etiss::ObjectPool::destroy">
+<area shape="rect" id="node2" href="$namespaceetiss.html#a4f992e4a41759a395838d7471cebc39d" title="etiss::decRef" alt="" coords="272,5,377,32"/>
+<area shape="rect" id="node3" href="$classetiss_1_1FixedSizeHashMap.html#abc723feed69737c484b243c0fc35af6f" title="etiss::FixedSizeHashMap\l\&lt; const void *, etiss\l::interfaces::dot::ValueOperation\lTraceGraphStreamer::Node *, etiss\l::pointerHash\&lt; const void \&gt; \&gt;::erase" alt="" coords="192,56,457,141"/>
+<area shape="rect" id="node4" href="$classetiss_1_1FixedSizeHashMap.html#a5b90f1083699bd4f11680d0e7dc0e507" title="etiss::FixedSizeHashMap\l\&lt; const void *, etiss\l::interfaces::dot::ValueOperation\lTraceGraphStreamer::Node *, etiss\l::pointerHash\&lt; const void \&gt; \&gt;::\l~FixedSizeHashMap" alt="" coords="201,166,448,266"/>
+</map>

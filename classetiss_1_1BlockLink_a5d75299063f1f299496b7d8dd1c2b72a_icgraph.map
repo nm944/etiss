@@ -1,0 +1,10 @@
+<map id="etiss::BlockLink::decrRef" name="etiss::BlockLink::decrRef">
+<area shape="rect" id="node2" href="$classetiss_1_1Translation.html#ad60fccfe679e82069b2255aac748ed52" title="etiss::Translation\l::getBlock" alt="" coords="235,5,367,47"/>
+<area shape="rect" id="node3" href="$classetiss_1_1Translation.html#a629d9a57865196c13a6d12a3ca35e281" title="etiss::Translation\l::unloadBlocks" alt="" coords="235,71,367,112"/>
+<area shape="rect" id="node9" href="$classetiss_1_1BlockLink.html#ac8a43713851976d09ea5884ff5c874a6" title="etiss::BlockLink::\l~BlockLink" alt="" coords="235,136,367,177"/>
+<area shape="rect" id="node4" href="$CPUCore_8cpp.html#ac2530ba9f6c6c641f64cbabfededd5fb" title="small helper function to handle exceptions. " alt="" coords="415,49,647,75"/>
+<area shape="rect" id="node8" href="$classetiss_1_1Translation.html#a07db008284ed93356b7b13f4aba5b24a" title="etiss::Translation\l::~Translation" alt="" coords="465,100,597,141"/>
+<area shape="rect" id="node5" href="$classetiss_1_1CPUCore.html#a3abad91e823939228f7db1596e040c19" title="Start the simulation of the CPU core for the system model. " alt="" coords="695,49,873,75"/>
+<area shape="rect" id="node6" href="$classetiss_1_1CPUCore.html#a2707d1b72cf6d4ba053b3e03e946a17f" title="Set the number of blocks jumps in between the coroutines are not executed. " alt="" coords="921,12,1104,53"/>
+<area shape="rect" id="node7" href="$classetiss_1_1CPUCore.html#a2ab7000206ed432b59457ce57b9182f6" title="Start the simulation of the CPU core for the system model. " alt="" coords="923,78,1102,105"/>
+</map>

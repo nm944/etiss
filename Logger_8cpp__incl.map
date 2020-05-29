@@ -1,0 +1,11 @@
+<map id="/home/travis/build/tum&#45;ei&#45;eda/etiss/src/IntegratedLibrary/Logger.cpp" name="/home/travis/build/tum&#45;ei&#45;eda/etiss/src/IntegratedLibrary/Logger.cpp">
+<area shape="rect" id="node2" href="$Logger_8h.html" title="etiss/IntegratedLibrary\l/Logger.h" alt="" coords="211,109,380,151"/>
+<area shape="rect" id="node3" href="$Plugin_8h.html" title="plugins for extensions to code translation and instruction execution " alt="" coords="241,199,350,225"/>
+<area shape="rect" id="node6" href="$ClassDefs_8h.html" title="etiss/ClassDefs.h" alt="" coords="5,423,140,449"/>
+<area shape="rect" id="node7" href="$CPU_8h.html" title="contains the basic cpu state structure with a instruction pointer and time parameters. " alt="" coords="111,348,224,375"/>
+<area shape="rect" id="node10" href="$c_2etiss_2jit_2System_8h.html" title="contains an interface for time synchronization and memory access " alt="" coords="176,273,311,300"/>
+<area shape="rect" id="node11" href="$CodePart_8h.html" title="classes to hold code and additional information used for optimization of instruction translations ..." alt="" coords="596,273,723,300"/>
+<area shape="rect" id="node8" href="$types_8h.html" title="type declarations for etiss and definition of the likely/unlikely macros. " alt="" coords="165,423,287,449"/>
+<area shape="rect" id="node17" href="$Misc_8h.html" title="general configuration and logging " alt="" coords="654,348,753,375"/>
+<area shape="rect" id="node22" href="$config_8h.html" title="contains defines to configure ETISS. " alt="" coords="943,423,1051,449"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="etiss::Plugin::getPluginName" name="etiss::Plugin::getPluginName">
+<area shape="rect" id="node2" href="$classetiss_1_1CPUCore.html#a3abad91e823939228f7db1596e040c19" title="Start the simulation of the CPU core for the system model. " alt="" coords="263,35,441,61"/>
+<area shape="rect" id="node5" href="$classetiss_1_1Plugin.html#a4272ba43aad943f3f94ad83c9ac7cb7c" title="etiss::Plugin::toString" alt="" coords="272,85,432,112"/>
+<area shape="rect" id="node3" href="$classetiss_1_1CPUCore.html#a2ab7000206ed432b59457ce57b9182f6" title="Start the simulation of the CPU core for the system model. " alt="" coords="491,5,670,32"/>
+<area shape="rect" id="node4" href="$classetiss_1_1CPUCore.html#a2707d1b72cf6d4ba053b3e03e946a17f" title="Set the number of blocks jumps in between the coroutines are not executed. " alt="" coords="489,57,672,98"/>
+</map>

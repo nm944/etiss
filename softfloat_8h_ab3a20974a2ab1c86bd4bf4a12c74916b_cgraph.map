@@ -1,0 +1,9 @@
+<map id="float32_rem" name="float32_rem">
+<area shape="rect" id="node2" href="$softfloat_8cpp.html#ad7db4b950acd00230389b5bf92a2ffde" title="extractFloat32Exp" alt="" coords="199,5,339,32"/>
+<area shape="rect" id="node3" href="$softfloat_8cpp.html#a65cdd61cc329efd4760ab03c194b387f" title="extractFloat32Frac" alt="" coords="197,56,340,83"/>
+<area shape="rect" id="node4" href="$softfloat_8cpp.html#a013f9afb5752453cb761c1cfa02fb786" title="extractFloat32Sign" alt="" coords="197,107,341,133"/>
+<area shape="rect" id="node5" href="$softfloat_8cpp.html#a4491a13083866bcded56708cf52ceeb4" title="normalizeFloat32Subnormal" alt="" coords="166,157,371,184"/>
+<area shape="rect" id="node6" href="$softfloat_8cpp.html#a352e0e7883b7fd1fdb3a58403a56edf2" title="normalizeRoundAndPackFloat32" alt="" coords="153,208,384,235"/>
+<area shape="rect" id="node7" href="$softfloat_8cpp.html#ab1dc58897036e7979ecc66b30a5ad31a" title="roundAndPackFloat32" alt="" coords="432,208,595,235"/>
+<area shape="rect" id="node8" href="$softfloat_8cpp.html#abd106df88a9ac680e5ab2766e758c43a" title="packFloat32" alt="" coords="643,208,744,235"/>
+</map>

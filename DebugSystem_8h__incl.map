@@ -1,0 +1,7 @@
+<map id="/home/travis/build/tum&#45;ei&#45;eda/etiss/include/etiss/DebugSystem.h" name="/home/travis/build/tum&#45;ei&#45;eda/etiss/include/etiss/DebugSystem.h">
+<area shape="rect" id="node2" href="$etiss_2System_8h.html" title="conatins a convinience class that can be wrapped as a ETISS_System structure " alt="" coords="181,109,300,136"/>
+<area shape="rect" id="node3" href="$CPU_8h.html" title="contains the basic cpu state structure with a instruction pointer and time parameters. " alt="" coords="191,259,304,285"/>
+<area shape="rect" id="node6" href="$ReturnCode_8h.html" title="contains exception/return codes used to control execution of an etiss::CPUCore " alt="" coords="5,259,167,285"/>
+<area shape="rect" id="node7" href="$c_2etiss_2jit_2System_8h.html" title="contains an interface for time synchronization and memory access " alt="" coords="227,184,361,211"/>
+<area shape="rect" id="node4" href="$types_8h.html" title="type declarations for etiss and definition of the likely/unlikely macros. " alt="" coords="186,333,309,360"/>
+</map>

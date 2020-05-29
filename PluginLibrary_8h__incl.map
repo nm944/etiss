@@ -1,0 +1,12 @@
+<map id="/home/travis/build/tum&#45;ei&#45;eda/etiss/include/etiss/helper/PluginLibrary.h" name="/home/travis/build/tum&#45;ei&#45;eda/etiss/include/etiss/helper/PluginLibrary.h">
+<area shape="rect" id="node2" href="$helper_2Misc_8h.html" title="contains general definitions needed for library function definitions. " alt="" coords="218,259,361,285"/>
+<area shape="rect" id="node7" href="$Plugin_8h.html" title="plugins for extensions to code translation and instruction execution " alt="" coords="1124,109,1233,136"/>
+<area shape="rect" id="node3" href="$pluginexport_8h.html" title="etiss/pluginexport.h" alt="" coords="89,333,239,360"/>
+<area shape="rect" id="node6" href="$config_8h.html" title="contains defines to configure ETISS. " alt="" coords="339,333,447,360"/>
+<area shape="rect" id="node9" href="$ClassDefs_8h.html" title="etiss/ClassDefs.h" alt="" coords="1279,333,1414,360"/>
+<area shape="rect" id="node10" href="$CPU_8h.html" title="contains the basic cpu state structure with a instruction pointer and time parameters. " alt="" coords="1349,259,1462,285"/>
+<area shape="rect" id="node13" href="$c_2etiss_2jit_2System_8h.html" title="contains an interface for time synchronization and memory access " alt="" coords="1369,184,1503,211"/>
+<area shape="rect" id="node14" href="$CodePart_8h.html" title="classes to hold code and additional information used for optimization of instruction translations ..." alt="" coords="883,184,1010,211"/>
+<area shape="rect" id="node11" href="$types_8h.html" title="type declarations for etiss and definition of the likely/unlikely macros. " alt="" coords="1439,333,1561,360"/>
+<area shape="rect" id="node19" href="$Misc_8h.html" title="general configuration and logging " alt="" coords="820,259,919,285"/>
+</map>

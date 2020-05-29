@@ -1,0 +1,12 @@
+<map id="xpath_sort" name="xpath_sort">
+<area shape="rect" id="node2" href="$pugixml_8cpp.html#a7a6eedef949e55be650bd6d2df60d68d" title="reverse" alt="" coords="144,22,215,49"/>
+<area shape="rect" id="node4" href="$pugixml_8cpp.html#a422d054a9e9fa1f5546a8365cd1d757b" title="sort" alt="" coords="156,123,203,150"/>
+<area shape="rect" id="node3" href="$pugixml_8cpp.html#aab8f818e90a34b18c1da140588eca88d" title="swap" alt="" coords="685,22,741,49"/>
+<area shape="rect" id="node5" href="$classpugi_1_1xml__node.html#ae42dc1a560ee36a16f907cd7aa89cc9c" title="pugi::xml_node::begin" alt="" coords="421,174,588,201"/>
+<area shape="rect" id="node6" href="$pugixml_8cpp.html#a54bf2719c7797e72531b07a644adb3d1" title="insertion_sort" alt="" coords="263,225,373,251"/>
+<area shape="rect" id="node9" href="$pugixml_8cpp.html#a499b0ece1124e9db443c633394439b0c" title="median" alt="" coords="283,47,353,74"/>
+<area shape="rect" id="node11" href="$pugixml_8cpp.html#aba284a56e212323a9d1c44fef9a804e5" title="partition" alt="" coords="279,123,357,150"/>
+<area shape="rect" id="node7" href="$pugixml_8cpp.html#a707f8b52c3f96c1fe49c8d4117873139" title="copy_backwards" alt="" coords="439,275,570,302"/>
+<area shape="rect" id="node8" href="$classpugi_1_1xml__node.html#a6c1f42812de4e25ac72908efab842126" title="pugi::xml_node::end" alt="" coords="636,225,791,251"/>
+<area shape="rect" id="node10" href="$pugixml_8cpp.html#aed4d651cf1c41b688ffc70804b49c6b0" title="median3" alt="" coords="465,22,544,49"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="etiss::py::init" name="etiss::py::init">
+<area shape="rect" id="node2" href="$ETISS_8cpp.html#ac76805eb9dfbd82116a3e7170ddee7fa" title="etiss_initialize" alt="" coords="182,110,298,137"/>
+<area shape="rect" id="node10" href="$classetiss_1_1Initializer.html#a7940b5f19b53f6f7ad953469f7d264bd" title="Constructor that initializes ETISS. " alt="" coords="614,212,737,253"/>
+<area shape="rect" id="node13" href="$classetiss_1_1interfaces_1_1WishboneBus.html#ad5c3c1527e7d0e843725d0abf873da71" title="Update signals to CPU or read/write from/to bus. " alt="" coords="159,267,321,308"/>
+<area shape="rect" id="node3" href="$group__ETISS__Internals.html#ga371c5786faafe2084636cbc2d02d451d" title="Force the initialization of ETISS. " alt="" coords="369,161,544,187"/>
+<area shape="rect" id="node11" href="$group__ETISS__Frontend.html#ga7220e704fcd20f6d73a02c04bdbc9391" title="Initialize and configure ETISS. " alt="" coords="398,55,515,82"/>
+<area shape="rect" id="node4" href="$group__ETISS__Frontend.html#gac9dbcc30c0d390f4b6ffe05257b32807" title="Add a LibraryInterface to the ETISS environment. " alt="" coords="610,110,741,137"/>
+<area shape="rect" id="node8" href="$classetiss_1_1CPUCore.html#a804f3252302d7ae49f7918da2871f6ba" title="Create a CPUCore instance. " alt="" coords="592,161,759,187"/>
+<area shape="rect" id="node5" href="$group__ETISS__Frontend.html#ga0f7e980b54452e20ed605353acc02e3b" title="Load a library. " alt="" coords="837,102,971,129"/>
+<area shape="rect" id="node6" href="$ETISSInit_8cpp.html#ac8defcb5621b0a06a2d74255ec5e0b84" title="Load libraries specified in a list.txt file. " alt="" coords="1049,102,1168,129"/>
+<area shape="rect" id="node7" href="$group__ETISS__Frontend.html#ga7be87103c95c5f1afbb967055fc7d83e" title="Search and try to load libraries. " alt="" coords="1216,51,1383,78"/>
+<area shape="rect" id="node9" href="$classetiss_1_1CPUCore.html#a1c71eb651cad84875d76586287c2dd23" title="returns the list of all plugins. " alt="" coords="807,161,1001,187"/>
+<area shape="rect" id="node12" href="$classetiss_1_1Initializer.html#a343675aa8ed683e826e1f43dd6eaf949" title="Constructor that initializes ETISS. " alt="" coords="614,44,737,85"/>
+</map>

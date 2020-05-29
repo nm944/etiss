@@ -1,0 +1,6 @@
+<map id="CSimpleIniTempl::LoadMultiLineText" name="CSimpleIniTempl::LoadMultiLineText">
+<area shape="rect" id="node2" href="$classCSimpleIniTempl.html#a7d34f731a698340384ba6c6f2f306270" title="Parse the data looking for the next valid entry. " alt="" coords="256,5,455,32"/>
+<area shape="rect" id="node5" href="$classCSimpleIniTempl.html#a7b78cf79ffd9a5ba57a3bdae6b7d5a8f" title="Parse the data looking for a file comment and store it if found. " alt="" coords="262,57,449,98"/>
+<area shape="rect" id="node3" href="$classCSimpleIniTempl.html#aa797cf47cec05906f07d5065882af4d3" title="Load INI file data direct from memory. " alt="" coords="513,8,715,35"/>
+<area shape="rect" id="node4" href="$classCSimpleIniTempl.html#a92203e0c21f8d71e5d1621a18ee0be50" title="Query the status of spaces output. " alt="" coords="503,60,725,87"/>
+</map>

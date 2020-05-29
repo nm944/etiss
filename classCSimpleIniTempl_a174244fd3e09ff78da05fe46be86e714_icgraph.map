@@ -1,0 +1,5 @@
+<map id="CSimpleIniTempl::LoadData" name="CSimpleIniTempl::LoadData">
+<area shape="rect" id="node2" href="$classCSimpleIniTempl.html#aa797cf47cec05906f07d5065882af4d3" title="Load INI file data direct from memory. " alt="" coords="265,5,467,32"/>
+<area shape="rect" id="node3" href="$classCSimpleIniTempl.html#a7ccb65e82fa347b42b59330968f826ae" title="Load the file from a file pointer. " alt="" coords="270,56,462,83"/>
+<area shape="rect" id="node4" href="$classCSimpleIniTempl.html#a92203e0c21f8d71e5d1621a18ee0be50" title="Query the status of spaces output. " alt="" coords="255,107,477,133"/>
+</map>

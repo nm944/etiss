@@ -1,0 +1,14 @@
+<map id="CSimpleIniTempl::SaveFile" name="CSimpleIniTempl::SaveFile">
+<area shape="rect" id="node2" href="$classCSimpleIniTempl.html#a6ec10daab297e92cdffe024ba5e6d999" title="Save the INI data. " alt="" coords="247,202,417,229"/>
+<area shape="rect" id="node3" href="$classCSimpleIniTempl_1_1Converter.html#a4e4186867214b54326cf622e323c9f2f" title="CSimpleIniTempl::Converter\l::ConvertToStore" alt="" coords="765,7,967,48"/>
+<area shape="rect" id="node4" href="$classCSimpleIniTempl_1_1Converter.html#a918bbd4f861a2872e148bc9481ac80bb" title="CSimpleIniTempl::Converter\l::Data" alt="" coords="765,82,967,123"/>
+<area shape="rect" id="node5" href="$classCSimpleIniTempl.html#a08cadb6624a6c459703efaadb25d31c9" title="Retrieve all unique key names in a section. " alt="" coords="477,228,688,254"/>
+<area shape="rect" id="node7" href="$classCSimpleIniTempl.html#a7fe8a8b70b0ef000c591011a8332ebd5" title="Retrieve all section names. " alt="" coords="465,329,700,356"/>
+<area shape="rect" id="node8" href="$classCSimpleIniTempl.html#adda5ee7f422695f7e67be2d066e303bf" title="Retrieve all values for a specific key. " alt="" coords="471,278,694,305"/>
+<area shape="rect" id="node9" href="$classCSimpleIniTempl.html#a66ad366aeddd171cd8ea23da34a6eea6" title="CSimpleIniTempl::IsMulti\lLineData" alt="" coords="491,380,674,422"/>
+<area shape="rect" id="node12" href="$classCSimpleIniTempl.html#ad0f8c41fd7c3a79d408142c90043acdf" title="CSimpleIniTempl::OutputMulti\lLineText" alt="" coords="475,60,690,102"/>
+<area shape="rect" id="node13" href="$classCSimpleIniTempl_1_1OutputWriter.html#a48e5905a9defbe96d14f3068a383463d" title="CSimpleIniTempl::OutputWriter\l::Write" alt="" coords="755,166,977,207"/>
+<area shape="rect" id="node6" href="$classCSimpleIniTempl.html#a705eaa8e6c0fb8c1ce2648e71ad681f7" title="Internal use of our string comparison function. " alt="" coords="777,256,955,282"/>
+<area shape="rect" id="node10" href="$classCSimpleIniTempl.html#a87968c003e871f8158bdf622ca6f0c7d" title="CSimpleIniTempl::IsNewLineChar" alt="" coords="748,362,984,389"/>
+<area shape="rect" id="node11" href="$classCSimpleIniTempl.html#af0a5aaa704f7ec691aaf95510bcaae8a" title="Is the supplied character a whitespace character? " alt="" coords="771,413,961,440"/>
+</map>

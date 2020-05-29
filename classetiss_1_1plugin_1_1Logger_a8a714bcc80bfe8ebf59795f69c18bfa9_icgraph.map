@@ -1,0 +1,8 @@
+<map id="etiss::plugin::Logger::log" name="etiss::plugin::Logger::log">
+<area shape="rect" id="node2" href="$namespaceetiss_1_1plugin.html#a048308ef429d7654aa33329debd2d393" title="etiss::plugin::dbg_read" alt="" coords="235,5,404,32"/>
+<area shape="rect" id="node4" href="$namespaceetiss_1_1plugin.html#a78a6d57024381f7a74f6eb00305a7b91" title="etiss::plugin::dbg\l_write" alt="" coords="253,57,386,98"/>
+<area shape="rect" id="node5" href="$namespaceetiss_1_1plugin.html#a2d640f876a7c440eab7d6a38e5295fe3" title="etiss::plugin::dwrite" alt="" coords="244,123,395,149"/>
+<area shape="rect" id="node6" href="$namespaceetiss_1_1plugin.html#a2cf202f49d080aac4d5741f97919befe" title="etiss::plugin::iread" alt="" coords="248,173,391,200"/>
+<area shape="rect" id="node7" href="$namespaceetiss_1_1plugin.html#aecae152da5fd9c8c52850e0f444ff835" title="etiss::plugin::iwrite" alt="" coords="246,224,393,251"/>
+<area shape="rect" id="node3" href="$classetiss_1_1plugin_1_1Logger.html#af46678df04c563d5d96e4074400358e0" title="change/wrap the passed system structure. " alt="" coords="452,115,605,157"/>
+</map>

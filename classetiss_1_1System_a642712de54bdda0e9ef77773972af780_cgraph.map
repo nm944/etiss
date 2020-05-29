@@ -1,0 +1,9 @@
+<map id="etiss::System::~System" name="etiss::System::~System">
+<area shape="rect" id="node2" href="$classetiss_1_1System.html#a7537710e2f551d9102e173b8bc412999" title="Debug read operation. " alt="" coords="233,5,412,32"/>
+<area shape="rect" id="node3" href="$classetiss_1_1System.html#a15248245d004b10184eea6497116c4e0" title="Debug write operation. " alt="" coords="251,57,394,98"/>
+<area shape="rect" id="node4" href="$classetiss_1_1System.html#ae1a7f9202ac665f3e2ef72ee913c34b8" title="Data read operation. " alt="" coords="245,123,400,149"/>
+<area shape="rect" id="node5" href="$classetiss_1_1System.html#adf5c007d3b3c8ef637f63f1e07c3c660" title="Data write operation. " alt="" coords="243,173,402,200"/>
+<area shape="rect" id="node6" href="$classetiss_1_1System.html#acba663c57dafa171bf6b1afe5da782da" title="Instruction read operation. " alt="" coords="247,224,398,251"/>
+<area shape="rect" id="node7" href="$classetiss_1_1System.html#ac3fd7e22720daf9f35f4f73162bf3922" title="Instruction write operation. " alt="" coords="245,275,400,301"/>
+<area shape="rect" id="node8" href="$classetiss_1_1System.html#a00cc2ef27020113c0dee9f63d05810eb" title="Synchronize simulation time. " alt="" coords="232,325,413,352"/>
+</map>

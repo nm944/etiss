@@ -1,0 +1,7 @@
+<map id="set_value_buffer" name="set_value_buffer">
+<area shape="rect" id="node2" href="$pugixml_8cpp.html#ab9527027631039c4e2361e30f2c0788e" title="strcpy_insitu" alt="" coords="184,69,289,96"/>
+<area shape="rect" id="node3" href="$pugixml_8cpp.html#aab9e1f034d085b663d146fcceabb1c48" title="strlength" alt="" coords="572,40,652,67"/>
+<area shape="rect" id="node4" href="$structxml__allocator.html#af32c538db4d562c2d0bfe15f7c0aa879" title="xml_allocator::deallocate\l_string" alt="" coords="337,33,524,74"/>
+<area shape="rect" id="node5" href="$pugixml_8cpp.html#a230775a8b2b7883f8dffc32b550a267c" title="strcpy_insitu_allow" alt="" coords="357,99,504,125"/>
+<area shape="rect" id="node6" href="$structxml__allocator.html#ac5ec2b5d41672d6494a2742e95e525b3" title="xml_allocator::allocate\l_string" alt="" coords="345,150,516,191"/>
+</map>

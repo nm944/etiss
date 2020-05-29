@@ -1,0 +1,12 @@
+<map id="etiss::VirtualStruct::VirtualStruct" name="etiss::VirtualStruct::VirtualStruct">
+<area shape="rect" id="node2" href="$classetiss_1_1VirtualStruct_1_1FieldT.html#a279663d1798371f57a09b331af9a2378" title="override this function to implement writes in case of AccessMode::VIRTUAL / AccessMode::PREFER_LAMBDA..." alt="" coords="196,19,339,60"/>
+<area shape="rect" id="node3" href="$classetiss_1_1VirtualStruct.html#a93b4b649ad0469b9ec8bfbff9b7913c7" title="etiss::VirtualStruct\l::allocate" alt="" coords="196,84,339,125"/>
+<area shape="rect" id="node4" href="$classetiss_1_1VirtualStruct.html#a5a0731949b6bbfc10b4f09279f750ad9" title="implemented in CVirtualStruct.cpp " alt="" coords="387,51,529,92"/>
+<area shape="rect" id="node5" href="$classetiss_1_1VirtualStruct.html#a65961dbb30877d12bd953dd916b6af1c" title="etiss::VirtualStruct\l::root" alt="" coords="387,116,529,157"/>
+<area shape="rect" id="node6" href="$classetiss_1_1fault_1_1Injector.html#a90281d894c3bf4b5ec8a2a1f3416a8ed" title="etiss::fault::Injector::get" alt="" coords="577,123,755,150"/>
+<area shape="rect" id="node7" href="$classetiss_1_1fault_1_1InjectorAddress.html#aaf4c641ac7fbfcb801f6801ec18f2242" title="etiss::fault::InjectorAddress\l::getInjector" alt="" coords="803,116,1003,157"/>
+<area shape="rect" id="node8" href="$classetiss_1_1fault_1_1Trigger.html#ae1730b98d49a46c286c4f58c504be330" title="etiss::fault::Trigger\l::operator=" alt="" coords="1051,5,1193,47"/>
+<area shape="rect" id="node9" href="$classetiss_1_1fault_1_1Trigger.html#a1892b683e0239f78185a879955f4f80e" title="etiss::fault::Trigger\l::~Trigger" alt="" coords="1051,71,1193,112"/>
+<area shape="rect" id="node10" href="$classetiss_1_1fault_1_1Trigger.html#a5740978553bccd11f09253c562e16921" title="this function checks if the Trigger has just fired. " alt="" coords="1051,160,1193,201"/>
+<area shape="rect" id="node11" href="$classetiss_1_1fault_1_1Trigger.html#a508c1e1cc95921b2894c59a8233c9ac9" title="etiss::fault::Trigger\l::getInjector" alt="" coords="1051,249,1193,291"/>
+</map>

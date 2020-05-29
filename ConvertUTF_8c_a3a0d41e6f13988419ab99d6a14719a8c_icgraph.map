@@ -1,0 +1,6 @@
+<map id="isLegalUTF8" name="isLegalUTF8">
+<area shape="rect" id="node2" href="$ConvertUTF_8c.html#a741e622980b476dff14e7b04828f662f" title="ConvertUTF8toUTF16" alt="" coords="157,5,317,32"/>
+<area shape="rect" id="node4" href="$ConvertUTF_8c.html#a41eac02a22186fe9d0e7f0de369377d7" title="ConvertUTF8toUTF32" alt="" coords="157,56,317,83"/>
+<area shape="rect" id="node5" href="$ConvertUTF_8c.html#acc15f861aadcbdb7028e21abf7da77da" title="isLegalUTF8Sequence" alt="" coords="155,107,319,133"/>
+<area shape="rect" id="node3" href="$classSI__ConvertW.html#a132a9317a6f69780fa6b818d3fcf59e9" title="Convert the input string from the storage format to SI_CHAR. " alt="" coords="367,23,561,65"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="float32_round_to_int" name="float32_round_to_int">
+<area shape="rect" id="node2" href="$softfloat_8cpp.html#ad7db4b950acd00230389b5bf92a2ffde" title="extractFloat32Exp" alt="" coords="210,5,350,32"/>
+<area shape="rect" id="node3" href="$softfloat_8cpp.html#a65cdd61cc329efd4760ab03c194b387f" title="extractFloat32Frac" alt="" coords="209,56,351,83"/>
+<area shape="rect" id="node4" href="$softfloat_8cpp.html#a013f9afb5752453cb761c1cfa02fb786" title="extractFloat32Sign" alt="" coords="208,107,352,133"/>
+<area shape="rect" id="node5" href="$softfloat_8cpp.html#abd106df88a9ac680e5ab2766e758c43a" title="packFloat32" alt="" coords="229,157,331,184"/>
+</map>

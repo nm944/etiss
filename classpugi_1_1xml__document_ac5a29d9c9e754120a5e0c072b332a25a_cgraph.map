@@ -1,0 +1,25 @@
+<map id="pugi::xml_document::load_file" name="pugi::xml_document::load_file">
+<area shape="rect" id="node2" href="$pugixml_8cpp.html#a79f0e2f9483c87a85ec4873a20caaa12" title="load_file_impl" alt="" coords="634,107,747,133"/>
+<area shape="rect" id="node10" href="$pugixml_8cpp.html#a6a347080c51ac7c992a32cde66a43801" title="open_file_wide" alt="" coords="853,309,972,336"/>
+<area shape="rect" id="node16" href="$classpugi_1_1xml__document.html#acf2b9daf1d12e12048796118b7a7685d" title="pugi::xml_document\l::reset" alt="" coords="208,166,363,207"/>
+<area shape="rect" id="node3" href="$pugixml_8cpp.html#ae841fafba520d2341dc8386a6f825ac6" title="get_buffer_encoding" alt="" coords="835,56,990,83"/>
+<area shape="rect" id="node7" href="$pugixml_8cpp.html#a62a3aaae374ea438f3b13324b1254b2d" title="get_file_size" alt="" coords="861,5,964,32"/>
+<area shape="rect" id="node8" href="$pugixml_8cpp.html#a9081c36df7470451a2a067677ee9e423" title="make_parse_result" alt="" coords="839,157,986,184"/>
+<area shape="rect" id="node9" href="$pugixml_8cpp.html#a2a34bcc0f03213bd1a9bb8a488682d3a" title="zero_terminate_buffer" alt="" coords="829,107,996,133"/>
+<area shape="rect" id="node4" href="$pugixml_8cpp.html#a1d386e9425e75d35b01373e46f186b9c" title="get_wchar_encoding" alt="" coords="1077,107,1232,133"/>
+<area shape="rect" id="node5" href="$pugixml_8cpp.html#a282e2854710450f313ea03bb59a8f681" title="is_little_endian" alt="" coords="1300,56,1421,83"/>
+<area shape="rect" id="node6" href="$pugixml_8cpp.html#ac4aca43b7a1cc8918a214f00c7c9af47" title="guess_buffer_encoding" alt="" coords="1069,56,1240,83"/>
+<area shape="rect" id="node11" href="$pugixml_8cpp.html#ae2a4ab9dd26f40adbf2174fe5fc079a9" title="convert_path_heap" alt="" coords="1081,309,1228,336"/>
+<area shape="rect" id="node12" href="$pugixml_8cpp.html#acf5b48bb1e377e9583eec8ba0e607898" title="as_utf8_begin" alt="" coords="1304,259,1417,285"/>
+<area shape="rect" id="node14" href="$pugixml_8cpp.html#a1bc09bbcdecde39207659ed351487999" title="as_utf8_end" alt="" coords="1310,309,1411,336"/>
+<area shape="rect" id="node15" href="$pugixml_8cpp.html#a04fddd18d92999ab767c3ab8c123056b" title="strlength_wide" alt="" coords="1301,360,1420,387"/>
+<area shape="rect" id="node13" href="$structutf__decoder.html#a5953fd0661c64408e08161342e4c538d" title="utf_decoder::decode\l_wchar_block" alt="" coords="1469,277,1624,318"/>
+<area shape="rect" id="node17" href="$classpugi_1_1xml__document.html#aefc80752f08aa71bc2d11e10f4bb9d2c" title="pugi::xml_document\l::destroy" alt="" coords="411,166,565,207"/>
+<area shape="rect" id="node24" href="$classpugi_1_1xml__document.html#aed7466cbdeeabcbbceaf372403eaf823" title="pugi::xml_document\l::create" alt="" coords="411,231,565,273"/>
+<area shape="rect" id="node18" href="$classpugi_1_1xml__document.html#a38e37826481a041103a11ba4c1e53aa3" title="pugi::xml_document\l::load" alt="" coords="613,217,768,258"/>
+<area shape="rect" id="node19" href="$pugixml_8cpp.html#a3515ac8101e357707f45d7438d568682" title="load_stream_impl" alt="" coords="621,165,760,192"/>
+<area shape="rect" id="node20" href="$pugixml_8cpp.html#a827b6edb9124c219970981a291543b0f" title="load_stream_data_noseek" alt="" coords="816,259,1009,285"/>
+<area shape="rect" id="node22" href="$pugixml_8cpp.html#a342e4630ae5d483f0956c92fd6f0bd1d" title="load_stream_data_seek" alt="" coords="824,208,1001,235"/>
+<area shape="rect" id="node21" href="$structxml__stream__chunk.html#a92cffe33c529ff266329fd4afb59226d" title="xml_stream_chunk::create" alt="" coords="1057,259,1252,285"/>
+<area shape="rect" id="node23" href="$structbuffer__holder.html#add9b75027bdf15dee0e2dc88225d5b10" title="buffer_holder::release" alt="" coords="1073,208,1237,235"/>
+</map>

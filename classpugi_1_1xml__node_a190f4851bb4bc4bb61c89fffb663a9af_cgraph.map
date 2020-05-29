@@ -1,0 +1,15 @@
+<map id="pugi::xml_node::append_child" name="pugi::xml_node::append_child">
+<area shape="rect" id="node2" href="$pugixml_8cpp.html#a9a76bd4417ac5f4778004bbd1658175e" title="allow_insert_child" alt="" coords="260,5,399,32"/>
+<area shape="rect" id="node3" href="$pugixml_8cpp.html#add30251379f717a3ebd53171dbb12f3c" title="append_node" alt="" coords="275,56,384,83"/>
+<area shape="rect" id="node6" href="$pugixml_8cpp.html#ab194763af6dca2d07ad5139dc2a75f60" title="get_allocator" alt="" coords="276,107,383,133"/>
+<area shape="rect" id="node7" href="$classpugi_1_1xml__node.html#a9d688489fcf0960e945a12480419e434" title="pugi::xml_node::set_name" alt="" coords="232,208,427,235"/>
+<area shape="rect" id="node8" href="$classpugi_1_1xml__node.html#a17bce1b9f774f2fa56dace3537195a24" title="pugi::xml_node::type" alt="" coords="475,157,633,184"/>
+<area shape="rect" id="node14" href="$classpugi_1_1xml__node.html#a36ec0eb8b399d71f6b55be0e181c69f9" title="pugi::xml_node::xml_node" alt="" coords="232,259,427,285"/>
+<area shape="rect" id="node4" href="$pugixml_8cpp.html#a6e4b9f37c4ab9fb598758530d69d8611" title="allocate_node" alt="" coords="497,56,611,83"/>
+<area shape="rect" id="node5" href="$structxml__allocator.html#afac0b9fac2c2962972f60d0346eb4f39" title="xml_allocator::allocate\l_memory" alt="" coords="689,49,860,90"/>
+<area shape="rect" id="node9" href="$pugixml_8cpp.html#ab9527027631039c4e2361e30f2c0788e" title="strcpy_insitu" alt="" coords="501,208,607,235"/>
+<area shape="rect" id="node10" href="$structxml__allocator.html#ac5ec2b5d41672d6494a2742e95e525b3" title="xml_allocator::allocate\l_string" alt="" coords="689,125,860,166"/>
+<area shape="rect" id="node11" href="$structxml__allocator.html#af32c538db4d562c2d0bfe15f7c0aa879" title="xml_allocator::deallocate\l_string" alt="" coords="681,190,868,231"/>
+<area shape="rect" id="node12" href="$pugixml_8cpp.html#a230775a8b2b7883f8dffc32b550a267c" title="strcpy_insitu_allow" alt="" coords="701,256,848,283"/>
+<area shape="rect" id="node13" href="$pugixml_8cpp.html#aab9e1f034d085b663d146fcceabb1c48" title="strlength" alt="" coords="916,281,996,308"/>
+</map>

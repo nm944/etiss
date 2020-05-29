@@ -1,0 +1,21 @@
+<map id="etiss::LibraryInterface::getName" name="etiss::LibraryInterface::getName">
+<area shape="rect" id="node2" href="$namespaceetiss.html#abea8444fc010e2490f2486e2ededde88" title="Get reference of the global ETISS configuration object. " alt="" coords="273,5,354,32"/>
+<area shape="rect" id="node3" href="$namespaceetiss.html#afd320e98bf6a5e2c0d8ffde5dd28dd35" title="write log message at the given level. " alt="" coords="457,31,539,57"/>
+<area shape="rect" id="node6" href="$classetiss_1_1LibraryInterface.html#adeeb1230d89fdbd47c4155fd1398dce7" title="etiss::LibraryInterface\l::countCPUArchs" alt="" coords="231,107,395,149"/>
+<area shape="rect" id="node7" href="$classetiss_1_1LibraryInterface.html#aafee4ce8209c4fd13fc5592ec34b89c7" title="etiss::LibraryInterface\l::countJITs" alt="" coords="231,173,395,214"/>
+<area shape="rect" id="node8" href="$classetiss_1_1LibraryInterface.html#a2183f0c58870a27f0c6b0e7c64cb17c3" title="etiss::LibraryInterface\l::countPlugins" alt="" coords="231,238,395,279"/>
+<area shape="rect" id="node9" href="$classetiss_1_1LibraryInterface.html#a0e5ab9890bf8cced1b3634dd10f5f8ad" title="etiss::LibraryInterface\l::createCPUArch" alt="" coords="231,303,395,345"/>
+<area shape="rect" id="node10" href="$classetiss_1_1LibraryInterface.html#af82c101d8424c6c1e0fbeda516a1e300" title="etiss::LibraryInterface\l::createJIT" alt="" coords="231,369,395,410"/>
+<area shape="rect" id="node11" href="$classetiss_1_1LibraryInterface.html#a27b53fe3c3cb4c5e49da18061e671dec" title="etiss::LibraryInterface\l::createPlugin" alt="" coords="231,434,395,475"/>
+<area shape="rect" id="node12" href="$classetiss_1_1LibraryInterface.html#a77aef864ac1587d8a8381997f67d6ca6" title="etiss::LibraryInterface\l::deleteCPUArch" alt="" coords="231,499,395,541"/>
+<area shape="rect" id="node13" href="$classetiss_1_1LibraryInterface.html#aa2c75cf9775286f3d0643585da2c31f8" title="etiss::LibraryInterface\l::deleteJIT" alt="" coords="231,565,395,606"/>
+<area shape="rect" id="node14" href="$classetiss_1_1LibraryInterface.html#a07a587c67ff3b3e6a266cadd0a6aa826" title="etiss::LibraryInterface\l::deletePlugin" alt="" coords="231,630,395,671"/>
+<area shape="rect" id="node15" href="$classetiss_1_1LibraryInterface.html#adc029e24f554851c9b361561a0f11c4c" title="etiss::LibraryInterface\l::getCurrentLibraryVersion" alt="" coords="217,695,409,737"/>
+<area shape="rect" id="node16" href="$classetiss_1_1LibraryInterface.html#a5fa063ecb55126a8f49c30299adab157" title="etiss::LibraryInterface\l::LibraryInterface" alt="" coords="231,761,395,802"/>
+<area shape="rect" id="node17" href="$classetiss_1_1LibraryInterface.html#ac93e0c698db41f56491acbfd7acdffa4" title="etiss::LibraryInterface\l::nameCPUArch" alt="" coords="231,826,395,867"/>
+<area shape="rect" id="node18" href="$classetiss_1_1LibraryInterface.html#af4c0ac05051930f74c3e67ea693936fa" title="etiss::LibraryInterface\l::nameJIT" alt="" coords="231,891,395,933"/>
+<area shape="rect" id="node19" href="$classetiss_1_1LibraryInterface.html#ae0cada480a2f78fcd09d6b9bb352efa1" title="etiss::LibraryInterface\l::namePlugin" alt="" coords="231,957,395,998"/>
+<area shape="rect" id="node20" href="$classetiss_1_1LibraryInterface.html#a8ec26248188dbc3b2f79b77e8b6a8c9f" title="simple version info string. intended to present information in a human readable way. " alt="" coords="231,1022,395,1063"/>
+<area shape="rect" id="node4" href="$namespaceetiss.html#a5d23a51a17c09f1b863c601d4454f99b" title="conversion of type T to std::string. " alt="" coords="587,31,699,57"/>
+<area shape="rect" id="node5" href="$namespaceetiss.html#a160483ffeeb252cc1140206d2248c3a9" title="etiss::split" alt="" coords="747,31,836,57"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="etiss::Translation::translateBlock" name="etiss::Translation::translateBlock">
+<area shape="rect" id="node2" href="$classetiss_1_1CodeSet.html#a7236f0032933e60e6d9671d155da209d" title="etiss::CodeSet::append" alt="" coords="205,5,376,32"/>
+<area shape="rect" id="node3" href="$classetiss_1_1CodeBlock.html#acf8fc45fed862fc86d4393183e69b93b" title="etiss::CodeBlock::append" alt="" coords="197,56,384,83"/>
+<area shape="rect" id="node4" href="$classetiss_1_1instr_1_1BitArray.html#a6fbe30057aa82313c3f9f593a0867d9b" title="etiss::instr::BitArray\l::byteCount" alt="" coords="1140,95,1291,137"/>
+<area shape="rect" id="node5" href="$namespaceetiss.html#abea8444fc010e2490f2486e2ededde88" title="Get reference of the global ETISS configuration object. " alt="" coords="496,263,577,289"/>
+<area shape="rect" id="node9" href="$classetiss_1_1CPUArch.html#ad1ecb5fa556dbda8dd34a0acbf79b65f" title="this function should compensate for any endianess on a BitArray so that bit 0 is always the LSB..." alt="" coords="188,197,393,238"/>
+<area shape="rect" id="node17" href="$classetiss_1_1Configuration.html#ad8c43846d16752474dfab08a50e135ad" title="template function to read the value of a configuration key. " alt="" coords="448,313,625,340"/>
+<area shape="rect" id="node18" href="$classetiss_1_1instr_1_1InstructionSet.html#a57482ece7b5c14b0869ad3491876c20d" title="etiss::instr::Instruction\lSet::get" alt="" coords="207,430,374,471"/>
+<area shape="rect" id="node19" href="$classetiss_1_1instr_1_1ModedInstructionSet.html#ace6e14638621794d2a2f894ac2930af1" title="etiss::instr::ModedInstruction\lSet::get" alt="" coords="185,495,396,537"/>
+<area shape="rect" id="node20" href="$classetiss_1_1CodeBlock_1_1Line.html#a885f42cfcea9f3bc9c63c169a975e841" title="etiss::CodeBlock::Line\l::getCodeSet" alt="" coords="208,561,373,602"/>
+<area shape="rect" id="node21" href="$classetiss_1_1instr_1_1InstructionSet.html#a3a6d35a40a119ba41b1a55fb9b8078f7" title="etiss::instr::Instruction\lSet::getInvalid" alt="" coords="207,626,374,667"/>
+<area shape="rect" id="node22" href="$classetiss_1_1instr_1_1BitArray.html#a4b20425e1cd6711386611c1c01826d83" title="get the internal buffer " alt="" coords="215,691,366,733"/>
+<area shape="rect" id="node23" href="$classetiss_1_1instr_1_1InstructionSet.html#a7ea2db8cdb5e83cae16b95bae0617a84" title="etiss::instr::Instruction\lSet::resolve" alt="" coords="207,365,374,406"/>
+<area shape="rect" id="node26" href="$classetiss_1_1instr_1_1Instruction.html#a3d24dad1dbf0330018175115c51f8960" title="etiss::instr::Instruction\l::translate" alt="" coords="207,757,374,798"/>
+<area shape="rect" id="node27" href="$classetiss_1_1instr_1_1BitArray.html#a86c0d6b4dc37c7e878e27e444c88670c" title="etiss::instr::BitArray\l::width" alt="" coords="215,822,366,863"/>
+<area shape="rect" id="node6" href="$namespaceetiss.html#afd320e98bf6a5e2c0d8ffde5dd28dd35" title="write log message at the given level. " alt="" coords="733,325,814,352"/>
+<area shape="rect" id="node7" href="$namespaceetiss.html#a5d23a51a17c09f1b863c601d4454f99b" title="conversion of type T to std::string. " alt="" coords="949,325,1061,352"/>
+<area shape="rect" id="node8" href="$namespaceetiss.html#a160483ffeeb252cc1140206d2248c3a9" title="etiss::split" alt="" coords="1171,325,1260,352"/>
+<area shape="rect" id="node10" href="$classetiss_1_1instr_1_1BitArray.html#a147cd9aa8af04b59c2de3f65cd8a88de" title="changes byte positions as needed to resove endiannes incompabilities after using the internal buffer ..." alt="" coords="444,197,629,238"/>
+<area shape="rect" id="node11" href="$namespaceetiss.html#ac13036cc1551f0b79ff2a933b940b6c7" title="evaluates the endianness of the current build as a constexpr. " alt="" coords="695,275,851,301"/>
+<area shape="rect" id="node12" href="$namespaceetiss_1_1instr.html#afdb1df0825664a81d18ea9a330011a4f" title="creates a mask to get the lower address of a bitwise address. " alt="" coords="695,158,852,199"/>
+<area shape="rect" id="node13" href="$namespaceetiss_1_1instr.html#ada8c3f1f2465f23785d9a7d67d493e05" title="etiss::instr::etiss\l_instr_sqrt_2pow" alt="" coords="939,217,1071,258"/>
+<area shape="rect" id="node14" href="$namespaceetiss_1_1instr.html#a1db4e3bfd44983a731d08e41edd400c8" title="allow printing of bit arrays (always hex) " alt="" coords="917,165,1092,192"/>
+<area shape="rect" id="node15" href="$classetiss_1_1instr_1_1BitArray.html#a9da79af12cfddd5b1a8e821d9f74a897" title="etiss::instr::BitArray\l::wordCount" alt="" coords="1140,161,1291,202"/>
+<area shape="rect" id="node16" href="$classetiss_1_1instr_1_1BitArray.html#afb55f99dcf81d76c2e4fceff4c666373" title="returns a reference to the word at the given index. " alt="" coords="1140,226,1291,267"/>
+<area shape="rect" id="node24" href="$classetiss_1_1instr_1_1Node.html#a62dbb3b5ca71ec98b434b4b0bcdc2c1e" title="performs a lookup for the matching Instruction for the passed instruction in the bit array..." alt="" coords="471,389,603,430"/>
+<area shape="rect" id="node25" href="$classetiss_1_1instr_1_1BitArrayRange.html#ac4b0a05b20a0daa0a1f9152e9a20c71e" title="reads bits from the range to the return value starting at the lsb. " alt="" coords="677,389,869,430"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="pugi::xml_node::type" name="pugi::xml_node::type">
+<area shape="rect" id="node2" href="$classpugi_1_1xml__node.html#a417eb03f034b432bb2800e54e38022aa" title="pugi::xml_node::append\l_attribute" alt="" coords="220,320,399,361"/>
+<area shape="rect" id="node7" href="$classpugi_1_1xml__node.html#a7e0126c503dcfba5111121ec4a94c11e" title="pugi::xml_node::append\l_buffer" alt="" coords="220,992,399,1033"/>
+<area shape="rect" id="node8" href="$classpugi_1_1xml__node.html#a190f4851bb4bc4bb61c89fffb663a9af" title="pugi::xml_node::append\l_child" alt="" coords="476,501,655,543"/>
+<area shape="rect" id="node10" href="$classpugi_1_1xml__node.html#a17971e2b69c4dd4f45c461ebffe96732" title="pugi::xml_node::append_copy" alt="" coords="727,450,943,477"/>
+<area shape="rect" id="node26" href="$classpugi_1_1xml__node.html#a74ab20fa84dffde317f8899af628f041" title="pugi::xml_node::insert\l_attribute_after" alt="" coords="226,1057,393,1099"/>
+<area shape="rect" id="node28" href="$classpugi_1_1xml__node.html#a742898bc2342d943a4c49916ac3a64b8" title="pugi::xml_node::insert\l_attribute_before" alt="" coords="226,1123,393,1164"/>
+<area shape="rect" id="node30" href="$classpugi_1_1xml__node.html#a4dd8d25c02560a2692c43cc4779fb7e3" title="pugi::xml_node::insert\l_child_after" alt="" coords="482,629,649,671"/>
+<area shape="rect" id="node32" href="$classpugi_1_1xml__node.html#a106a600eac7d08608f797d034b331fa8" title="pugi::xml_node::insert\l_copy_after" alt="" coords="751,697,918,739"/>
+<area shape="rect" id="node33" href="$classpugi_1_1xml__node.html#afe89f53c01eac8209b06f9fe7f84e7c1" title="pugi::xml_node::insert\l_child_before" alt="" coords="482,765,649,807"/>
+<area shape="rect" id="node35" href="$classpugi_1_1xml__node.html#a21134448747e00888df7ecfb174032d3" title="pugi::xml_node::insert\l_copy_before" alt="" coords="751,828,918,869"/>
+<area shape="rect" id="node36" href="$classpugi_1_1xml__node.html#a66caab4dbec141d23467c453b81d10f6" title="pugi::xml_node::offset\l_debug" alt="" coords="226,1188,393,1229"/>
+<area shape="rect" id="node37" href="$classpugi_1_1xml__node.html#a7d70631d6cb3624cdfc4cf9ef4abad06" title="pugi::xml_node::prepend\l_attribute" alt="" coords="218,1253,401,1295"/>
+<area shape="rect" id="node39" href="$classpugi_1_1xml__node.html#a9e0a6dddfe1fefc74bb2b7689376989c" title="pugi::xml_node::prepend\l_child" alt="" coords="474,889,657,931"/>
+<area shape="rect" id="node41" href="$classpugi_1_1xml__node.html#a29cc787ee2270e3a71e1d511164621e6" title="pugi::xml_node::prepend_copy" alt="" coords="724,959,945,986"/>
+<area shape="rect" id="node42" href="$classpugi_1_1xml__node.html#a9d688489fcf0960e945a12480419e434" title="pugi::xml_node::set_name" alt="" coords="212,738,407,765"/>
+<area shape="rect" id="node43" href="$classpugi_1_1xml__node.html#a160f1fa7a0eda1e5ad9d19d45f6b0e4e" title="pugi::xml_node::set\l_value" alt="" coords="234,1319,385,1360"/>
+<area shape="rect" id="node44" href="$namespaceetiss_1_1fault.html#a7b6e7f540f946defc334c658099e7a88" title="etiss::fault::setCoreName" alt="" coords="215,387,403,414"/>
+<area shape="rect" id="node3" href="$classpugi_1_1xml__node.html#a4c151e6665c6bfa614fe80d177fd5396" title="pugi::xml_node::append_copy" alt="" coords="457,49,673,75"/>
+<area shape="rect" id="node5" href="$namespaceetiss_1_1fault_1_1xml.html#a29eea8718a44bc25bfa14958f754a754" title="etiss::fault::xml::\lsetAttribute" alt="" coords="499,320,631,361"/>
+<area shape="rect" id="node4" href="$classpugi_1_1xml__document.html#a4230de3de88f4fe481c4c3d5312aa5cf" title="pugi::xml_document\l::reset" alt="" coords="757,5,912,47"/>
+<area shape="rect" id="node6" href="$classetiss_1_1fault_1_1Fault.html#a0384e0ccdbb425e050b98544823b173a" title="check all Triggers if they are resolved. " alt="" coords="769,319,900,360"/>
+<area shape="rect" id="node9" href="$classpugi_1_1xml__node.html#a448342425806a4ad8068bf98fd4ff462" title="pugi::xml_node::append\l_child" alt="" coords="745,567,924,608"/>
+<area shape="rect" id="node11" href="$classetiss_1_1fault_1_1Fault.html#a6295347f3e3bbdc4ee9f5411ae2da338" title="operator&lt;&lt; can be used. " alt="" coords="769,501,900,543"/>
+<area shape="rect" id="node25" href="$classetiss_1_1fault_1_1Action.html#a49f3bfd2e62df6346634f33e2bf5a684" title="operator&lt;&lt; can be used. " alt="" coords="765,384,905,425"/>
+<area shape="rect" id="node12" href="$classetiss_1_1fault_1_1Action.html#a795595425d04c5d73b98cd776669c88e" title="injects a fault. this is especially usefull with Triggers of type TIMERELATIVE " alt="" coords="997,501,1137,543"/>
+<area shape="rect" id="node13" href="$classetiss_1_1fault_1_1Stressor.html#a41c783d0594cf51b8746e7ea2caaa889" title="adds a fault to a static map that can be accessed by static std::map&lt;int32_t,Fault&gt; &amp; faults()..." alt="" coords="1189,352,1341,393"/>
+<area shape="rect" id="node14" href="$classetiss_1_1fault_1_1Stressor.html#af6bb7d8e283e6f087285f6bcaea92090" title="Checks if the given trigger is valid and calls applyAction. " alt="" coords="1389,323,1541,364"/>
+<area shape="rect" id="node18" href="$classetiss_1_1fault_1_1Stressor.html#a2b282d4fe687a08d02cbc22213a9ac87" title="extracts faults out of the given xml file. " alt="" coords="1389,393,1541,435"/>
+<area shape="rect" id="node15" href="$classetiss_1_1fault_1_1Injector.html#aea938d7cb3d769b1ec0abb19960176df" title="etiss::fault::Injector\l::cycleAccurateCallback" alt="" coords="1589,319,1767,360"/>
+<area shape="rect" id="node16" href="$classetiss_1_1fault_1_1Injector.html#abacecb231c4dde896f31a23290dd3d83" title="etiss::fault::Injector\l::instructionAccurateCallback" alt="" coords="1815,260,2027,301"/>
+<area shape="rect" id="node17" href="$classetiss_1_1fault_1_1Injector.html#a5924614e68d5eafa8164f575f8bb028a" title="etiss::fault::Injector\l::~Injector" alt="" coords="2084,260,2232,301"/>
+<area shape="rect" id="node19" href="$ETISS_8cpp.html#ac76805eb9dfbd82116a3e7170ddee7fa" title="etiss_initialize" alt="" coords="1620,418,1736,445"/>
+<area shape="rect" id="node20" href="$group__ETISS__Internals.html#ga371c5786faafe2084636cbc2d02d451d" title="Force the initialization of ETISS. " alt="" coords="1833,427,2008,454"/>
+<area shape="rect" id="node24" href="$group__ETISS__Frontend.html#ga7220e704fcd20f6d73a02c04bdbc9391" title="Initialize and configure ETISS. " alt="" coords="1862,478,1979,505"/>
+<area shape="rect" id="node21" href="$group__ETISS__Frontend.html#gac9dbcc30c0d390f4b6ffe05257b32807" title="Add a LibraryInterface to the ETISS environment. " alt="" coords="2093,377,2223,403"/>
+<area shape="rect" id="node22" href="$classetiss_1_1CPUCore.html#a804f3252302d7ae49f7918da2871f6ba" title="Create a CPUCore instance. " alt="" coords="2075,427,2241,454"/>
+<area shape="rect" id="node23" href="$classetiss_1_1Initializer.html#a7940b5f19b53f6f7ad953469f7d264bd" title="Constructor that initializes ETISS. " alt="" coords="2097,479,2219,520"/>
+<area shape="rect" id="node27" href="$classpugi_1_1xml__node.html#ab5fd2ccada30141544b12c6ef554d8f4" title="pugi::xml_node::insert\l_copy_after" alt="" coords="482,1057,649,1099"/>
+<area shape="rect" id="node29" href="$classpugi_1_1xml__node.html#ac81f8aded4b53a9b8c98d131986cb535" title="pugi::xml_node::insert\l_copy_before" alt="" coords="482,1123,649,1164"/>
+<area shape="rect" id="node31" href="$classpugi_1_1xml__node.html#a778c2246fef9964b2d947253a86f2982" title="pugi::xml_node::insert\l_child_after" alt="" coords="751,632,918,673"/>
+<area shape="rect" id="node34" href="$classpugi_1_1xml__node.html#a70fa68762aed11c82a1b913571df4394" title="pugi::xml_node::insert\l_child_before" alt="" coords="751,763,918,804"/>
+<area shape="rect" id="node38" href="$classpugi_1_1xml__node.html#abd0f80e4d5bc938a27b50d37a0c7865b" title="pugi::xml_node::prepend_copy" alt="" coords="455,1261,676,1287"/>
+<area shape="rect" id="node40" href="$classpugi_1_1xml__node.html#afa78286431f99a0f35b18185e11e28e8" title="pugi::xml_node::prepend\l_child" alt="" coords="743,893,926,935"/>
+<area shape="rect" id="node45" href="$classetiss_1_1fault_1_1InjectorAddress.html#a7fe59209dc932f699410fcd8dd9555e5" title="&gt; Calls Injector::get (implemented in VirtualStruct) to resolve path_ and get iptr_ ..." alt="" coords="465,136,665,177"/>
+<area shape="rect" id="node48" href="$classetiss_1_1fault_1_1Trigger.html#a01a021e80230fb967bacfc2446f61508" title="operator&lt;&lt; can be used. " alt="" coords="494,255,637,296"/>
+<area shape="rect" id="node46" href="$classetiss_1_1fault_1_1Trigger.html#ae1730b98d49a46c286c4f58c504be330" title="etiss::fault::Trigger\l::operator=" alt="" coords="763,71,906,112"/>
+<area shape="rect" id="node47" href="$classetiss_1_1fault_1_1Trigger.html#a1892b683e0239f78185a879955f4f80e" title="etiss::fault::Trigger\l::~Trigger" alt="" coords="763,136,906,177"/>
+<area shape="rect" id="node49" href="$classetiss_1_1fault_1_1Injector.html#a169fcb5dcb1adb9dbaa069b04106dd86" title="etiss::fault::Injector\l::acceleratedTrigger" alt="" coords="759,201,910,243"/>
+<area shape="rect" id="node50" href="$classetiss_1_1fault_1_1Injector.html#afd9963ffa35642347441827af4497be0" title="&gt; Triggers to look at in callbacks " alt="" coords="993,260,1141,301"/>
+</map>

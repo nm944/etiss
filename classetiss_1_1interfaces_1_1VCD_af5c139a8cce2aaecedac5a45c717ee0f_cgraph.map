@@ -1,0 +1,9 @@
+<map id="etiss::interfaces::VCD::declare" name="etiss::interfaces::VCD::declare">
+<area shape="rect" id="node2" href="$namespaceetiss_1_1interfaces.html#a1438c52a8f59bce2673c02af8f2d2659" title="generated an identifier for the given index " alt="" coords="188,43,323,85"/>
+<area shape="rect" id="node5" href="$namespaceetiss_1_1interfaces.html#a9d8e31cead0af66a45709927e263dc90" title="TODO efficient implementation. " alt="" coords="736,31,871,73"/>
+<area shape="rect" id="node6" href="$namespaceetiss.html#afd320e98bf6a5e2c0d8ffde5dd28dd35" title="write log message at the given level. " alt="" coords="397,160,479,187"/>
+<area shape="rect" id="node8" href="$namespaceetiss.html#a160483ffeeb252cc1140206d2248c3a9" title="etiss::split" alt="" coords="759,123,848,149"/>
+<area shape="rect" id="node3" href="$classetiss_1_1interfaces_1_1VCD.html#a9bf99ed13ce65238ecc3aa6ac931eae9" title="etiss::interfaces::\lVCD::close" alt="" coords="371,43,505,85"/>
+<area shape="rect" id="node4" href="$classetiss_1_1interfaces_1_1VCD.html#a456fd74de8ed15bd423297943e31cd7e" title="etiss::interfaces::\lVCD::flush" alt="" coords="553,43,688,85"/>
+<area shape="rect" id="node7" href="$namespaceetiss.html#a5d23a51a17c09f1b863c601d4454f99b" title="conversion of type T to std::string. " alt="" coords="565,160,677,187"/>
+</map>

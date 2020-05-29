@@ -1,0 +1,17 @@
+<map id="/home/travis/build/tum&#45;ei&#45;eda/etiss/src/CVirtualStruct.cpp" name="/home/travis/build/tum&#45;ei&#45;eda/etiss/src/CVirtualStruct.cpp">
+<area shape="rect" id="node2" href="$VirtualStruct_8h.html" title="etiss/VirtualStruct.h" alt="" coords="1656,109,1807,136"/>
+<area shape="rect" id="node3" href="$CVirtualStruct_8h.html" title="etiss/CVirtualStruct.h" alt="" coords="5,408,164,435"/>
+<area shape="rect" id="node5" href="$Misc_8h.html" title="general configuration and logging " alt="" coords="1134,483,1233,509"/>
+<area shape="rect" id="node20" href="$Injector_8h.html" title="contains the fault injector interface class. " alt="" coords="1656,184,1807,211"/>
+<area shape="rect" id="node17" href="$config_8h.html" title="contains defines to configure ETISS. " alt="" coords="675,557,783,584"/>
+<area shape="rect" id="node18" href="$types_8h.html" title="type declarations for etiss and definition of the likely/unlikely macros. " alt="" coords="527,557,650,584"/>
+<area shape="rect" id="node19" href="$ClassDefs_8h.html" title="etiss/ClassDefs.h" alt="" coords="807,557,941,584"/>
+<area shape="rect" id="node21" href="$Fault_8h.html" title="contains the fault container class that stores triggers and actions for fault injection ..." alt="" coords="1728,259,1863,285"/>
+<area shape="rect" id="node24" href="$Action_8h.html" title="contains an action class that describes actions associated with a fault " alt="" coords="2065,333,2209,360"/>
+<area shape="rect" id="node25" href="$Defs_8h.html" title="contains general definitions used by other fault library code " alt="" coords="2223,557,2357,584"/>
+<area shape="rect" id="node28" href="$XML_8h.html" title="contains XML related functions. " alt="" coords="2003,483,2134,509"/>
+<area shape="rect" id="node35" href="$Trigger_8h.html" title="contains the Trigger class that defines conditions under which actions of a Fault need to be applied..." alt="" coords="1778,333,1925,360"/>
+<area shape="rect" id="node27" href="$InjectorAddress_8h.html" title="contains a simple class that represents and resolves injector addresses as used by triggers ( ..." alt="" coords="1764,408,1968,435"/>
+<area shape="rect" id="node29" href="$pugixml_8hpp.html" title="etiss/fault/xml/pugixml.hpp" alt="" coords="1811,557,2012,584"/>
+<area shape="rect" id="node30" href="$pugiconfig_8hpp.html" title="etiss/fault/xml/pugiconfig.hpp" alt="" coords="2059,632,2273,659"/>
+</map>

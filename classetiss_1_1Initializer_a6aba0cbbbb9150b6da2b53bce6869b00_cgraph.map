@@ -1,0 +1,5 @@
+<map id="etiss::Initializer::toList" name="etiss::Initializer::toList">
+<area shape="rect" id="node2" href="$classetiss_1_1Initializer.html#a6499c09834dd9e145312d0b0aa7c8f93" title="creates a simpleIni object which holds the data of the given .ini file. " alt="" coords="176,5,299,47"/>
+<area shape="rect" id="node3" href="$ETISS_8cpp.html#a07178be2859983a25c501fa88c071280" title="etiss_loadIni" alt="" coords="347,13,451,39"/>
+<area shape="rect" id="node4" href="$classCSimpleIniTempl.html#aebb6e5fff76efc05ca6cc4b7b56481a3" title="Load an INI file from disk into memory. " alt="" coords="499,13,691,39"/>
+</map>

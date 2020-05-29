@@ -1,0 +1,11 @@
+<map id="get_latin1_7bit_prefix_length" name="get_latin1_7bit_prefix_length">
+<area shape="rect" id="node2" href="$pugixml_8cpp.html#aab8dd109bccbb59a8a2c3f5b638cd16a" title="convert_buffer_latin1" alt="" coords="216,49,376,75"/>
+<area shape="rect" id="node3" href="$pugixml_8cpp.html#a307f5fbb9d87b5938c0b442458185ca6" title="convert_buffer" alt="" coords="424,111,540,138"/>
+<area shape="rect" id="node4" href="$pugixml_8cpp.html#a23609126eff5820342411bf83b280225" title="get_mutable_buffer" alt="" coords="588,55,737,82"/>
+<area shape="rect" id="node5" href="$pugixml_8cpp.html#a0d9bcb567b8ceb20206147857f03c187" title="load_buffer_impl" alt="" coords="597,111,728,138"/>
+<area shape="rect" id="node6" href="$classpugi_1_1xml__node.html#a7e0126c503dcfba5111121ec4a94c11e" title="pugi::xml_node::append\l_buffer" alt="" coords="791,5,970,47"/>
+<area shape="rect" id="node7" href="$classpugi_1_1xml__document.html#ab29840790e26b2166a395c63a2b2d9bd" title="pugi::xml_document\l::load_buffer" alt="" coords="803,71,958,112"/>
+<area shape="rect" id="node9" href="$classpugi_1_1xml__document.html#a3e20650182ccbdd175ca069dd5e08632" title="pugi::xml_document\l::load_buffer_inplace" alt="" coords="802,136,959,177"/>
+<area shape="rect" id="node10" href="$classpugi_1_1xml__document.html#a9da4bdcdc4ad914fb0f4680b02983502" title="pugi::xml_document\l::load_buffer_inplace_own" alt="" coords="785,201,976,243"/>
+<area shape="rect" id="node8" href="$classpugi_1_1xml__document.html#ae17a77772fa21a40f3d91d9c79e60d0b" title="pugi::xml_document\l::load" alt="" coords="1024,71,1179,112"/>
+</map>

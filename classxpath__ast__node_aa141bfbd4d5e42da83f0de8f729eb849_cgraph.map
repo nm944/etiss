@@ -1,0 +1,7 @@
+<map id="xpath_ast_node::step_push" name="xpath_ast_node::step_push">
+<area shape="rect" id="node2" href="$classpugi_1_1xml__node.html#ac07ca987449e720eab11434427810fb2" title="pugi::xml_node::name" alt="" coords="252,5,419,32"/>
+<area shape="rect" id="node3" href="$classxpath__node__set__raw.html#a676ec123e5be874869c78ff5c43ae9c2" title="xpath_node_set_raw\l::push_back" alt="" coords="257,57,413,98"/>
+<area shape="rect" id="node5" href="$pugixml_8cpp.html#a4ab3a20f90bd9a6d4d050b7438fe83e3" title="starts_with" alt="" coords="288,123,383,149"/>
+<area shape="rect" id="node6" href="$pugixml_8cpp.html#af682718c79fea7fc666a593dc70764c1" title="strequal" alt="" coords="298,173,373,200"/>
+<area shape="rect" id="node4" href="$classxpath__allocator.html#a4dd502389202ec8e7420832112a571e5" title="xpath_allocator::reallocate" alt="" coords="467,64,663,91"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="etiss::TranslationPlugin::initCodeBlock" name="etiss::TranslationPlugin::initCodeBlock">
+<area shape="rect" id="node2" href="$namespaceetiss.html#af7c385df4f637f55e7f8d1f7d8a8fab1" title="etiss::call_initCodeBlock" alt="" coords="235,5,416,32"/>
+<area shape="rect" id="node3" href="$namespaceetiss.html#ad10f6255918242d6792fed63a2dd7f0f" title="etiss::call_initCodeBlock_ul" alt="" coords="225,56,425,83"/>
+<area shape="rect" id="node4" href="$classetiss_1_1Translation.html#ac02e73b182ab60738e243911d823919e" title="etiss::Translation\l::init" alt="" coords="473,49,605,90"/>
+<area shape="rect" id="node5" href="$classetiss_1_1CPUCore.html#a3abad91e823939228f7db1596e040c19" title="Start the simulation of the CPU core for the system model. " alt="" coords="653,56,832,83"/>
+<area shape="rect" id="node6" href="$classetiss_1_1CPUCore.html#a2ab7000206ed432b59457ce57b9182f6" title="Start the simulation of the CPU core for the system model. " alt="" coords="882,27,1061,53"/>
+<area shape="rect" id="node7" href="$classetiss_1_1CPUCore.html#a2707d1b72cf6d4ba053b3e03e946a17f" title="Set the number of blocks jumps in between the coroutines are not executed. " alt="" coords="880,78,1063,119"/>
+</map>

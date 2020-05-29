@@ -1,0 +1,10 @@
+<map id="etiss::Initializer::loadIniPlugins" name="etiss::Initializer::loadIniPlugins">
+<area shape="rect" id="node2" href="$classCSimpleIniTempl.html#a08cadb6624a6c459703efaadb25d31c9" title="Retrieve all unique key names in a section. " alt="" coords="188,5,399,32"/>
+<area shape="rect" id="node4" href="$classCSimpleIniTempl.html#a7fe8a8b70b0ef000c591011a8332ebd5" title="Retrieve all section names. " alt="" coords="176,56,411,83"/>
+<area shape="rect" id="node5" href="$classCSimpleIniTempl.html#adda5ee7f422695f7e67be2d066e303bf" title="Retrieve all values for a specific key. " alt="" coords="182,107,405,133"/>
+<area shape="rect" id="node6" href="$group__ETISS__Frontend.html#ga4f8d7c30115cfe2422f628a812d3b0b8" title="Get a present Plugin plug&#45;in by name. " alt="" coords="232,157,355,184"/>
+<area shape="rect" id="node7" href="$namespaceetiss.html#afd320e98bf6a5e2c0d8ffde5dd28dd35" title="write log message at the given level. " alt="" coords="507,171,589,197"/>
+<area shape="rect" id="node3" href="$classCSimpleIniTempl.html#a705eaa8e6c0fb8c1ce2648e71ad681f7" title="Internal use of our string comparison function. " alt="" coords="459,95,637,121"/>
+<area shape="rect" id="node8" href="$namespaceetiss.html#a5d23a51a17c09f1b863c601d4454f99b" title="conversion of type T to std::string. " alt="" coords="685,171,797,197"/>
+<area shape="rect" id="node9" href="$namespaceetiss.html#a160483ffeeb252cc1140206d2248c3a9" title="etiss::split" alt="" coords="845,171,935,197"/>
+</map>

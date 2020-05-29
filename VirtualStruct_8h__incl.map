@@ -1,0 +1,16 @@
+<map id="/home/travis/build/tum&#45;ei&#45;eda/etiss/include/etiss/VirtualStruct.h" name="/home/travis/build/tum&#45;ei&#45;eda/etiss/include/etiss/VirtualStruct.h">
+<area shape="rect" id="node2" href="$CVirtualStruct_8h.html" title="etiss/CVirtualStruct.h" alt="" coords="5,333,164,360"/>
+<area shape="rect" id="node4" href="$Misc_8h.html" title="general configuration and logging " alt="" coords="1134,408,1233,435"/>
+<area shape="rect" id="node19" href="$Injector_8h.html" title="contains the fault injector interface class. " alt="" coords="1656,109,1807,136"/>
+<area shape="rect" id="node16" href="$config_8h.html" title="contains defines to configure ETISS. " alt="" coords="675,483,783,509"/>
+<area shape="rect" id="node17" href="$types_8h.html" title="type declarations for etiss and definition of the likely/unlikely macros. " alt="" coords="527,483,650,509"/>
+<area shape="rect" id="node18" href="$ClassDefs_8h.html" title="etiss/ClassDefs.h" alt="" coords="807,483,941,509"/>
+<area shape="rect" id="node20" href="$Fault_8h.html" title="contains the fault container class that stores triggers and actions for fault injection ..." alt="" coords="1728,184,1863,211"/>
+<area shape="rect" id="node23" href="$Action_8h.html" title="contains an action class that describes actions associated with a fault " alt="" coords="2065,259,2209,285"/>
+<area shape="rect" id="node24" href="$Defs_8h.html" title="contains general definitions used by other fault library code " alt="" coords="2223,483,2357,509"/>
+<area shape="rect" id="node27" href="$XML_8h.html" title="contains XML related functions. " alt="" coords="2003,408,2134,435"/>
+<area shape="rect" id="node34" href="$Trigger_8h.html" title="contains the Trigger class that defines conditions under which actions of a Fault need to be applied..." alt="" coords="1778,259,1925,285"/>
+<area shape="rect" id="node26" href="$InjectorAddress_8h.html" title="contains a simple class that represents and resolves injector addresses as used by triggers ( ..." alt="" coords="1764,333,1968,360"/>
+<area shape="rect" id="node28" href="$pugixml_8hpp.html" title="etiss/fault/xml/pugixml.hpp" alt="" coords="1811,483,2012,509"/>
+<area shape="rect" id="node29" href="$pugiconfig_8hpp.html" title="etiss/fault/xml/pugiconfig.hpp" alt="" coords="2059,557,2273,584"/>
+</map>

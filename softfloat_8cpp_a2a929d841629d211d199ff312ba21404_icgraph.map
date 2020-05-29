@@ -1,0 +1,20 @@
+<map id="packFloat64" name="packFloat64">
+<area shape="rect" id="node2" href="$softfloat_8cpp.html#a9971e11c18299dd8c905763661528448" title="addFloat64Sigs" alt="" coords="647,201,768,227"/>
+<area shape="rect" id="node8" href="$softfloat_8cpp.html#a3e9f76eb4f794b97b98538ddfbedcd9e" title="float32_to_float64" alt="" coords="819,61,957,87"/>
+<area shape="rect" id="node9" href="$softfloat_8cpp.html#ac13a8e8c481f037fef890453c0753d23" title="float64_div" alt="" coords="433,99,528,126"/>
+<area shape="rect" id="node10" href="$softfloat_8cpp.html#a2792db4499f61dbd145446c3d99490d3" title="float64_lt_quiet" alt="" coords="419,403,542,430"/>
+<area shape="rect" id="node11" href="$softfloat_8cpp.html#aa377ba26b92dea73c32f967ffd22f12d" title="float64_mul" alt="" coords="431,505,530,531"/>
+<area shape="rect" id="node12" href="$softfloat_8cpp.html#aba08561bb1fada6ca98f43901b3e0ab6" title="float64_round_to_int" alt="" coords="159,555,313,582"/>
+<area shape="rect" id="node13" href="$softfloat_8cpp.html#a02395d7097864ea3b3250a23b3aa87fd" title="int32_to_float64" alt="" coords="173,606,299,633"/>
+<area shape="rect" id="node14" href="$softfloat_8cpp.html#adde3917f49f7882fa52556c7f1fb7e17" title="int64_to_float64" alt="" coords="644,454,771,481"/>
+<area shape="rect" id="node15" href="$softfloat_8cpp.html#a79651b0f54d0e9af9ba9c2b5951ba3a7" title="roundAndPackFloat64" alt="" coords="155,353,317,379"/>
+<area shape="rect" id="node18" href="$softfloat_8cpp.html#a4c476f5231346ac08bc54812d2a06500" title="subFloat64Sigs" alt="" coords="647,251,767,278"/>
+<area shape="rect" id="node3" href="$softfloat_8cpp.html#a497f4f04b022dd7d299b95cd8adc196a" title="float64_add" alt="" coords="839,201,937,227"/>
+<area shape="rect" id="node7" href="$softfloat_8cpp.html#a561a16e2e3ebe6c7a99df532a5c57677" title="float64_sub" alt="" coords="839,251,937,278"/>
+<area shape="rect" id="node4" href="$timesoftfloat_8c.html#ad724a005a1472cbe8c112bf515680fb2" title="timeFunctionVariety" alt="" coords="1005,353,1157,379"/>
+<area shape="rect" id="node5" href="$timesoftfloat_8c.html#ab44bbfaf0c16ec012ced8c032ba64615" title="timeFunction" alt="" coords="1205,353,1312,379"/>
+<area shape="rect" id="node6" href="$timesoftfloat_8c.html#a5ea466849f21e6c2be4ef9b2eb8868d3" title="main" alt="" coords="1360,353,1415,379"/>
+<area shape="rect" id="node16" href="$softfloat_8cpp.html#a75b8b93559645f6e325087170dc713d6" title="normalizeRoundAndPackFloat64" alt="" coords="365,353,596,379"/>
+<area shape="rect" id="node19" href="$softfloat_8cpp.html#a641a53827dff86c7b784aee921d979c9" title="float64_sqrt" alt="" coords="658,302,757,329"/>
+<area shape="rect" id="node17" href="$softfloat_8cpp.html#a2f623f73ae4814e8b7580cee3bc4c24c" title="float64_rem" alt="" coords="838,353,938,379"/>
+</map>

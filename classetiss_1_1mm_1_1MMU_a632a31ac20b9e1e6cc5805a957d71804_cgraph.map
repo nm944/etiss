@@ -1,0 +1,23 @@
+<map id="etiss::mm::MMU::~MMU" name="etiss::mm::MMU::~MMU">
+<area shape="rect" id="node2" href="$classetiss_1_1mm_1_1MMU.html#aa216e9b0176d5618f89875f6ed0b7882" title="Keep a record of mapping between cached PTE with its physical address. " alt="" coords="232,5,477,32"/>
+<area shape="rect" id="node3" href="$classetiss_1_1mm_1_1MMU.html#a273ddd19e3796455e70cc7e61984659c" title="MMU is enabled in certain mode. " alt="" coords="525,53,800,80"/>
+<area shape="rect" id="node4" href="$classetiss_1_1mm_1_1MMU.html#a8261bd94e8b5370779a1fe67f3014ac4" title="Memory protection is architecture&#45;dependent, which should be implemented with architecture model..." alt="" coords="542,104,783,131"/>
+<area shape="rect" id="node5" href="$classetiss_1_1mm_1_1MMU.html#ae8522e93f54efc4c3ee89cd54e567562" title="Dump the details of the MMU, when page fault cannot be handled. " alt="" coords="575,155,750,181"/>
+<area shape="rect" id="node6" href="$classetiss_1_1mm_1_1MMU.html#ae26a6aa651456d52efc5c021b7e82b44" title="Initialize the MMU, when DMMUWrapper is wrapping the MMU. " alt="" coords="277,388,433,415"/>
+<area shape="rect" id="node11" href="$classetiss_1_1mm_1_1MMU.html#a3c0402ae45e53144a0f227822d877156" title="Whenever the MMU control register changes, the MMU has to be notified with the updated control regist..." alt="" coords="251,505,458,532"/>
+<area shape="rect" id="node15" href="$classetiss_1_1mm_1_1MMU.html#ad037264296f22dfa51f99887e27fb14e" title="Conduct the actual translation according to the format set by PTEFormatBuilder. " alt="" coords="257,212,452,239"/>
+<area shape="rect" id="node7" href="$classetiss_1_1mm_1_1MMU.html#a31834554e8184a41c4bb4944291ca304" title="Page table walking is required to translate virtual address to physical address if TLB miss occurs..." alt="" coords="563,439,762,481"/>
+<area shape="rect" id="node8" href="$namespaceetiss.html#afd320e98bf6a5e2c0d8ffde5dd28dd35" title="write log message at the given level. " alt="" coords="622,388,703,415"/>
+<area shape="rect" id="node9" href="$namespaceetiss.html#a5d23a51a17c09f1b863c601d4454f99b" title="conversion of type T to std::string. " alt="" coords="875,388,987,415"/>
+<area shape="rect" id="node10" href="$namespaceetiss.html#a160483ffeeb252cc1140206d2248c3a9" title="etiss::split" alt="" coords="1061,388,1151,415"/>
+<area shape="rect" id="node12" href="$classetiss_1_1mm_1_1MMU.html#a2bc4d791f01ba016b2791199d4a1468e" title="etiss::mm::MMU::GetName" alt="" coords="564,505,761,532"/>
+<area shape="rect" id="node13" href="$classetiss_1_1mm_1_1MMU.html#a663ad2edb84332e9d0ccf4d02e84c8c5" title="etiss::mm::MMU::UpdatePid" alt="" coords="561,556,764,583"/>
+<area shape="rect" id="node14" href="$classetiss_1_1mm_1_1MMU.html#a2545200a9de678bdadfe8fcc6454cb0f" title="etiss::mm::MMU::GetPid" alt="" coords="573,607,752,633"/>
+<area shape="rect" id="node16" href="$classetiss_1_1mm_1_1PTEFormat.html#a44f08a1ac748d09952051195e0899e63" title="Get the singleton instance. " alt="" coords="580,206,745,247"/>
+<area shape="rect" id="node21" href="$classetiss_1_1mm_1_1PTEFormat.html#ad0ab182aeac397dcdfd73cc5d7a11307" title="etiss::mm::PTEFormat\l::GetFormatMap" alt="" coords="580,271,745,313"/>
+<area shape="rect" id="node22" href="$classetiss_1_1mm_1_1MMU.html#a94bd0d53c264b0245dc1ec796bc6463d" title="Reserved for some MMU that might update PTE when translating. " alt="" coords="543,337,783,364"/>
+<area shape="rect" id="node17" href="$classetiss_1_1mm_1_1PTEFormat.html#ae068b0618e664a789fbfbef7b0d869d9" title="etiss::mm::PTEFormat\l::PTEFormat" alt="" coords="848,297,1013,338"/>
+<area shape="rect" id="node18" href="$classetiss_1_1mm_1_1PTEFormat.html#acbb356482250e978607fcb6d2cac4f77" title="Called only by PTEFormatBuilder. " alt="" coords="848,101,1013,142"/>
+<area shape="rect" id="node19" href="$classetiss_1_1mm_1_1PTEFormat.html#a8cabc1d094da0382f3d410a11b5cbffe" title="Dump the details of the bit field according to given name. " alt="" coords="848,166,1013,207"/>
+<area shape="rect" id="node20" href="$classetiss_1_1mm_1_1PTEFormat.html#ab7d053f95c4c15824799929347fb3e84" title="Dump the details of the whole PTE format. " alt="" coords="848,231,1013,273"/>
+</map>

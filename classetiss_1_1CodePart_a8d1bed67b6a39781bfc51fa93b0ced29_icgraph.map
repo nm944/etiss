@@ -1,0 +1,5 @@
+<map id="etiss::CodePart::getAffectedRegisters" name="etiss::CodePart::getAffectedRegisters">
+<area shape="rect" id="node2" href="$CPUArch_8cpp.html#a3dade4e78decdde1d782af7443dbe5eb" title="CPUArch_finalizeInstrSet" alt="" coords="268,13,451,39"/>
+<area shape="rect" id="node4" href="$classetiss_1_1DataSheetAccurateTiming.html#a31c30a45640628d306ca96b1fcc65cb9" title="simple template function that adds the given number of cycles to the cpu time if the related rule mat..." alt="" coords="256,64,463,105"/>
+<area shape="rect" id="node3" href="$classetiss_1_1CPUArch.html#af58f087b803dd678dd5b7700d92cadc4" title="the default behavior of this function of a cpu arch is to add &quot;cpu&#45;&gt;cpuTime_ps += cpu&#45;&gt;cpuCycleTime_p..." alt="" coords="511,5,683,47"/>
+</map>

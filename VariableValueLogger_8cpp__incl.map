@@ -1,0 +1,32 @@
+<map id="/home/travis/build/tum&#45;ei&#45;eda/etiss/src/IntegratedLibrary/VariableValueLogger.cpp" name="/home/travis/build/tum&#45;ei&#45;eda/etiss/src/IntegratedLibrary/VariableValueLogger.cpp">
+<area shape="rect" id="node2" href="$VariableValueLogger_8h.html" title="etiss/IntegratedLibrary\l/VariableValueLogger.h" alt="" coords="759,497,929,539"/>
+<area shape="rect" id="node24" href="$CPUCore_8h.html" title="defines main cpu core interface " alt="" coords="1922,124,2049,151"/>
+<area shape="rect" id="node28" href="$Instruction_8h.html" title="contains container classes to store instruction definitions + translation functions and build a trans..." alt="" coords="1223,587,1361,613"/>
+<area shape="rect" id="node3" href="$Plugin_8h.html" title="plugins for extensions to code translation and instruction execution " alt="" coords="913,587,1023,613"/>
+<area shape="rect" id="node6" href="$ClassDefs_8h.html" title="etiss/ClassDefs.h" alt="" coords="2945,825,3079,852"/>
+<area shape="rect" id="node7" href="$CPU_8h.html" title="contains the basic cpu state structure with a instruction pointer and time parameters. " alt="" coords="539,751,653,777"/>
+<area shape="rect" id="node10" href="$c_2etiss_2jit_2System_8h.html" title="contains an interface for time synchronization and memory access " alt="" coords="434,669,569,695"/>
+<area shape="rect" id="node11" href="$CodePart_8h.html" title="classes to hold code and additional information used for optimization of instruction translations ..." alt="" coords="1735,669,1862,695"/>
+<area shape="rect" id="node8" href="$types_8h.html" title="type declarations for etiss and definition of the likely/unlikely macros. " alt="" coords="1231,825,1353,852"/>
+<area shape="rect" id="node17" href="$Misc_8h.html" title="general configuration and logging " alt="" coords="2439,751,2537,777"/>
+<area shape="rect" id="node22" href="$config_8h.html" title="contains defines to configure ETISS. " alt="" coords="2813,825,2921,852"/>
+<area shape="rect" id="node25" href="$LibraryInterface_8h.html" title="class for simple library access. " alt="" coords="2405,348,2577,375"/>
+<area shape="rect" id="node27" href="$CPUArch_8h.html" title="contains neccesary interfaces for instruction translation. " alt="" coords="1612,423,1737,449"/>
+<area shape="rect" id="node38" href="$ReturnCode_8h.html" title="contains exception/return codes used to control execution of an etiss::CPUCore " alt="" coords="319,587,481,613"/>
+<area shape="rect" id="node39" href="$MMU_8h.html" title="Modeling hardware memory management for virtual memory &#45;&gt; physical memory translation and protection..." alt="" coords="1233,505,1364,531"/>
+<area shape="rect" id="node41" href="$PageFaultVector_8h.html" title="Internal fault inside MMU and. " alt="" coords="94,587,295,613"/>
+<area shape="rect" id="node43" href="$JIT_8h.html" title="JIT compiler interface definition. " alt="" coords="2295,423,2377,449"/>
+<area shape="rect" id="node45" href="$Translation_8h.html" title="etiss/Translation.h" alt="" coords="1713,348,1853,375"/>
+<area shape="rect" id="node47" href="$etiss_2System_8h.html" title="conatins a convinience class that can be wrapped as a ETISS_System structure " alt="" coords="463,505,582,531"/>
+<area shape="rect" id="node48" href="$InterruptHandler_8h.html" title="interrupt checking and signaling " alt="" coords="2983,273,3158,300"/>
+<area shape="rect" id="node49" href="$DMMUWrapper_8h.html" title="Wrapper class to wrap aroud data MMU. " alt="" coords="1004,199,1199,225"/>
+<area shape="rect" id="node44" href="$pluginexport_8h.html" title="etiss/pluginexport.h" alt="" coords="2554,423,2705,449"/>
+<area shape="rect" id="node33" href="$GDBCore_8h.html" title="etiss/IntegratedLibrary\l/gdb/GDBCore.h" alt="" coords="1439,661,1609,703"/>
+<area shape="rect" id="node34" href="$InterruptVector_8h.html" title="defines a general interface to set interrupt bits " alt="" coords="2692,669,2857,695"/>
+<area shape="rect" id="node35" href="$VirtualStruct_8h.html" title="etiss/VirtualStruct.h" alt="" coords="1863,505,2014,531"/>
+<area shape="rect" id="node36" href="$CVirtualStruct_8h.html" title="etiss/CVirtualStruct.h" alt="" coords="2103,751,2262,777"/>
+<area shape="rect" id="node37" href="$Injector_8h.html" title="contains the fault injector interface class. " alt="" coords="1047,587,1198,613"/>
+<area shape="rect" id="node40" href="$PTE_8h.html" title="etiss/mm/PTE.h" alt="" coords="1937,669,2060,695"/>
+<area shape="rect" id="node42" href="$TLB_8h.html" title="Modeling Tranlation Look&#45;up Table (TLB) " alt="" coords="1513,587,1636,613"/>
+<area shape="rect" id="node50" href="$ETISS_8h.html" title="Header file of the ETISS library. " alt="" coords="2154,273,2259,300"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="etiss::plugin::gdb::Server::execute" name="etiss::plugin::gdb::Server::execute">
+<area shape="rect" id="node2" href="$classetiss_1_1plugin_1_1gdb_1_1Server.html#ae641aef3a8187459a89c40a473d6ab0a" title="etiss::plugin::gdb\l::Server::handlePacket" alt="" coords="187,548,353,589"/>
+<area shape="rect" id="node3" href="$classetiss_1_1plugin_1_1gdb_1_1PacketProtocol.html#a7ebfd4afe2d4d7f708c86468a48bc6ae" title="etiss::plugin::gdb\l::PacketProtocol::available" alt="" coords="691,216,885,257"/>
+<area shape="rect" id="node12" href="$namespaceetiss_1_1plugin_1_1gdb_1_1hex.html#a0bfff49b4e28c7cbdd30e196f0308a56" title="converts 2 hex characters to a byte " alt="" coords="1494,5,1627,47"/>
+<area shape="rect" id="node13" href="$namespaceetiss_1_1plugin_1_1gdb_1_1hex.html#ac7090e6054a3b3c729c8f64d15e0df86" title="convert a character to the hex value it represents(0&#45;15) " alt="" coords="1712,180,1845,221"/>
+<area shape="rect" id="node14" href="$classetiss_1_1plugin_1_1gdb_1_1PacketProtocol.html#a197b158da05621146982c6275867b063" title="etiss::plugin::gdb\l::PacketProtocol::snd" alt="" coords="955,253,1113,295"/>
+<area shape="rect" id="node15" href="$namespaceetiss_1_1plugin_1_1gdb_1_1hex.html#a199aa405e76330d38089639790c11a7d" title="converts a byte to a hex string (without &quot;0x&quot; prefix); " alt="" coords="1229,568,1363,609"/>
+<area shape="rect" id="node18" href="$classetiss_1_1plugin_1_1gdb_1_1PacketProtocol.html#a47a5284b39fbee7259d6d55163e400aa" title="etiss::plugin::gdb\l::PacketProtocol::rcv" alt="" coords="445,245,599,287"/>
+<area shape="rect" id="node19" href="$classetiss_1_1CPUArch.html#a73e73070b3ea20e320166eca643bd295" title="returns arch dependent gdb functions. " alt="" coords="419,463,625,490"/>
+<area shape="rect" id="node20" href="$classetiss_1_1plugin_1_1gdb_1_1GDBCore.html#ac25bd672584aee82dceb420a273ff0f5" title="returns the number of registers in the gdb defined register list " alt="" coords="401,515,643,556"/>
+<area shape="rect" id="node21" href="$classetiss_1_1plugin_1_1gdb_1_1GDBCore.html#ac302dbbd9e73ef8e13f1d02aecb5c1dd" title="the returned string identifies the register at the given index as defined by gdb. ..." alt="" coords="433,580,611,621"/>
+<area shape="rect" id="node22" href="$classetiss_1_1CPUCore.html#ade229c2b8c8c3f0eddeea217799151fc" title="Get the virtual structure of this CPUCore instance. " alt="" coords="429,646,615,673"/>
+<area shape="rect" id="node23" href="$namespaceetiss.html#afd320e98bf6a5e2c0d8ffde5dd28dd35" title="write log message at the given level. " alt="" coords="481,697,563,723"/>
+<area shape="rect" id="node26" href="$namespaceetiss_1_1plugin_1_1gdb_1_1hex.html#ac7117e41ba49c8e349b0a3efe6e45c88" title="converts an integer type variable to a hexadecimal representation with the given endianness ..." alt="" coords="721,740,855,781"/>
+<area shape="rect" id="node27" href="$classetiss_1_1plugin_1_1gdb_1_1GDBCore.html#af6d2c2e9240b8a3bfd8322e643b86f57" title="returns true if the values are expected to be little endian " alt="" coords="429,799,615,840"/>
+<area shape="rect" id="node28" href="$namespaceetiss_1_1plugin_1_1gdb_1_1hex.html#ab37231e41456f4a9f7f5abfd439c2b97" title="converts a sequence of bytes to a representing hex string (without &quot;0x&quot; prefix) " alt="" coords="721,831,855,872"/>
+<area shape="rect" id="node29" href="$classetiss_1_1plugin_1_1gdb_1_1BreakpointDB.html#aba403f51f2daaa143c5bb180445469cc" title="etiss::plugin::gdb\l::BreakpointDB::get" alt="" coords="447,916,597,957"/>
+<area shape="rect" id="node30" href="$classetiss_1_1plugin_1_1gdb_1_1BreakpointDB.html#a999e2e1978ab761d79e3c7709aa25fd1" title="etiss::plugin::gdb\l::BreakpointDB::set" alt="" coords="448,981,596,1023"/>
+<area shape="rect" id="node4" href="$classetiss_1_1plugin_1_1gdb_1_1PacketProtocol.html#aa4855c1c4e0dbdb68cf32f459094b5a1" title="etiss::plugin::gdb\l::PacketProtocol::_available" alt="" coords="933,159,1135,200"/>
+<area shape="rect" id="node5" href="$classetiss_1_1plugin_1_1gdb_1_1Connection.html#ad615c9946953781d332bc2eb73aa58fe" title="etiss::plugin::gdb\l::Connection::available" alt="" coords="1211,129,1381,171"/>
+<area shape="rect" id="node6" href="$classetiss_1_1plugin_1_1gdb_1_1Connection.html#ac711c912da2f2c5e62a95bf3ab161cfd" title="etiss::plugin::gdb\l::Connection::rcv" alt="" coords="1229,195,1363,236"/>
+<area shape="rect" id="node7" href="$classetiss_1_1plugin_1_1gdb_1_1PacketProtocol.html#a9bfacf5954fabcf35438d3ba5b160540" title="etiss::plugin::gdb\l::PacketProtocol::tryReadPacket" alt="" coords="1183,64,1409,105"/>
+<area shape="rect" id="node8" href="$classetiss_1_1plugin_1_1gdb_1_1Connection.html#a88e86354ac91b1743cb2ae776b05861c" title="etiss::plugin::gdb\l::Connection::clearBREAK" alt="" coords="1467,71,1654,112"/>
+<area shape="rect" id="node9" href="$GDBConnection_8cpp.html#a6572eb9068c6f29e6607f55e35d4daf0" title="PacketProtocol_findUE" alt="" coords="1477,213,1644,239"/>
+<area shape="rect" id="node10" href="$classetiss_1_1plugin_1_1gdb_1_1Connection.html#abab97df0e7b431c1c4d3ee9234c8d0e8" title="etiss::plugin::gdb\l::Connection::pendingBREAK" alt="" coords="1457,136,1664,177"/>
+<area shape="rect" id="node11" href="$classetiss_1_1plugin_1_1gdb_1_1Connection.html#aeaba2fdc2a059e2f6db8b11619e9e92a" title="etiss::plugin::gdb\l::Connection::snd" alt="" coords="1493,285,1628,327"/>
+<area shape="rect" id="node17" href="$GDBConnection_8cpp.html#aa038d1d4b0f985e4bfda1fbf4b4bf2c7" title="PacketProtocol_findResponse" alt="" coords="1191,261,1401,287"/>
+<area shape="rect" id="node16" href="$namespaceetiss_1_1plugin_1_1gdb_1_1hex.html#af65b0fb98ddba08fe3943a809f17c1b3" title="converts the lower 4 bits to a representing char " alt="" coords="1494,680,1627,721"/>
+<area shape="rect" id="node24" href="$namespaceetiss.html#a5d23a51a17c09f1b863c601d4454f99b" title="conversion of type T to std::string. " alt="" coords="732,689,844,715"/>
+<area shape="rect" id="node25" href="$namespaceetiss.html#a160483ffeeb252cc1140206d2248c3a9" title="etiss::split" alt="" coords="989,689,1079,715"/>
+</map>

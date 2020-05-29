@@ -1,0 +1,13 @@
+<map id="etiss::DataSheetAccurateTiming::DataSheetAccurateTiming" name="etiss::DataSheetAccurateTiming::DataSheetAccurateTiming">
+<area shape="rect" id="node2" href="$classetiss_1_1DataSheetAccurateTiming.html#abc359d5ffc24fc4f19cc1a075dd90e46" title="terminates recursion " alt="" coords="333,100,520,141"/>
+<area shape="rect" id="node3" href="$classetiss_1_1DataSheetAccurateTiming.html#a380719b9dd4b78acd21197f80592d6fe" title="performs lookups for instructions that are in the modded instruction set to add timing code (e..." alt="" coords="333,165,520,207"/>
+<area shape="rect" id="node12" href="$classetiss_1_1DataSheetAccurateTiming.html#af7c7604fc6c12138b87d46167be7ee51" title="etiss::DataSheetAccurate\lTiming::~DataSheetAccurateTiming" alt="" coords="299,231,555,272"/>
+<area shape="rect" id="node4" href="$classetiss_1_1instr_1_1ModedInstructionSet.html#af8636c25ce8ff3a086b8a89e54caae78" title="etiss::instr::ModedInstruction\lSet::foreach" alt="" coords="607,5,818,47"/>
+<area shape="rect" id="node5" href="$classetiss_1_1instr_1_1VariableInstructionSet.html#a1a6f5b6c0e65baa4a8195698a90268a3" title="etiss::instr::VariableInstruction\lSet::foreach" alt="" coords="603,71,823,112"/>
+<area shape="rect" id="node6" href="$classetiss_1_1instr_1_1InstructionSet.html#ada98ad74dd9067c09f9d339cdb23fd56" title="etiss::instr::Instruction\lSet::foreach" alt="" coords="629,136,796,177"/>
+<area shape="rect" id="node7" href="$namespaceetiss.html#afd320e98bf6a5e2c0d8ffde5dd28dd35" title="write log message at the given level. " alt="" coords="871,173,952,199"/>
+<area shape="rect" id="node10" href="$classetiss_1_1instr_1_1ModedInstructionSet.html#aa69531ea12e7d9d96bfe71e6f9cd0661" title="etiss::instr::ModedInstruction\lSet::getMode" alt="" coords="607,253,818,295"/>
+<area shape="rect" id="node11" href="$classetiss_1_1DataSheetAccurateTiming.html#a319f3364c47e300ae06f1dd17d0a155a" title="etiss::DataSheetAccurate\lTiming::_getPluginName" alt="" coords="619,319,806,360"/>
+<area shape="rect" id="node8" href="$namespaceetiss.html#a5d23a51a17c09f1b863c601d4454f99b" title="conversion of type T to std::string. " alt="" coords="1000,173,1112,199"/>
+<area shape="rect" id="node9" href="$namespaceetiss.html#a160483ffeeb252cc1140206d2248c3a9" title="etiss::split" alt="" coords="1160,173,1249,199"/>
+</map>

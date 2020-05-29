@@ -1,0 +1,6 @@
+<map id="convert_buffer_output" name="convert_buffer_output">
+<area shape="rect" id="node2" href="$pugixml_8cpp.html#a313a9165f1ab0bafc9cdae5e95a7a27f" title="convert_utf_endian_swap" alt="" coords="219,5,407,32"/>
+<area shape="rect" id="node4" href="$structutf__decoder.html#a671829bbdba1eac5c8bd2bf781eae498" title="utf_decoder::decode\l_utf8_block" alt="" coords="235,57,390,98"/>
+<area shape="rect" id="node5" href="$pugixml_8cpp.html#a282e2854710450f313ea03bb59a8f681" title="is_little_endian" alt="" coords="252,123,373,149"/>
+<area shape="rect" id="node3" href="$pugixml_8cpp.html#a6d31b21cfa4167d79865a7797b33f3f1" title="endian_swap" alt="" coords="455,5,561,32"/>
+</map>

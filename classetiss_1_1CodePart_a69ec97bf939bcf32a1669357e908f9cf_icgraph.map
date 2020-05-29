@@ -1,0 +1,4 @@
+<map id="etiss::CodePart::getRegisterDependencies" name="etiss::CodePart::getRegisterDependencies">
+<area shape="rect" id="node2" href="$classetiss_1_1plugin_1_1InstructionAccurateCallback.html#a8e2f99eab05454fe3f848b8a2449338c" title="called after all instructions have been added to allow last changes " alt="" coords="255,5,495,47"/>
+<area shape="rect" id="node3" href="$classetiss_1_1plugin_1_1VariableValueLogger.html#ae78ddff9a4e6c535823404e79accdeb6" title="called after all instructions have been added to allow last changes " alt="" coords="275,71,474,112"/>
+</map>

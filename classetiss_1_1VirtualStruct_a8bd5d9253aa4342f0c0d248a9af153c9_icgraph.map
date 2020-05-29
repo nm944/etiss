@@ -1,0 +1,5 @@
+<map id="etiss::VirtualStruct::close" name="etiss::VirtualStruct::close">
+<area shape="rect" id="node2" href="$classetiss_1_1VirtualStruct.html#a2fde71f095a261dee6d5f804a6c63d7b" title="etiss::VirtualStruct\l::addField" alt="" coords="196,5,339,47"/>
+<area shape="rect" id="node3" href="$classetiss_1_1VirtualStruct.html#a51d06c5f5f91caec3eff06ec0c742761" title="etiss::VirtualStruct\l::~VirtualStruct" alt="" coords="196,71,339,112"/>
+<area shape="rect" id="node4" href="$classetiss_1_1VirtualStruct_1_1FieldT.html#a279663d1798371f57a09b331af9a2378" title="override this function to implement writes in case of AccessMode::VIRTUAL / AccessMode::PREFER_LAMBDA..." alt="" coords="387,71,529,112"/>
+</map>

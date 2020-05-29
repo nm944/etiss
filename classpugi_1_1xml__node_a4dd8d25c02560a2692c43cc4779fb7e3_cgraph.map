@@ -1,0 +1,14 @@
+<map id="pugi::xml_node::insert_child_after" name="pugi::xml_node::insert_child_after">
+<area shape="rect" id="node2" href="$pugixml_8cpp.html#a6e4b9f37c4ab9fb598758530d69d8611" title="allocate_node" alt="" coords="261,13,374,39"/>
+<area shape="rect" id="node4" href="$pugixml_8cpp.html#a9a76bd4417ac5f4778004bbd1658175e" title="allow_insert_child" alt="" coords="248,63,387,90"/>
+<area shape="rect" id="node5" href="$pugixml_8cpp.html#ab194763af6dca2d07ad5139dc2a75f60" title="get_allocator" alt="" coords="264,114,371,141"/>
+<area shape="rect" id="node6" href="$classpugi_1_1xml__node.html#a9d688489fcf0960e945a12480419e434" title="pugi::xml_node::set_name" alt="" coords="220,215,415,242"/>
+<area shape="rect" id="node7" href="$classpugi_1_1xml__node.html#a17bce1b9f774f2fa56dace3537195a24" title="pugi::xml_node::type" alt="" coords="469,165,627,191"/>
+<area shape="rect" id="node13" href="$classpugi_1_1xml__node.html#a36ec0eb8b399d71f6b55be0e181c69f9" title="pugi::xml_node::xml_node" alt="" coords="220,266,415,293"/>
+<area shape="rect" id="node3" href="$structxml__allocator.html#afac0b9fac2c2962972f60d0346eb4f39" title="xml_allocator::allocate\l_memory" alt="" coords="463,5,633,47"/>
+<area shape="rect" id="node8" href="$pugixml_8cpp.html#ab9527027631039c4e2361e30f2c0788e" title="strcpy_insitu" alt="" coords="495,215,601,242"/>
+<area shape="rect" id="node9" href="$structxml__allocator.html#ac5ec2b5d41672d6494a2742e95e525b3" title="xml_allocator::allocate\l_string" alt="" coords="689,113,860,155"/>
+<area shape="rect" id="node10" href="$structxml__allocator.html#af32c538db4d562c2d0bfe15f7c0aa879" title="xml_allocator::deallocate\l_string" alt="" coords="681,179,868,220"/>
+<area shape="rect" id="node11" href="$pugixml_8cpp.html#a230775a8b2b7883f8dffc32b550a267c" title="strcpy_insitu_allow" alt="" coords="701,245,848,271"/>
+<area shape="rect" id="node12" href="$pugixml_8cpp.html#aab9e1f034d085b663d146fcceabb1c48" title="strlength" alt="" coords="916,270,996,297"/>
+</map>

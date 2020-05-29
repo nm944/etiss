@@ -1,0 +1,17 @@
+<map id="etiss::plugin::InstructionSpecificAddressCallback::callbackAddresses" name="etiss::plugin::InstructionSpecificAddressCallback::callbackAddresses">
+<area shape="rect" id="node2" href="$classetiss_1_1plugin_1_1InstructionSpecificAddressCallback.html#a8527db259b4640d717723c9df1fd07b5" title="etiss::plugin::Instruction\lSpecificAddressCallback\l::_getPluginName" alt="" coords="233,133,413,189"/>
+<area shape="rect" id="node3" href="$classetiss_1_1plugin_1_1InstructionSpecificAddressCallback.html#a4cf95f9946c7c7507db79367d14024b9" title="called after all instructions have been added to allow last changes " alt="" coords="233,213,413,269"/>
+<area shape="rect" id="node13" href="$classetiss_1_1plugin_1_1InstructionSpecificAddressCallback.html#a70fe3f1f60a2a10bbe511076d9eec9ec" title="called to get the handle that is available in translated code via getPoinerCode(). [default: this] " alt="" coords="233,293,413,349"/>
+<area shape="rect" id="node14" href="$classetiss_1_1plugin_1_1InstructionSpecificAddressCallback.html#a296dc93b5c926a8bcf51aec3805bf406" title="called before instructions are translated for the code block " alt="" coords="233,435,413,491"/>
+<area shape="rect" id="node4" href="$classetiss_1_1instr_1_1ModedInstructionSet.html#af8636c25ce8ff3a086b8a89e54caae78" title="etiss::instr::ModedInstruction\lSet::foreach" alt="" coords="488,5,699,47"/>
+<area shape="rect" id="node5" href="$classetiss_1_1instr_1_1VariableInstructionSet.html#a1a6f5b6c0e65baa4a8195698a90268a3" title="etiss::instr::VariableInstruction\lSet::foreach" alt="" coords="483,71,703,112"/>
+<area shape="rect" id="node6" href="$classetiss_1_1instr_1_1Instruction.html#a1ce37a20ceb4ee8e5cdfbc606e83c0ae" title="etiss::instr::Instruction\l::addCallback" alt="" coords="510,136,677,177"/>
+<area shape="rect" id="node8" href="$namespaceetiss.html#a5d23a51a17c09f1b863c601d4454f99b" title="conversion of type T to std::string. " alt="" coords="903,202,1015,229"/>
+<area shape="rect" id="node10" href="$classetiss_1_1TranslationPlugin.html#a6ba6e1b9951a3ed6fed50bfb7686e19c" title="returns a C code expression that allows to get or assign a pointer to the variable assigned to this t..." alt="" coords="507,384,679,425"/>
+<area shape="rect" id="node11" href="$classetiss_1_1CodeSet.html#a7236f0032933e60e6d9671d155da209d" title="etiss::CodeSet::append" alt="" coords="508,253,679,279"/>
+<area shape="rect" id="node12" href="$classetiss_1_1plugin_1_1InstructionSpecificAddressCallback.html#ac5b0a8869d66465e6a1c415463cb943c" title="implement to return true to call InstructionSpecificAddressCallback::callback whenever that etiss::in..." alt="" coords="503,303,683,359"/>
+<area shape="rect" id="node7" href="$namespaceetiss.html#afd320e98bf6a5e2c0d8ffde5dd28dd35" title="write log message at the given level. " alt="" coords="773,147,855,174"/>
+<area shape="rect" id="node9" href="$namespaceetiss.html#a160483ffeeb252cc1140206d2248c3a9" title="etiss::split" alt="" coords="1063,202,1152,229"/>
+<area shape="rect" id="node15" href="$classetiss_1_1CodeBlock.html#aae4da5d613aef29d68602ff28f0066d5" title="etiss::CodeBlock::fileglobalCode" alt="" coords="478,501,709,527"/>
+<area shape="rect" id="node16" href="$classetiss_1_1CodeBlock.html#a7c33557d0ddc090ae829375e0828bf54" title="etiss::CodeBlock::functionglobalCode" alt="" coords="461,551,725,578"/>
+</map>

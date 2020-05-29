@@ -1,0 +1,26 @@
+<map id="ETISS_GDBSystem" name="ETISS_GDBSystem">
+<area shape="rect" id="node2" href="$classetiss_1_1plugin_1_1gdb_1_1Server.html" title="gdb server implementation that is used as a plugin in etiss " alt="" coords="1908,637,2041,679"/>
+<area shape="rect" id="node3" href="$classetiss_1_1CoroutinePlugin.html" title="this plugin will be called before a block is executed. " alt="" coords="393,898,557,925"/>
+<area shape="rect" id="node4" href="$classetiss_1_1Plugin.html" title="base plugin class that provides access to different plugin functions if present " alt="" coords="763,863,864,890"/>
+<area shape="rect" id="node6" href="$classetiss_1_1InterruptListenerPlugin.html" title="etiss::InterruptListener\lPlugin" alt="" coords="1075,1012,1244,1053"/>
+<area shape="rect" id="node11" href="$classetiss_1_1RegisterDevicePlugin.html" title="RegisterDevicePlugin::changedRegister is called if a supported register has been changed. " alt="" coords="1060,809,1259,835"/>
+<area shape="rect" id="node16" href="$classetiss_1_1TranslationPlugin.html" title="allows to add code to the translation of instructions " alt="" coords="1073,910,1245,937"/>
+<area shape="rect" id="node38" href="$classetiss_1_1SystemWrapperPlugin.html" title="this plugin allows to wrap the ETISS_System interface " alt="" coords="1057,578,1261,605"/>
+<area shape="rect" id="node5" href="$classetiss_1_1ToString.html" title="Marker interface for toString() support. " alt="" coords="419,1286,532,1313"/>
+<area shape="rect" id="node21" href="$classetiss_1_1CPUCore.html" title="CPUCore is responsible for the simulation of a CPU core in ETISS. " alt="" coords="2251,1394,2369,1421"/>
+<area shape="rect" id="node7" href="$structETISS__CPU.html" title="basic cpu state structure needed for execution of any cpu architecture. " alt="" coords="429,595,521,622"/>
+<area shape="rect" id="node39" href="$structETISS__System.html" title="memory access and time synchronization functions. " alt="" coords="418,258,533,285"/>
+<area shape="rect" id="node12" href="$classetiss_1_1CPUArch.html" title="the interface to translate instructions of and processor architecture " alt="" coords="1571,789,1689,815"/>
+<area shape="rect" id="node13" href="$classetiss_1_1CPUArchRegListenerInterface.html" title="allows to inform plugins about changes to a register that is present in the cpu structure. " alt="" coords="1063,629,1256,671"/>
+<area shape="rect" id="node14" href="$classetiss_1_1CPUArchCPUManipulation.html" title="interface for cpu structure access. " alt="" coords="1045,695,1273,722"/>
+<area shape="rect" id="node15" href="$classetiss_1_1CPUArchDefaultPlugins.html" title="provides common basic plugins " alt="" coords="1053,859,1265,886"/>
+<area shape="rect" id="node17" title="STL class. " alt="" coords="432,1399,519,1426"/>
+<area shape="rect" id="node47" href="$classetiss_1_1plugin_1_1gdb_1_1PacketProtocol.html" title="implements gdb&#39;s packet protocol " alt="" coords="1563,1765,1697,1807"/>
+<area shape="rect" id="node18" title="STL class. " alt="" coords="29,1587,168,1628"/>
+<area shape="rect" id="node19" href="$classetiss_1_1plugin_1_1gdb_1_1GDBCore.html" title="provides to architecture dependent registers as defined by gdb " alt="" coords="888,1120,1021,1161"/>
+<area shape="rect" id="node23" href="$classetiss_1_1CPUCore_1_1InterruptVectorWrapper.html" title="etiss::CPUCore::Interrupt\lVectorWrapper" alt="" coords="1883,1388,2066,1429"/>
+<area shape="rect" id="node22" href="$classetiss_1_1VirtualStructSupport.html" title="etiss::VirtualStructSupport" alt="" coords="1879,1933,2071,1959"/>
+<area shape="rect" id="node24" href="$classetiss_1_1InterruptVector.html" title="interface to set interrupt bits " alt="" coords="1551,1651,1709,1678"/>
+<area shape="rect" id="node48" href="$classetiss_1_1plugin_1_1gdb_1_1Connection.html" title="interface for gdb connections. " alt="" coords="1908,1749,2041,1791"/>
+<area shape="rect" id="node45" href="$classetiss_1_1plugin_1_1gdb_1_1BreakpointDB.html" title="structure to store breakpoints " alt="" coords="1563,461,1697,503"/>
+</map>

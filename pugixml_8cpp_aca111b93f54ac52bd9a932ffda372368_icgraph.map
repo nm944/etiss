@@ -1,0 +1,14 @@
+<map id="xpath_first" name="xpath_first">
+<area shape="rect" id="node2" href="$classpugi_1_1xpath__node__set.html#a9fcda507a65af61e2f45cdf96c791044" title="pugi::xpath_node_set\l::first" alt="" coords="144,73,305,114"/>
+<area shape="rect" id="node4" href="$classxpath__node__set__raw.html#a8d937c8fa5c9001a6e40e861686aa5b4" title="xpath_node_set_raw\l::first" alt="" coords="147,144,303,185"/>
+<area shape="rect" id="node3" href="$classpugi_1_1xml__node.html#aac0de03377bfdf2aede9ae36dbfd9bc5" title="pugi::xml_node::select\l_single_node" alt="" coords="353,66,523,108"/>
+<area shape="rect" id="node5" href="$classxpath__ast__node.html#a6b675237a590548b68d0e0b97518b6df" title="xpath_ast_node::eval\l_string" alt="" coords="357,156,519,197"/>
+<area shape="rect" id="node6" href="$classxpath__ast__node.html#a98dd7f6e67fe2c56c63056eed835d6a4" title="xpath_ast_node::compare_eq" alt="" coords="781,60,994,87"/>
+<area shape="rect" id="node7" href="$classxpath__ast__node.html#ab7f965a92023bc2704b8e6fd9f3d7c14" title="xpath_ast_node::eval\l_boolean" alt="" coords="571,66,732,108"/>
+<area shape="rect" id="node9" href="$classxpath__ast__node.html#a92dd7048e28d486bc7f382d1fc6f1de6" title="xpath_ast_node::eval\l_number" alt="" coords="571,156,732,197"/>
+<area shape="rect" id="node11" href="$classxpath__ast__node.html#aaf931a091af0fb91c25e90b205363b4e" title="xpath_ast_node::eval\l_string_concat" alt="" coords="571,221,732,262"/>
+<area shape="rect" id="node12" href="$pugixml_8cpp.html#a0ed220563fd15a1211ce33941feb6ae3" title="evaluate_string_impl" alt="" coords="572,287,731,314"/>
+<area shape="rect" id="node8" href="$classxpath__ast__node.html#afcefe6b386c214349c5e23f13828fa1e" title="xpath_ast_node::apply\l_predicate" alt="" coords="803,112,972,153"/>
+<area shape="rect" id="node10" href="$classxpath__ast__node.html#abb6e4c529276eaf882233dbb6e04e111" title="xpath_ast_node::compare_rel" alt="" coords="780,178,995,204"/>
+<area shape="rect" id="node13" href="$classpugi_1_1xpath__query.html#a05a2c50da5597a5b0ebc4f7f38d3abc3" title="pugi::xpath_query::\levaluate_string" alt="" coords="814,280,961,321"/>
+</map>

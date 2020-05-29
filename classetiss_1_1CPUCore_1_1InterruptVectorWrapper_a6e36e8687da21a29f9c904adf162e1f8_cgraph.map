@@ -1,0 +1,5 @@
+<map id="etiss::CPUCore::InterruptVectorWrapper::isActive" name="etiss::CPUCore::InterruptVectorWrapper::isActive">
+<area shape="rect" id="node2" href="$classetiss_1_1InterruptVector.html#a75040c52c54b43cc28fbc33d08503e2b" title="etiss::InterruptVector\l::isActive" alt="" coords="236,39,395,80"/>
+<area shape="rect" id="node3" href="$classetiss_1_1InterruptVector.html#a5f44a2501a466892484a03a96ef54356" title="number of interrupt bits " alt="" coords="443,5,601,47"/>
+<area shape="rect" id="node4" href="$classetiss_1_1InterruptVector.html#aa5a49db4de674b0b20931c77d20c4e79" title="get the bit of an interrupt line " alt="" coords="443,71,601,112"/>
+</map>

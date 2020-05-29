@@ -1,0 +1,10 @@
+<map id="etiss::VirtualStruct::allocate" name="etiss::VirtualStruct::allocate">
+<area shape="rect" id="node2" href="$classetiss_1_1VirtualStruct.html#a5a0731949b6bbfc10b4f09279f750ad9" title="implemented in CVirtualStruct.cpp " alt="" coords="196,51,339,92"/>
+<area shape="rect" id="node3" href="$classetiss_1_1VirtualStruct.html#a65961dbb30877d12bd953dd916b6af1c" title="etiss::VirtualStruct\l::root" alt="" coords="196,116,339,157"/>
+<area shape="rect" id="node4" href="$classetiss_1_1fault_1_1Injector.html#a90281d894c3bf4b5ec8a2a1f3416a8ed" title="etiss::fault::Injector::get" alt="" coords="387,123,564,150"/>
+<area shape="rect" id="node5" href="$classetiss_1_1fault_1_1InjectorAddress.html#aaf4c641ac7fbfcb801f6801ec18f2242" title="etiss::fault::InjectorAddress\l::getInjector" alt="" coords="612,116,812,157"/>
+<area shape="rect" id="node6" href="$classetiss_1_1fault_1_1Trigger.html#ae1730b98d49a46c286c4f58c504be330" title="etiss::fault::Trigger\l::operator=" alt="" coords="860,5,1003,47"/>
+<area shape="rect" id="node7" href="$classetiss_1_1fault_1_1Trigger.html#a1892b683e0239f78185a879955f4f80e" title="etiss::fault::Trigger\l::~Trigger" alt="" coords="860,71,1003,112"/>
+<area shape="rect" id="node8" href="$classetiss_1_1fault_1_1Trigger.html#a5740978553bccd11f09253c562e16921" title="this function checks if the Trigger has just fired. " alt="" coords="860,160,1003,201"/>
+<area shape="rect" id="node9" href="$classetiss_1_1fault_1_1Trigger.html#a508c1e1cc95921b2894c59a8233c9ac9" title="etiss::fault::Trigger\l::getInjector" alt="" coords="860,249,1003,291"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="etiss_loadIni" name="etiss_loadIni">
+<area shape="rect" id="node2" href="$ETISS_8cpp.html#ac76805eb9dfbd82116a3e7170ddee7fa" title="etiss_initialize" alt="" coords="161,181,277,207"/>
+<area shape="rect" id="node13" href="$classetiss_1_1Initializer.html#a6499c09834dd9e145312d0b0aa7c8f93" title="creates a simpleIni object which holds the data of the given .ini file. " alt="" coords="157,291,280,332"/>
+<area shape="rect" id="node3" href="$group__ETISS__Internals.html#ga371c5786faafe2084636cbc2d02d451d" title="Force the initialization of ETISS. " alt="" coords="328,74,503,101"/>
+<area shape="rect" id="node11" href="$group__ETISS__Frontend.html#ga7220e704fcd20f6d73a02c04bdbc9391" title="Initialize and configure ETISS. " alt="" coords="357,181,474,207"/>
+<area shape="rect" id="node4" href="$classetiss_1_1Initializer.html#a7940b5f19b53f6f7ad953469f7d264bd" title="Constructor that initializes ETISS. " alt="" coords="573,5,695,47"/>
+<area shape="rect" id="node5" href="$classetiss_1_1CPUCore.html#a804f3252302d7ae49f7918da2871f6ba" title="Create a CPUCore instance. " alt="" coords="551,71,717,98"/>
+<area shape="rect" id="node7" href="$group__ETISS__Frontend.html#gac9dbcc30c0d390f4b6ffe05257b32807" title="Add a LibraryInterface to the ETISS environment. " alt="" coords="569,122,699,149"/>
+<area shape="rect" id="node6" href="$classetiss_1_1CPUCore.html#a1c71eb651cad84875d76586287c2dd23" title="returns the list of all plugins. " alt="" coords="765,71,960,98"/>
+<area shape="rect" id="node8" href="$group__ETISS__Frontend.html#ga0f7e980b54452e20ed605353acc02e3b" title="Load a library. " alt="" coords="795,130,930,157"/>
+<area shape="rect" id="node9" href="$ETISSInit_8cpp.html#ac8defcb5621b0a06a2d74255ec5e0b84" title="Load libraries specified in a list.txt file. " alt="" coords="1008,130,1127,157"/>
+<area shape="rect" id="node10" href="$group__ETISS__Frontend.html#ga7be87103c95c5f1afbb967055fc7d83e" title="Search and try to load libraries. " alt="" coords="1175,181,1341,207"/>
+<area shape="rect" id="node12" href="$classetiss_1_1Initializer.html#a343675aa8ed683e826e1f43dd6eaf949" title="Constructor that initializes ETISS. " alt="" coords="573,173,695,215"/>
+<area shape="rect" id="node14" href="$classetiss_1_1Initializer.html#a6aba0cbbbb9150b6da2b53bce6869b00" title="Break condition for empty argument list. " alt="" coords="354,291,477,332"/>
+<area shape="rect" id="node15" href="$classetiss_1_1Initializer.html#a10964071f1f4662bd3c85c37e3bfbf21" title="Constructor that initializes ETISS. " alt="" coords="354,356,477,397"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="extractFloat64Frac" name="extractFloat64Frac">
+<area shape="rect" id="node2" href="$softfloat_8cpp.html#a9971e11c18299dd8c905763661528448" title="addFloat64Sigs" alt="" coords="221,5,342,32"/>
+<area shape="rect" id="node8" href="$softfloat_8cpp.html#ac13a8e8c481f037fef890453c0753d23" title="float64_div" alt="" coords="445,107,540,133"/>
+<area shape="rect" id="node9" href="$softfloat_8cpp.html#a7985f22e83042ee6036b9db748cd1d50" title="float64_eq" alt="" coords="447,157,538,184"/>
+<area shape="rect" id="node10" href="$softfloat_8cpp.html#a1de0b3d6c22e395d3edccee3cb626358" title="float64_eq_signaling" alt="" coords="415,208,571,235"/>
+<area shape="rect" id="node11" href="$softfloat_8cpp.html#a9ecfda98ec2fbbe5df973c87b6e992ee" title="float64_le" alt="" coords="449,259,536,285"/>
+<area shape="rect" id="node12" href="$softfloat_8cpp.html#af4094bc28bfc5086d337576ce615f8e9" title="float64_le_quiet" alt="" coords="429,309,556,336"/>
+<area shape="rect" id="node13" href="$softfloat_8cpp.html#a21cf583c342cb737d029f56558e22f09" title="float64_lt" alt="" coords="451,360,534,387"/>
+<area shape="rect" id="node14" href="$softfloat_8cpp.html#a2792db4499f61dbd145446c3d99490d3" title="float64_lt_quiet" alt="" coords="431,411,554,437"/>
+<area shape="rect" id="node15" href="$softfloat_8cpp.html#aa377ba26b92dea73c32f967ffd22f12d" title="float64_mul" alt="" coords="443,461,542,488"/>
+<area shape="rect" id="node16" href="$softfloat_8cpp.html#a2f623f73ae4814e8b7580cee3bc4c24c" title="float64_rem" alt="" coords="231,512,331,539"/>
+<area shape="rect" id="node17" href="$softfloat_8cpp.html#aba08561bb1fada6ca98f43901b3e0ab6" title="float64_round_to_int" alt="" coords="204,563,359,589"/>
+<area shape="rect" id="node18" href="$softfloat_8cpp.html#a641a53827dff86c7b784aee921d979c9" title="float64_sqrt" alt="" coords="232,613,331,640"/>
+<area shape="rect" id="node19" href="$softfloat_8cpp.html#a4291d8ce0ccf9a5c03adf61f2c1e3489" title="float64_to_float32" alt="" coords="212,664,351,691"/>
+<area shape="rect" id="node20" href="$softfloat_8cpp.html#a7ca4c7e4a169596eeb0d4d1e3eead3c1" title="float64_to_int32" alt="" coords="218,715,345,741"/>
+<area shape="rect" id="node21" href="$softfloat_8cpp.html#ad6263f734a7e7d16ff2f9ae46b6271c1" title="float64_to_int32_round\l_to_zero" alt="" coords="196,766,367,807"/>
+<area shape="rect" id="node22" href="$softfloat_8cpp.html#aaa7ea3a6f63740ef35ec15d48acc958c" title="float64_to_int64" alt="" coords="218,832,345,859"/>
+<area shape="rect" id="node23" href="$softfloat_8cpp.html#ab3941830a28cca30c2feefd6878e5ffe" title="float64_to_int64_round\l_to_zero" alt="" coords="196,883,367,925"/>
+<area shape="rect" id="node24" href="$softfloat_8cpp.html#a4c476f5231346ac08bc54812d2a06500" title="subFloat64Sigs" alt="" coords="221,56,341,83"/>
+<area shape="rect" id="node3" href="$softfloat_8cpp.html#a497f4f04b022dd7d299b95cd8adc196a" title="float64_add" alt="" coords="443,5,542,32"/>
+<area shape="rect" id="node7" href="$softfloat_8cpp.html#a561a16e2e3ebe6c7a99df532a5c57677" title="float64_sub" alt="" coords="444,56,541,83"/>
+<area shape="rect" id="node4" href="$timesoftfloat_8c.html#ad724a005a1472cbe8c112bf515680fb2" title="timeFunctionVariety" alt="" coords="619,436,771,463"/>
+<area shape="rect" id="node5" href="$timesoftfloat_8c.html#ab44bbfaf0c16ec012ced8c032ba64615" title="timeFunction" alt="" coords="819,436,925,463"/>
+<area shape="rect" id="node6" href="$timesoftfloat_8c.html#a5ea466849f21e6c2be4ef9b2eb8868d3" title="main" alt="" coords="973,436,1028,463"/>
+</map>
